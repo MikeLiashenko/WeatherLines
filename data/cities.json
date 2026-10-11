@@ -1,0 +1,13072 @@
+[
+{
+"uk": "Київ",
+"ru": "Киев",
+"en": "Kyiv",
+"lat": 50.45,
+"lon": 30.5241,
+"pop": 2952301,
+"place": "city",
+"region": "UA-30"
+},
+{
+"uk": "Харків",
+"ru": "Харьков",
+"en": "Kharkiv",
+"lat": 49.9923,
+"lon": 36.231,
+"pop": 1447652,
+"place": "city",
+"region": "UA-63"
+},
+{
+"uk": "Дніпро",
+"ru": "Днепр",
+"en": "Dnipro",
+"lat": 48.468,
+"lon": 35.0418,
+"pop": 1080486,
+"place": "city",
+"region": "UA-12"
+},
+{
+"uk": "Одеса",
+"ru": "Одесса",
+"en": "Odesa",
+"lat": 46.4843,
+"lon": 30.7323,
+"pop": 1008852,
+"place": "city",
+"region": "UA-51"
+},
+{
+"uk": "Донецьк",
+"ru": "Донецк",
+"en": "Donetsk",
+"lat": 48.0159,
+"lon": 37.8013,
+"pop": 929063,
+"place": "city",
+"region": "UA-14"
+},
+{
+"uk": "Львів",
+"ru": "Львов",
+"en": "Lviv",
+"lat": 49.842,
+"lon": 24.0316,
+"pop": 724822,
+"place": "city",
+"region": "UA-46"
+},
+{
+"uk": "Запоріжжя",
+"ru": "Запорожье",
+"en": "Zaporizhzhia",
+"lat": 47.8508,
+"lon": 35.1183,
+"pop": 706116,
+"place": "city",
+"region": "UA-23"
+},
+{
+"uk": "Кривий Ріг",
+"ru": "Кривой Рог",
+"en": "Kryvyi Rih",
+"lat": 47.9103,
+"lon": 33.3918,
+"pop": 656700,
+"place": "city",
+"region": "UA-12"
+},
+{
+"uk": "Миколаїв",
+"ru": "Николаев",
+"en": "Mykolaiv",
+"lat": 46.9759,
+"lon": 31.994,
+"pop": 480080,
+"place": "city",
+"region": "UA-48"
+},
+{
+"uk": "Севастополь",
+"ru": "Севастополь",
+"en": "Sevastopol",
+"lat": 44.6054,
+"lon": 33.5221,
+"pop": 458253,
+"place": "city",
+"region": "UA-40"
+},
+{
+"uk": "Маріуполь",
+"ru": "Мариуполь",
+"en": "Mariupol",
+"lat": 47.0958,
+"lon": 37.55,
+"pop": 453623,
+"place": "city",
+"region": "UA-14"
+},
+{
+"uk": "Луганськ",
+"ru": "Луганск",
+"en": "Luhansk",
+"lat": 48.5717,
+"lon": 39.2973,
+"pop": 414509,
+"place": "city",
+"region": "UA-09"
+},
+{
+"uk": "Вінниця",
+"ru": "Винница",
+"en": "Vinnytsia",
+"lat": 49.232,
+"lon": 28.468,
+"pop": 373302,
+"place": "city",
+"region": "UA-05"
+},
+{
+"uk": "Макіївка",
+"ru": "Макеевка",
+"en": "Makiivka",
+"lat": 48.0448,
+"lon": 37.9635,
+"pop": 347227,
+"place": "city",
+"region": "UA-14"
+},
+{
+"uk": "Сімферополь",
+"ru": "Симферополь",
+"en": "Simferopol",
+"lat": 44.9521,
+"lon": 34.1025,
+"pop": 340540,
+"place": "city",
+"region": "UA-43"
+},
+{
+"uk": "Полтава",
+"ru": "Полтава",
+"en": "Poltava",
+"lat": 49.5897,
+"lon": 34.5508,
+"pop": 297600,
+"place": "city",
+"region": "UA-53"
+},
+{
+"uk": "Херсон",
+"ru": "Херсон",
+"en": "Kherson",
+"lat": 46.6401,
+"lon": 32.6144,
+"pop": 294941,
+"place": "city",
+"region": "UA-65"
+},
+{
+"uk": "Чернігів",
+"ru": "Чернигов",
+"en": "Chernihiv",
+"lat": 51.4941,
+"lon": 31.2943,
+"pop": 293969,
+"place": "city",
+"region": "UA-74"
+},
+{
+"uk": "Горлівка",
+"ru": "Горловка",
+"en": "Horlivka",
+"lat": 48.3059,
+"lon": 38.0028,
+"pop": 289872,
+"place": "city",
+"region": "UA-14"
+},
+{
+"uk": "Черкаси",
+"ru": "Черкассы",
+"en": "Cherkasy",
+"lat": 49.4447,
+"lon": 32.0588,
+"pop": 274343,
+"place": "city",
+"region": "UA-71"
+},
+{
+"uk": "Хмельницький",
+"ru": "Хмельницкий",
+"en": "Khmelnytskyi",
+"lat": 49.4196,
+"lon": 26.9794,
+"pop": 269308,
+"place": "city",
+"region": "UA-68"
+},
+{
+"uk": "Суми",
+"ru": "Сумы",
+"en": "Sumy",
+"lat": 50.912,
+"lon": 34.8028,
+"pop": 267633,
+"place": "city",
+"region": "UA-59"
+},
+{
+"uk": "Житомир",
+"ru": "Житомир",
+"en": "Zhytomyr",
+"lat": 50.2601,
+"lon": 28.6696,
+"pop": 267610,
+"place": "city",
+"region": "UA-18"
+},
+{
+"uk": "Чернівці",
+"ru": "Черновцы",
+"en": "Chernivtsi",
+"lat": 48.2865,
+"lon": 25.9377,
+"pop": 266650,
+"place": "city",
+"region": "UA-77"
+},
+{
+"uk": "Рівне",
+"ru": "Ровно",
+"en": "Rivne",
+"lat": 50.6196,
+"lon": 26.2513,
+"pop": 245323,
+"place": "city",
+"region": "UA-56"
+},
+{
+"uk": "Кам’янське",
+"ru": "Каменское",
+"en": "Kamianske",
+"lat": 48.5168,
+"lon": 34.6069,
+"pop": 239237,
+"place": "city",
+"region": "UA-12"
+},
+{
+"uk": "Кропивницький",
+"ru": "Кропивницкий",
+"en": "Kropyvnytskyi",
+"lat": 48.5106,
+"lon": 32.2656,
+"pop": 234712,
+"place": "city",
+"region": "UA-35"
+},
+{
+"uk": "Івано-Франківськ",
+"ru": "Ивано-Франковск",
+"en": "Ivano-Frankivsk",
+"lat": 48.9225,
+"lon": 24.7103,
+"pop": 230929,
+"place": "city",
+"region": "UA-26"
+},
+{
+"uk": "Кременчук",
+"ru": "Кременчуг",
+"en": "Kremenchuk",
+"lat": 49.063,
+"lon": 33.4035,
+"pop": 226400,
+"place": "city",
+"region": "UA-53"
+},
+{
+"uk": "Луцьк",
+"ru": "Луцк",
+"en": "Lutsk",
+"lat": 50.7451,
+"lon": 25.3201,
+"pop": 217502,
+"place": "city",
+"region": "UA-07"
+},
+{
+"uk": "Тернопіль",
+"ru": "Тернополь",
+"en": "Ternopil",
+"lat": 49.5558,
+"lon": 25.5924,
+"pop": 217326,
+"place": "city",
+"region": "UA-61"
+},
+{
+"uk": "Біла Церква",
+"ru": "Белая Церковь",
+"en": "Bila Tserkva",
+"lat": 49.797,
+"lon": 30.1158,
+"pop": 209815,
+"place": "city",
+"region": "UA-32"
+},
+{
+"uk": "Мелітополь",
+"ru": "Мелитополь",
+"en": "Melitopol",
+"lat": 46.8467,
+"lon": 35.3827,
+"pop": 156917,
+"place": "city",
+"region": "UA-23"
+},
+{
+"uk": "Керч",
+"ru": "Керчь",
+"en": "Kerch",
+"lat": 45.3563,
+"lon": 36.4671,
+"pop": 151103,
+"place": "city",
+"region": "UA-43"
+},
+{
+"uk": "Самар",
+"ru": "Самарь",
+"en": "Samar",
+"lat": 48.6317,
+"lon": 35.2245,
+"pop": 124787,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Нікополь",
+"ru": "Никополь",
+"en": "Nikopol",
+"lat": 47.5692,
+"lon": 34.3917,
+"pop": 119939,
+"place": "city",
+"region": "UA-12"
+},
+{
+"uk": "Бердянськ",
+"ru": "Бердянск",
+"en": "Berdiansk",
+"lat": 46.7557,
+"lon": 36.7888,
+"pop": 116450,
+"place": "city",
+"region": "UA-23"
+},
+{
+"uk": "Ужгород",
+"ru": "Ужгород",
+"en": "Uzhhorod",
+"lat": 48.6224,
+"lon": 22.3023,
+"pop": 114867,
+"place": "city",
+"region": "UA-21"
+},
+{
+"uk": "Алчевськ",
+"ru": "Алчевск",
+"en": "Alchevsk",
+"lat": 48.4702,
+"lon": 38.801,
+"pop": 112013,
+"place": "city",
+"region": "UA-09"
+},
+{
+"uk": "Сіверськодонецьк",
+"ru": "Северодонецк",
+"en": "Siverskodonetsk",
+"lat": 48.9479,
+"lon": 38.4936,
+"pop": 110612,
+"place": "city",
+"region": "UA-09"
+},
+{
+"uk": "Павлоград",
+"ru": "Павлоград",
+"en": "Pavlohrad",
+"lat": 48.5317,
+"lon": 35.8704,
+"pop": 110609,
+"place": "city",
+"region": "UA-12"
+},
+{
+"uk": "Євпаторія",
+"ru": "Евпатория",
+"en": "Yevpatoriya",
+"lat": 45.1908,
+"lon": 33.3679,
+"pop": 108149,
+"place": "city",
+"region": "UA-43"
+},
+{
+"uk": "Бровари",
+"ru": "Бровары",
+"en": "Brovary",
+"lat": 50.5111,
+"lon": 30.79,
+"pop": 107384,
+"place": "city",
+"region": "UA-32"
+},
+{
+"uk": "Лисичанськ",
+"ru": "Лисичанск",
+"en": "Lysychansk",
+"lat": 48.9173,
+"lon": 38.4286,
+"pop": 105682,
+"place": "city",
+"region": "UA-09"
+},
+{
+"uk": "Кам'янець-Подільський",
+"ru": "Каменец-Подольский",
+"en": "Kamianets-Podilskyi",
+"lat": 48.6781,
+"lon": 26.5854,
+"pop": 101235,
+"place": "city",
+"region": "UA-68"
+},
+{
+"uk": "Конотоп",
+"ru": "Конотоп",
+"en": "Konotop",
+"lat": 51.2397,
+"lon": 33.2067,
+"pop": 87881,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Умань",
+"ru": "Умань",
+"en": "Uman",
+"lat": 48.7498,
+"lon": 30.2203,
+"pop": 86614,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Єнакієве",
+"ru": "Енакиево",
+"en": "Yenakiieve",
+"lat": 48.2305,
+"lon": 38.185,
+"pop": 85663,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Мукачево",
+"ru": "Мукачево",
+"en": "Mukachevo",
+"lat": 48.4421,
+"lon": 22.7185,
+"pop": 85569,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Хрустальний",
+"ru": "Красный Луч",
+"en": "Khrustalnyi",
+"lat": 48.1351,
+"lon": 38.9199,
+"pop": 84036,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Ровеньки",
+"ru": "Ровеньки",
+"en": "Rovenky",
+"lat": 48.0898,
+"lon": 39.368,
+"pop": 81103,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Краматорськ",
+"ru": "Краматорск",
+"en": "Kramatorsk",
+"lat": 48.7389,
+"lon": 37.5844,
+"pop": 80000,
+"place": "city",
+"region": "UA-14"
+},
+{
+"uk": "Шостка",
+"ru": "Шостка",
+"en": "Shostka",
+"lat": 51.8644,
+"lon": 33.4729,
+"pop": 79611,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Олександрія",
+"ru": "Александрия",
+"en": "Oleksandriia",
+"lat": 48.6706,
+"lon": 33.117,
+"pop": 79289,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Кадіївка",
+"ru": "Кадиевка",
+"en": "Kadiivka",
+"lat": 48.5596,
+"lon": 38.65,
+"pop": 79010,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Бердичів",
+"ru": "Бердичев",
+"en": "Berdychiv",
+"lat": 49.894,
+"lon": 28.5815,
+"pop": 78774,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Костянтинівка",
+"ru": "Константиновка",
+"en": "Kostiantynivka",
+"lat": 48.5349,
+"lon": 37.6924,
+"pop": 78179,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ялта",
+"ru": "Ялта",
+"en": "Yalta",
+"lat": 44.4988,
+"lon": 34.1689,
+"pop": 77003,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Дрогобич",
+"ru": "Дрогобыч",
+"en": "Drohobych",
+"lat": 49.3514,
+"lon": 23.5062,
+"pop": 74610,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Ізмаїл",
+"ru": "Измаил",
+"en": "Izmail",
+"lat": 45.3511,
+"lon": 28.8362,
+"pop": 74421,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Ніжин",
+"ru": "Нежин",
+"en": "Nizhyn",
+"lat": 51.0465,
+"lon": 31.8806,
+"pop": 74058,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Лозова",
+"ru": "Лозовая",
+"en": "Lozova",
+"lat": 48.8842,
+"lon": 36.316,
+"pop": 71500,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Ковель",
+"ru": "Ковель",
+"en": "Kovel",
+"lat": 51.2121,
+"lon": 24.7089,
+"pop": 68703,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Сміла",
+"ru": "Смела",
+"en": "Smila",
+"lat": 49.2337,
+"lon": 31.8829,
+"pop": 68520,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Шептицький",
+"ru": "Шептицкий",
+"en": "Sheptytskyi",
+"lat": 50.394,
+"lon": 24.2396,
+"pop": 68308,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Феодосія",
+"ru": "Феодосия",
+"en": "Feodosia",
+"lat": 45.0337,
+"lon": 35.3754,
+"pop": 67750,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Калуш",
+"ru": "Калуш",
+"en": "Kalush",
+"lat": 49.0289,
+"lon": 24.3613,
+"pop": 67559,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Первомайськ",
+"ru": "Первомайск",
+"en": "Pervomaisk",
+"lat": 48.0457,
+"lon": 30.8476,
+"pop": 66965,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Довжанськ",
+"ru": "Должанск",
+"en": "Dovzhansk",
+"lat": 48.0811,
+"lon": 39.6426,
+"pop": 65868,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Коростень",
+"ru": "Коростень",
+"en": "Korosten",
+"lat": 50.9491,
+"lon": 28.6418,
+"pop": 65643,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Покровськ",
+"ru": "Покровск",
+"en": "Pokrovsk",
+"lat": 48.2771,
+"lon": 37.1772,
+"pop": 63635,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Коломия",
+"ru": "Коломыя",
+"en": "Kolomyia",
+"lat": 48.5259,
+"lon": 25.0381,
+"pop": 61286,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Рубіжне",
+"ru": "Рубежное",
+"en": "Rubizhne",
+"lat": 49.0329,
+"lon": 38.3726,
+"pop": 60721,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Дружківка",
+"ru": "Дружковка",
+"en": "Druzhkivka",
+"lat": 48.6199,
+"lon": 37.5249,
+"pop": 60581,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Харцизьк",
+"ru": "Харцызск",
+"en": "Khartsyzk",
+"lat": 48.034,
+"lon": 38.1498,
+"pop": 60016,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Шахтарськ",
+"ru": "Шахтёрск",
+"en": "Shakhtarsk",
+"lat": 48.055,
+"lon": 38.4459,
+"pop": 60000,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Стрий",
+"ru": "Стрый",
+"en": "Stryi",
+"lat": 49.2559,
+"lon": 23.8531,
+"pop": 59488,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Чорноморськ",
+"ru": "Черноморск",
+"en": "Chornomorsk",
+"lat": 46.3013,
+"lon": 30.6549,
+"pop": 59229,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Прилуки",
+"ru": "Прилуки",
+"en": "Pryluky",
+"lat": 50.5951,
+"lon": 32.3867,
+"pop": 58890,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Куп’янськ",
+"ru": "Купянск",
+"en": "Kupiansk",
+"lat": 49.7133,
+"lon": 37.6142,
+"pop": 58306,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Бориспіль",
+"ru": "Борисполь",
+"en": "Boryspil",
+"lat": 50.3512,
+"lon": 30.9508,
+"pop": 58227,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Нововолинськ",
+"ru": "Нововолынск",
+"en": "Novovolynsk",
+"lat": 50.7225,
+"lon": 24.1648,
+"pop": 57900,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Звягель",
+"ru": "Звягель",
+"en": "Zviahel",
+"lat": 50.5918,
+"lon": 27.6067,
+"pop": 56254,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Чистякове",
+"ru": "Чистяково",
+"en": "Chystiakove",
+"lat": 48.0261,
+"lon": 38.6181,
+"pop": 55924,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Антрацит",
+"ru": "Антрацит",
+"en": "Antratsyt",
+"lat": 48.1164,
+"lon": 39.0886,
+"pop": 55441,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Енергодар",
+"ru": "Энергодар",
+"en": "Enerhodar",
+"lat": 47.4901,
+"lon": 34.6603,
+"pop": 54658,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Ізюм",
+"ru": "Изюм",
+"en": "Izium",
+"lat": 49.1913,
+"lon": 37.2784,
+"pop": 51872,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Горішні Плавні",
+"ru": "Горишние Плавни",
+"en": "Horishni Plavni",
+"lat": 49.0141,
+"lon": 33.6331,
+"pop": 51800,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Фастів",
+"ru": "Фастов",
+"en": "Fastiv",
+"lat": 50.0799,
+"lon": 29.9163,
+"pop": 50517,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Білгород-Дністровський",
+"ru": "Белгород-Днестровский",
+"en": "Bilhorod-Dnistrovskyi",
+"lat": 46.191,
+"lon": 30.3458,
+"pop": 50296,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Мирноград",
+"ru": "Мирноград",
+"en": "Myrnohrad",
+"lat": 48.3079,
+"lon": 37.2591,
+"pop": 49644,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Охтирка",
+"ru": "Ахтырка",
+"en": "Okhtyrka",
+"lat": 50.3115,
+"lon": 34.8869,
+"pop": 49091,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Марганець",
+"ru": "Марганец",
+"en": "Marhanets",
+"lat": 47.6491,
+"lon": 34.6492,
+"pop": 48739,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Жовті Води",
+"ru": "Жёлтые Воды",
+"en": "Zhovti Vody",
+"lat": 48.3465,
+"lon": 33.5028,
+"pop": 48620,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Брянка",
+"ru": "Брянка",
+"en": "Brianka",
+"lat": 48.5036,
+"lon": 38.6643,
+"pop": 48509,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Нова Каховка",
+"ru": "Новая Каховка",
+"en": "Nova Kakhovka",
+"lat": 46.7583,
+"lon": 33.3567,
+"pop": 48298,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Лубни",
+"ru": "Лубны",
+"en": "Lubny",
+"lat": 50.0118,
+"lon": 33.0031,
+"pop": 47845,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Сніжне",
+"ru": "Снежное",
+"en": "Snizhne",
+"lat": 48.0221,
+"lon": 38.7635,
+"pop": 46377,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Сорокине",
+"ru": "Сорокино",
+"en": "Sorokyne",
+"lat": 48.2951,
+"lon": 39.7297,
+"pop": 44840,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Шепетівка",
+"ru": "Шепетовка",
+"en": "Shepetivka",
+"lat": 50.1809,
+"lon": 27.0652,
+"pop": 43512,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Ромни",
+"ru": "Ромны",
+"en": "Romny",
+"lat": 50.7421,
+"lon": 33.4877,
+"pop": 43344,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Світловодськ",
+"ru": "Светловодск",
+"en": "Svitlovodsk",
+"lat": 49.0454,
+"lon": 33.2072,
+"pop": 43130,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Покров",
+"ru": "Покров",
+"en": "Pokrov",
+"lat": 47.6547,
+"lon": 34.1149,
+"pop": 41894,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Вараш",
+"ru": "Вараш",
+"en": "Varash",
+"lat": 51.3482,
+"lon": 25.8501,
+"pop": 41711,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Ірпінь",
+"ru": "Ирпень",
+"en": "Irpin",
+"lat": 50.5207,
+"lon": 30.2449,
+"pop": 41533,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Миргород",
+"ru": "Миргород",
+"en": "Myrhorod",
+"lat": 49.9658,
+"lon": 33.6114,
+"pop": 41200,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Подільськ",
+"ru": "Подольск",
+"en": "Podilsk",
+"lat": 47.7497,
+"lon": 29.5305,
+"pop": 40668,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Південноукраїнськ",
+"ru": "Южноукраинск",
+"en": "Pivdennoukrainsk",
+"lat": 47.8243,
+"lon": 31.1787,
+"pop": 40206,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Вишневе",
+"ru": "Вишневе",
+"en": "Vyshneve",
+"lat": 50.3917,
+"lon": 30.3679,
+"pop": 39094,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Слов’янськ",
+"ru": "Славянск",
+"en": "Sloviansk",
+"lat": 48.8523,
+"lon": 37.6058,
+"pop": 39000,
+"place": "city",
+"region": "UA-14"
+},
+{
+"uk": "Сокологірськ",
+"ru": "Сокологорск",
+"en": "Sokolohirsk",
+"lat": 48.6252,
+"lon": 38.5373,
+"pop": 38801,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Володимир",
+"ru": "Владимир",
+"en": "Volodymyr",
+"lat": 50.8475,
+"lon": 24.3193,
+"pop": 38800,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Дубно",
+"ru": "Дубно",
+"en": "Dubno",
+"lat": 50.4188,
+"lon": 25.7456,
+"pop": 38037,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Васильків",
+"ru": "Васильков",
+"en": "Vasylkiv",
+"lat": 50.1781,
+"lon": 30.3175,
+"pop": 37495,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Каховка",
+"ru": "Каховка",
+"en": "Kakhovka",
+"lat": 46.8055,
+"lon": 33.4818,
+"pop": 37409,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Джанкой",
+"ru": "Джанкой",
+"en": "Dzhankoy",
+"lat": 45.712,
+"lon": 34.3927,
+"pop": 37014,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Нетішин",
+"ru": "Нетешин",
+"en": "Netishyn",
+"lat": 50.3338,
+"lon": 26.6497,
+"pop": 36497,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Торецьк",
+"ru": "Торецк",
+"en": "Toretsk",
+"lat": 48.397,
+"lon": 37.8501,
+"pop": 36324,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ясинувата",
+"ru": "Ясиноватая",
+"en": "Yasynuvata",
+"lat": 48.1271,
+"lon": 37.859,
+"pop": 35856,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Глухів",
+"ru": "Глухов",
+"en": "Hlukhiv",
+"lat": 51.6783,
+"lon": 33.9093,
+"pop": 35800,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Боярка",
+"ru": "Боярка",
+"en": "Boiarka",
+"lat": 50.3357,
+"lon": 30.2848,
+"pop": 35558,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Жмеринка",
+"ru": "Жмеринка",
+"en": "Zhmerynka",
+"lat": 49.0355,
+"lon": 28.1147,
+"pop": 35513,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Славута",
+"ru": "Славута",
+"en": "Slavuta",
+"lat": 50.2962,
+"lon": 26.8658,
+"pop": 35506,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Старокостянтинів",
+"ru": "Староконстантинов",
+"en": "Starokostiantyniv",
+"lat": 49.7562,
+"lon": 27.2088,
+"pop": 35016,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Самбір",
+"ru": "Самбор",
+"en": "Sambir",
+"lat": 49.5182,
+"lon": 23.197,
+"pop": 34823,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Вознесенськ",
+"ru": "Вознесенск",
+"en": "Voznesensk",
+"lat": 47.568,
+"lon": 31.3339,
+"pop": 34404,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Токмак",
+"ru": "Токмак",
+"en": "Tokmak",
+"lat": 47.255,
+"lon": 35.7092,
+"pop": 33153,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Борислав",
+"ru": "Борислав",
+"en": "Boryslav",
+"lat": 49.2824,
+"lon": 23.4139,
+"pop": 32913,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Обухів",
+"ru": "Обухов",
+"en": "Obukhiv",
+"lat": 50.1102,
+"lon": 30.627,
+"pop": 32615,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Могилів-Подільський",
+"ru": "Могилёв-Подольский",
+"en": "Mohyliv-Podilskyi",
+"lat": 48.4425,
+"lon": 27.7991,
+"pop": 32468,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Чугуїв",
+"ru": "Чугуев",
+"en": "Chuhuiv",
+"lat": 49.8366,
+"lon": 36.6899,
+"pop": 32290,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Балаклія",
+"ru": "Балаклея",
+"en": "Balakliia",
+"lat": 49.4521,
+"lon": 36.8398,
+"pop": 32117,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Добропілля",
+"ru": "Доброполье",
+"en": "Dobropillia",
+"lat": 48.4683,
+"lon": 37.0903,
+"pop": 31701,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Синельникове",
+"ru": "Синельниково",
+"en": "Synelnykove",
+"lat": 48.3269,
+"lon": 35.5247,
+"pop": 31552,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Златопіль",
+"ru": "Златополь",
+"en": "Zlatopil",
+"lat": 49.3896,
+"lon": 36.2127,
+"pop": 31275,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Костопіль",
+"ru": "Костополь",
+"en": "Kostopil",
+"lat": 50.8792,
+"lon": 26.4534,
+"pop": 31159,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Новояворівськ",
+"ru": "Новояворовск",
+"en": "Novoiavorivsk",
+"lat": 49.9331,
+"lon": 23.5673,
+"pop": 30271,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Яни Капу",
+"ru": "Красноперекопск",
+"en": "Krasnoperekopsk",
+"lat": 45.9568,
+"lon": 33.7975,
+"pop": 30033,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Південне",
+"ru": "Южное",
+"en": "Pivdenne",
+"lat": 46.6225,
+"lon": 31.0995,
+"pop": 29327,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Голубівка",
+"ru": "Голубовка",
+"en": "Holubivka",
+"lat": 48.6414,
+"lon": 38.6479,
+"pop": 29235,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Шахтарське",
+"ru": "Шахтёрское",
+"en": "Shakhtarske",
+"lat": 48.3506,
+"lon": 36.4023,
+"pop": 29173,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Тернівка",
+"ru": "Терновка",
+"en": "Ternivka",
+"lat": 48.5221,
+"lon": 36.0714,
+"pop": 29066,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Алушта",
+"ru": "Алушта",
+"en": "Alushta",
+"lat": 44.6771,
+"lon": 34.4095,
+"pop": 28672,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Сарни",
+"ru": "Сарны",
+"en": "Sarny",
+"lat": 51.335,
+"lon": 26.6171,
+"pop": 28604,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Новий Розділ",
+"ru": "Новый Роздол",
+"en": "Novyi Rozdil",
+"lat": 49.4696,
+"lon": 24.1386,
+"pop": 28530,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Трускавець",
+"ru": "Трускавец",
+"en": "Truskavets",
+"lat": 49.2782,
+"lon": 23.506,
+"pop": 28474,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Золотоноша",
+"ru": "Золотоноша",
+"en": "Zolotonosha",
+"lat": 49.669,
+"lon": 32.0427,
+"pop": 28464,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Хуст",
+"ru": "Хуст",
+"en": "Khust",
+"lat": 48.1765,
+"lon": 23.2912,
+"pop": 28438,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Хмільник",
+"ru": "Хмельник",
+"en": "Khmilnyk",
+"lat": 49.5562,
+"lon": 27.9491,
+"pop": 28273,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Чортків",
+"ru": "Чортков",
+"en": "Chortkiv",
+"lat": 49.0161,
+"lon": 25.7925,
+"pop": 28249,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Переяслав",
+"ru": "Переяслав",
+"en": "Pereiaslav",
+"lat": 50.0644,
+"lon": 31.4447,
+"pop": 27975,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Берестин",
+"ru": "Берестин",
+"en": "Berestyn",
+"lat": 49.3741,
+"lon": 35.4494,
+"pop": 27600,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Буча",
+"ru": "Буча",
+"en": "Bucha",
+"lat": 50.5503,
+"lon": 30.2107,
+"pop": 27460,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Вишгород",
+"ru": "Вышгород",
+"en": "Vyshhorod",
+"lat": 50.5824,
+"lon": 30.4851,
+"pop": 27251,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Хрестівка",
+"ru": "Крестовка",
+"en": "Хрестівка",
+"lat": 48.1456,
+"lon": 38.3545,
+"pop": 27016,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Малин",
+"ru": "Малин",
+"en": "Malyn",
+"lat": 50.7678,
+"lon": 29.2414,
+"pop": 27010,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Дебальцеве",
+"ru": "Дебальцево",
+"en": "Debaltseve",
+"lat": 48.3397,
+"lon": 38.3999,
+"pop": 26255,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Лебедин",
+"ru": "Лебедин",
+"en": "Lebedyn",
+"lat": 50.581,
+"lon": 34.4753,
+"pop": 26244,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Бахчисарай",
+"ru": "Бахчисарай",
+"en": "Bakhchysarai",
+"lat": 44.7452,
+"lon": 33.8487,
+"pop": 26215,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Перевальськ",
+"ru": "Перевальск",
+"en": "Perevalsk",
+"lat": 48.4374,
+"lon": 38.8078,
+"pop": 26132,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Коростишів",
+"ru": "Коростышев",
+"en": "Korostyshiv",
+"lat": 50.3202,
+"lon": 29.0585,
+"pop": 25768,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Гайсин",
+"ru": "Гайсин",
+"en": "Haisyn",
+"lat": 48.8121,
+"lon": 29.3894,
+"pop": 25711,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Люботин",
+"ru": "Люботин",
+"en": "Liubotyn",
+"lat": 49.9436,
+"lon": 35.9185,
+"pop": 25700,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Виноградів",
+"ru": "Виноградов",
+"en": "Vynohradiv",
+"lat": 48.1404,
+"lon": 23.036,
+"pop": 25481,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Козятин",
+"ru": "Казатин",
+"en": "Koziatyn",
+"lat": 49.7196,
+"lon": 28.8354,
+"pop": 25386,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Сокаль",
+"ru": "Сокаль",
+"en": "Sokal",
+"lat": 50.4791,
+"lon": 24.2771,
+"pop": 25145,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Мерефа",
+"ru": "Мерефа",
+"en": "Merefa",
+"lat": 49.8183,
+"lon": 36.0629,
+"pop": 25135,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Олешки",
+"ru": "Алёшки",
+"en": "Oleshky",
+"lat": 46.6261,
+"lon": 32.722,
+"pop": 24639,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Берегове",
+"ru": "Берегово",
+"en": "Berehove",
+"lat": 48.2051,
+"lon": 22.6453,
+"pop": 24580,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Здолбунів",
+"ru": "Здолбунов",
+"en": "Zdolbuniv",
+"lat": 50.5189,
+"lon": 26.2432,
+"pop": 24537,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Славутич",
+"ru": "Славутич",
+"en": "Slavutych",
+"lat": 51.5201,
+"lon": 30.7562,
+"pop": 24492,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Селидове",
+"ru": "Селидово",
+"en": "Selydove",
+"lat": 48.1501,
+"lon": 37.3019,
+"pop": 24366,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Знам’янка",
+"ru": "Знаменка",
+"en": "Znamianka",
+"lat": 48.72,
+"lon": 32.6659,
+"pop": 24274,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Саки",
+"ru": "Саки",
+"en": "Saky",
+"lat": 45.1319,
+"lon": 33.6001,
+"pop": 24156,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Золочів",
+"ru": "Золочев",
+"en": "Zolochiv",
+"lat": 49.8057,
+"lon": 24.8989,
+"pop": 23900,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Канів",
+"ru": "Канев",
+"en": "Kaniv",
+"lat": 49.7551,
+"lon": 31.4611,
+"pop": 23835,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Вільногірськ",
+"ru": "Вольногорск",
+"en": "Vilnohirsk",
+"lat": 48.4937,
+"lon": 34.0233,
+"pop": 23795,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Гадяч",
+"ru": "Гадяч",
+"en": "Hadiach",
+"lat": 50.3701,
+"lon": 33.9951,
+"pop": 23790,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Броди",
+"ru": "Броды",
+"en": "Brody",
+"lat": 50.0833,
+"lon": 25.1438,
+"pop": 23752,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Докучаєвськ",
+"ru": "Докучаевск",
+"en": "Dokuchaievsk",
+"lat": 47.7499,
+"lon": 37.6716,
+"pop": 23726,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Кролевець",
+"ru": "Кролевец",
+"en": "Krolevets",
+"lat": 51.5549,
+"lon": 33.3876,
+"pop": 23685,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Отаманівка",
+"ru": "Атамановка",
+"en": "Otamanivka",
+"lat": 48.3459,
+"lon": 39.6524,
+"pop": 23580,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Волноваха",
+"ru": "Волноваха",
+"en": "Volnovakha",
+"lat": 47.6015,
+"lon": 37.4934,
+"pop": 23442,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Лиман",
+"ru": "Лиман",
+"en": "Lyman",
+"lat": 48.9801,
+"lon": 37.8168,
+"pop": 23307,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Балаклава",
+"ru": "Балаклава",
+"en": "Balaklava",
+"lat": 44.5121,
+"lon": 33.599,
+"pop": 22620,
+"place": "town",
+"region": "UA-40"
+},
+{
+"uk": "Ладижин",
+"ru": "Ладыжин",
+"en": "Ladyzhyn",
+"lat": 48.6811,
+"lon": 29.2568,
+"pop": 22459,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Попасна",
+"ru": "Попасная",
+"en": "Popasna",
+"lat": 48.6323,
+"lon": 38.3777,
+"pop": 22211,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Полонне",
+"ru": "Полонное",
+"en": "Polonne",
+"lat": 50.1193,
+"lon": 27.509,
+"pop": 21999,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Надвірна",
+"ru": "Надворная",
+"en": "Nadvirna",
+"lat": 48.6336,
+"lon": 24.5684,
+"pop": 21930,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Кременець",
+"ru": "Кременец",
+"en": "Kremenets",
+"lat": 50.0961,
+"lon": 25.7261,
+"pop": 21624,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Тростянець",
+"ru": "Тростянец",
+"en": "Trostianets",
+"lat": 50.4805,
+"lon": 34.9647,
+"pop": 21583,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Суходільськ",
+"ru": "Суходольск",
+"en": "Sukhodilsk",
+"lat": 48.3532,
+"lon": 39.7248,
+"pop": 21324,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Кілія",
+"ru": "Килия",
+"en": "Kiliia",
+"lat": 45.441,
+"lon": 29.2653,
+"pop": 20829,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Ківшарівка",
+"ru": "Ковшаровка",
+"en": "Kivsharivka",
+"lat": 49.6295,
+"lon": 37.6829,
+"pop": 20729,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Армянськ",
+"ru": "Армянск",
+"en": "Armyansk",
+"lat": 46.1133,
+"lon": 33.6904,
+"pop": 20692,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Яготин",
+"ru": "Яготин",
+"en": "Yahotyn",
+"lat": 50.2759,
+"lon": 31.7635,
+"pop": 20569,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Долина",
+"ru": "Долина",
+"en": "Dolyna",
+"lat": 48.9782,
+"lon": 23.979,
+"pop": 20453,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Стебник",
+"ru": "Стебник",
+"en": "Stebnyk",
+"lat": 49.2941,
+"lon": 23.5647,
+"pop": 20398,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Курахове",
+"ru": "Курахово",
+"en": "Kurakhove",
+"lat": 47.9835,
+"lon": 37.2826,
+"pop": 20224,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Пологи",
+"ru": "Пологи",
+"en": "Polohy",
+"lat": 47.4785,
+"lon": 36.2531,
+"pop": 20223,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Дергачі",
+"ru": "Дергачи",
+"en": "Derhachi",
+"lat": 50.1071,
+"lon": 36.1206,
+"pop": 20196,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Кремінна",
+"ru": "Кременная",
+"en": "Kreminna",
+"lat": 49.0463,
+"lon": 38.2179,
+"pop": 20137,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Красилів",
+"ru": "Красилов",
+"en": "Krasyliv",
+"lat": 49.6544,
+"lon": 26.9709,
+"pop": 19761,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Волочиськ",
+"ru": "Волочиск",
+"en": "Volochysk",
+"lat": 49.5358,
+"lon": 26.2126,
+"pop": 19723,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Дніпрорудне",
+"ru": "Днепрорудное",
+"en": "Dniprorudne",
+"lat": 47.3899,
+"lon": 35.0028,
+"pop": 19720,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Рені",
+"ru": "Рени",
+"en": "Reni",
+"lat": 45.4554,
+"lon": 28.2791,
+"pop": 19488,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Богодухів",
+"ru": "Богодухов",
+"en": "Bohodukhiv",
+"lat": 50.1602,
+"lon": 35.5221,
+"pop": 19365,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Балта",
+"ru": "Балта",
+"en": "Balta",
+"lat": 47.9363,
+"lon": 29.6226,
+"pop": 19353,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Калинівка",
+"ru": "Калиновка",
+"en": "Kalynivka",
+"lat": 49.4584,
+"lon": 28.5263,
+"pop": 19335,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Долинська",
+"ru": "Долинская",
+"en": "Dolynska",
+"lat": 48.1164,
+"lon": 32.7638,
+"pop": 19319,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Амвросіївка",
+"ru": "Амвросиевка",
+"en": "Amvrosiivka",
+"lat": 47.7953,
+"lon": 38.4798,
+"pop": 19238,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Білопілля",
+"ru": "Белополье",
+"en": "Bilopillia",
+"lat": 51.146,
+"lon": 34.3122,
+"pop": 19200,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Скадовськ",
+"ru": "Скадовск",
+"en": "Skadovsk",
+"lat": 46.1204,
+"lon": 32.9103,
+"pop": 19073,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "П’ятихатки",
+"ru": "Пятихатки",
+"en": "Piatykhatky",
+"lat": 48.4125,
+"lon": 33.7057,
+"pop": 18981,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Генічеськ",
+"ru": "Геническ",
+"en": "Henichesk",
+"lat": 46.1662,
+"lon": 34.8089,
+"pop": 18889,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Бахмач",
+"ru": "Бахмач",
+"en": "Bakhmach",
+"lat": 51.1827,
+"lon": 32.8291,
+"pop": 18798,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Старобільськ",
+"ru": "Старобельск",
+"en": "Starobilsk",
+"lat": 49.2822,
+"lon": 38.8974,
+"pop": 18796,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Вовчанськ",
+"ru": "Волчанск",
+"en": "Vovchansk",
+"lat": 50.2929,
+"lon": 36.937,
+"pop": 18617,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Зугрес",
+"ru": "Зугрэс",
+"en": "Zuhres",
+"lat": 48.0181,
+"lon": 38.2699,
+"pop": 18554,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Сватове",
+"ru": "Сватово",
+"en": "Svatove",
+"lat": 49.4177,
+"lon": 38.1457,
+"pop": 18417,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Корсунь-Шевченківський",
+"ru": "Корсунь-Шевченковский",
+"en": "Korsun-Shevchenkivskyi",
+"lat": 49.418,
+"lon": 31.2557,
+"pop": 18266,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Звенигородка",
+"ru": "Звенигородка",
+"en": "Zvenyhorodka",
+"lat": 49.0767,
+"lon": 30.9614,
+"pop": 18219,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Білогірськ",
+"ru": "Белогорск",
+"en": "Belogorsk",
+"lat": 45.0584,
+"lon": 34.595,
+"pop": 18208,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Бережани",
+"ru": "Бережаны",
+"en": "Berezhany",
+"lat": 49.445,
+"lon": 24.9389,
+"pop": 18116,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Шпола",
+"ru": "Шпола",
+"en": "Shpola",
+"lat": 49.0133,
+"lon": 31.3931,
+"pop": 18112,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Лутугине",
+"ru": "Лутугино",
+"en": "Lutuhyne",
+"lat": 48.4008,
+"lon": 39.1981,
+"pop": 18107,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Сквира",
+"ru": "Сквира",
+"en": "Skvyra",
+"lat": 49.7338,
+"lon": 29.6624,
+"pop": 18000,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Новоукраїнка",
+"ru": "Новоукраинка",
+"en": "Novoukrainka",
+"lat": 48.3251,
+"lon": 31.522,
+"pop": 17945,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Пелагіївка",
+"ru": "Пелагеевка",
+"en": "Pelahiivka",
+"lat": 48.0928,
+"lon": 38.6089,
+"pop": 17891,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Карлівка",
+"ru": "Карловка",
+"en": "Karlivka",
+"lat": 49.4537,
+"lon": 35.1375,
+"pop": 17849,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Багачеве",
+"ru": "Богачёво",
+"en": "Bahacheve",
+"lat": 49.0172,
+"lon": 31.0619,
+"pop": 17805,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Пісочин",
+"ru": "Песочин",
+"en": "Pisochyn",
+"lat": 49.9548,
+"lon": 36.1039,
+"pop": 17801,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Підгороднє",
+"ru": "Подгородное",
+"en": "Pidhorodne",
+"lat": 48.5681,
+"lon": 35.1013,
+"pop": 17778,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Винники",
+"ru": "Винники",
+"en": "Vynnyky",
+"lat": 49.8168,
+"lon": 24.1381,
+"pop": 17642,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Роздільна",
+"ru": "Раздельная",
+"en": "Rozdilna",
+"lat": 46.8547,
+"lon": 30.0711,
+"pop": 17593,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Новогродівка",
+"ru": "Новогродовка",
+"en": "Novohrodivka",
+"lat": 48.1997,
+"lon": 37.34,
+"pop": 17473,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Кобеляки",
+"ru": "Кобеляки",
+"en": "Kobeliaky",
+"lat": 49.1433,
+"lon": 34.2003,
+"pop": 17350,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Судак",
+"ru": "Судак",
+"en": "Sudak",
+"lat": 44.8488,
+"lon": 34.9711,
+"pop": 17268,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Ізяслав",
+"ru": "Изяслав",
+"en": "Iziaslav",
+"lat": 50.1195,
+"lon": 26.8208,
+"pop": 17203,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Зміїв",
+"ru": "Змиёв",
+"en": "Zmiiv",
+"lat": 49.7019,
+"lon": 36.3633,
+"pop": 16976,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Городок",
+"ru": "Городок",
+"en": "Horodok",
+"lat": 49.1652,
+"lon": 26.5865,
+"pop": 16885,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Свалява",
+"ru": "Свалява",
+"en": "Svaliava",
+"lat": 48.5461,
+"lon": 22.9895,
+"pop": 16871,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Богуслав",
+"ru": "Богуслав",
+"en": "Bohuslav",
+"lat": 49.5476,
+"lon": 30.8733,
+"pop": 16810,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Катеринівка",
+"ru": "Катериновка",
+"en": "Катеринівка",
+"lat": 48.559,
+"lon": 39.1902,
+"pop": 16723,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Овруч",
+"ru": "Овруч",
+"en": "Ovruch",
+"lat": 51.326,
+"lon": 28.8027,
+"pop": 16681,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Верхньодніпровськ",
+"ru": "Верхнеднепровск",
+"en": "Verkhnodniprovsk",
+"lat": 48.6542,
+"lon": 34.3348,
+"pop": 16680,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Пирятин",
+"ru": "Пирятин",
+"en": "Pyriatyn",
+"lat": 50.2363,
+"lon": 32.501,
+"pop": 16600,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Березань",
+"ru": "Березань",
+"en": "Berezan",
+"lat": 50.3133,
+"lon": 31.4689,
+"pop": 16559,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Путивль",
+"ru": "Путивль",
+"en": "Putyvl",
+"lat": 51.336,
+"lon": 33.8715,
+"pop": 16361,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Білозерське",
+"ru": "Белозёрское",
+"en": "Bilozerske",
+"lat": 48.5331,
+"lon": 37.0579,
+"pop": 16251,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Дунаївці",
+"ru": "Дунаевцы",
+"en": "Dunaivtsi",
+"lat": 48.8866,
+"lon": 26.8477,
+"pop": 16147,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Іловайськ",
+"ru": "Иловайск",
+"en": "Ilovaisk",
+"lat": 47.9248,
+"lon": 38.1976,
+"pop": 16143,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Красногорівка",
+"ru": "Красногоровка",
+"en": "Krasnohorivka",
+"lat": 48.0107,
+"lon": 37.5045,
+"pop": 16003,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Вільнянськ",
+"ru": "Вольнянск",
+"en": "Vilniansk",
+"lat": 47.9433,
+"lon": 35.4316,
+"pop": 15901,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Миколаївка",
+"ru": "Николаевка",
+"en": "Mykolaivka",
+"lat": 48.8611,
+"lon": 37.7619,
+"pop": 15847,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Вознесенівка",
+"ru": "Вознесеновка",
+"en": "Voznesenivka",
+"lat": 48.0762,
+"lon": 39.7736,
+"pop": 15843,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Городок",
+"ru": "Городок",
+"en": "Horodok",
+"lat": 49.7846,
+"lon": 23.6466,
+"pop": 15825,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Слобожанське",
+"ru": "Слобожанское",
+"en": "Slobozhanske",
+"lat": 49.599,
+"lon": 36.5242,
+"pop": 15825,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Новий Буг",
+"ru": "Новый Буг",
+"en": "Novyi Buh",
+"lat": 47.6934,
+"lon": 32.5107,
+"pop": 15686,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Тульчин",
+"ru": "Тульчин",
+"en": "Tulchyn",
+"lat": 48.673,
+"lon": 28.8569,
+"pop": 15631,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Бар",
+"ru": "Бар",
+"en": "Bar",
+"lat": 49.0776,
+"lon": 27.6814,
+"pop": 15563,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Оріхів",
+"ru": "Орехов",
+"en": "Orikhiv",
+"lat": 47.5754,
+"lon": 35.7855,
+"pop": 15544,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Острог",
+"ru": "Острог",
+"en": "Ostroh",
+"lat": 50.329,
+"lon": 26.5204,
+"pop": 15528,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Вугледар",
+"ru": "Угледар",
+"en": "Vuhledar",
+"lat": 47.781,
+"lon": 37.2461,
+"pop": 15486,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Болград",
+"ru": "Болград",
+"en": "Bolhrad",
+"lat": 45.6779,
+"lon": 28.6132,
+"pop": 15479,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Бурштин",
+"ru": "Бурштын",
+"en": "Burshtyn",
+"lat": 49.2622,
+"lon": 24.616,
+"pop": 15348,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Українка",
+"ru": "Украинка",
+"en": "Ukrainka",
+"lat": 50.1537,
+"lon": 30.7421,
+"pop": 15338,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Арциз",
+"ru": "Арциз",
+"en": "Artsyz",
+"lat": 45.9962,
+"lon": 29.4315,
+"pop": 15229,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Гайворон",
+"ru": "Гайворон",
+"en": "Haivoron",
+"lat": 48.3407,
+"lon": 29.8593,
+"pop": 15214,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Рахів",
+"ru": "Рахов",
+"en": "Rakhiv",
+"lat": 48.0557,
+"lon": 24.2057,
+"pop": 15137,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Коцюбинське",
+"ru": "Коцюбинське",
+"en": "Kotsiubynske",
+"lat": 50.4905,
+"lon": 30.3338,
+"pop": 15038,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Радомишль",
+"ru": "Радомышль",
+"en": "Radomyshl",
+"lat": 50.4962,
+"lon": 29.229,
+"pop": 15003,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Золоте",
+"ru": "Золотое",
+"en": "Zolote",
+"lat": 48.6901,
+"lon": 38.5122,
+"pop": 14974,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Ківерці",
+"ru": "Киверцы",
+"en": "Kivertsi",
+"lat": 50.8333,
+"lon": 25.4649,
+"pop": 14916,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Приморський",
+"ru": "Приморский",
+"en": "Primorski",
+"lat": 45.1191,
+"lon": 35.4816,
+"pop": 14860,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Очаків",
+"ru": "Очаков",
+"en": "Ochakiv",
+"lat": 46.6146,
+"lon": 31.5453,
+"pop": 14834,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Миколаїв",
+"ru": "Николаев",
+"en": "Mykolaiv",
+"lat": 49.5254,
+"lon": 23.9788,
+"pop": 14824,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Корюківка",
+"ru": "Крюковка",
+"en": "Koriukivka",
+"lat": 51.7745,
+"lon": 32.2513,
+"pop": 14805,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Гола Пристань",
+"ru": "Голая Пристань",
+"en": "Hola Prystan",
+"lat": 46.532,
+"lon": 32.5345,
+"pop": 14755,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Хорол",
+"ru": "Хорол",
+"en": "Khorol",
+"lat": 49.7822,
+"lon": 33.274,
+"pop": 14643,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Бунге",
+"ru": "Бунге",
+"en": "Бунге",
+"lat": 48.2214,
+"lon": 38.2875,
+"pop": 14570,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Гуляйполе",
+"ru": "Гуляйполе",
+"en": "Huliaipole",
+"lat": 47.6655,
+"lon": 36.2657,
+"pop": 14556,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Апостолове",
+"ru": "Апостолово",
+"en": "Apostolove",
+"lat": 47.6617,
+"lon": 33.718,
+"pop": 14513,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Сторожинець",
+"ru": "Сторожинец",
+"en": "Storozhynets",
+"lat": 48.1629,
+"lon": 25.7208,
+"pop": 14508,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Городище",
+"ru": "Городище",
+"en": "Horodyshche",
+"lat": 49.2904,
+"lon": 31.4447,
+"pop": 14480,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Чигирин",
+"ru": "Чигирин",
+"en": "Chyhyryn",
+"lat": 49.0775,
+"lon": 32.6664,
+"pop": 14440,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Тальне",
+"ru": "Тальное",
+"en": "Talne",
+"lat": 48.889,
+"lon": 30.698,
+"pop": 14420,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Деражня",
+"ru": "Деражня",
+"en": "Derazhnia",
+"lat": 49.2686,
+"lon": 27.4338,
+"pop": 14381,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Жашків",
+"ru": "Жашков",
+"en": "Zhashkiv",
+"lat": 49.2478,
+"lon": 30.1066,
+"pop": 14368,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Часів Яр",
+"ru": "Часов Яр",
+"en": "Chasiv Yar",
+"lat": 48.5874,
+"lon": 37.8373,
+"pop": 14360,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Гостомель",
+"ru": "Гостомель",
+"en": "Hostomel",
+"lat": 50.5883,
+"lon": 30.2591,
+"pop": 14268,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Носівка",
+"ru": "Носівка",
+"en": "Nosivka",
+"lat": 50.9378,
+"lon": 31.5812,
+"pop": 14185,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Зеленодольськ",
+"ru": "Зеленодольск",
+"en": "Zelenodolsk",
+"lat": 47.5668,
+"lon": 33.6475,
+"pop": 14134,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Василівка",
+"ru": "Васильевка",
+"en": "Vasylivka",
+"lat": 47.4432,
+"lon": 35.2803,
+"pop": 14134,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Високий",
+"ru": "Высокий",
+"en": "Vysokyi",
+"lat": 49.8912,
+"lon": 36.1287,
+"pop": 14107,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Новгород-Сіверський",
+"ru": "Новгород-Северский",
+"en": "Novhorod-Siverskyi",
+"lat": 52.0043,
+"lon": 33.278,
+"pop": 14025,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Нижня Кринка",
+"ru": "Нижняя Крынка",
+"en": "Nyzhnia Krynka",
+"lat": 48.1137,
+"lon": 38.1666,
+"pop": 13956,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Збараж",
+"ru": "Збараж",
+"en": "Zbarazh",
+"lat": 49.6607,
+"lon": 25.7768,
+"pop": 13915,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Жовква",
+"ru": "Жолква",
+"en": "Zhovkva",
+"lat": 50.0561,
+"lon": 23.9712,
+"pop": 13852,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Теребовля",
+"ru": "Теребовля",
+"en": "Terebovlia",
+"lat": 49.2961,
+"lon": 25.6925,
+"pop": 13769,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Кагарлик",
+"ru": "Кагарлык",
+"en": "Kaharlyk",
+"lat": 49.8651,
+"lon": 30.8227,
+"pop": 13682,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Кам’янка-Дніпровська",
+"ru": "Каменка-Днепровская",
+"en": "Kamianka-Dniprovska",
+"lat": 47.4901,
+"lon": 34.4109,
+"pop": 13653,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Нова Водолага",
+"ru": "Новая Водолага",
+"en": "Nova Vodolaha",
+"lat": 49.7181,
+"lon": 35.8602,
+"pop": 13538,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Петрово-Красносілля",
+"ru": "Петровское",
+"en": "Петрово-Красносілля",
+"lat": 48.2942,
+"lon": 38.8662,
+"pop": 13500,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Берислав",
+"ru": "Берислав",
+"en": "Beryslav",
+"lat": 46.8358,
+"lon": 33.4167,
+"pop": 13457,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Ширяєве",
+"ru": "Ширяево",
+"en": "Shyriaieve",
+"lat": 47.3843,
+"lon": 30.1895,
+"pop": 13455,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Снігурівка",
+"ru": "Снегирёвка",
+"en": "Snihurivka",
+"lat": 47.0707,
+"lon": 32.7925,
+"pop": 13454,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Рожище",
+"ru": "Рожище",
+"en": "Rozhyshche",
+"lat": 50.9163,
+"lon": 25.2713,
+"pop": 13441,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Березне",
+"ru": "Березно",
+"en": "Berezne",
+"lat": 51.0036,
+"lon": 26.7524,
+"pop": 13390,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Тетіїв",
+"ru": "Тетиев",
+"en": "Tetiiv",
+"lat": 49.3686,
+"lon": 29.6771,
+"pop": 13235,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Бершадь",
+"ru": "Бершадь",
+"en": "Bershad",
+"lat": 48.3659,
+"lon": 29.5189,
+"pop": 13223,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Солоницівка",
+"ru": "Солоницевка",
+"en": "Solonytsivka",
+"lat": 49.9906,
+"lon": 36.0551,
+"pop": 13153,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Щастя",
+"ru": "Счастье",
+"en": "Shchastia",
+"lat": 48.7377,
+"lon": 39.235,
+"pop": 13105,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Станиця Луганська",
+"ru": "Станица Луганская",
+"en": "Stanytsia Luhanska",
+"lat": 48.643,
+"lon": 39.4957,
+"pop": 13089,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Лиманка",
+"ru": "Лиманка",
+"en": "Lymanka",
+"lat": 46.3731,
+"lon": 30.6909,
+"pop": 13085,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Великодолинське",
+"ru": "Великодолинское",
+"en": "Velykodolynske",
+"lat": 46.3467,
+"lon": 30.576,
+"pop": 13036,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Жданівка",
+"ru": "Ждановка",
+"en": "Zhdanivka",
+"lat": 48.157,
+"lon": 38.2565,
+"pop": 12985,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Бородянка",
+"ru": "Бородянка",
+"en": "Borodianka",
+"lat": 50.6438,
+"lon": 29.9278,
+"pop": 12980,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Кам’янка",
+"ru": "Каменка",
+"en": "Kamianka",
+"lat": 49.0401,
+"lon": 32.1009,
+"pop": 12956,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Яворів",
+"ru": "Яворов",
+"en": "Yavoriv",
+"lat": 49.9456,
+"lon": 23.3886,
+"pop": 12948,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Глобине",
+"ru": "Глобино",
+"en": "Hlobyne",
+"lat": 49.392,
+"lon": 33.2507,
+"pop": 12801,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Антонівка",
+"ru": "Антоновка",
+"en": "Antonivka",
+"lat": 46.6799,
+"lon": 32.7368,
+"pop": 12790,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Городня",
+"ru": "Городня",
+"en": "Horodnia",
+"lat": 51.8915,
+"lon": 31.5955,
+"pop": 12766,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Баштанка",
+"ru": "Баштанка",
+"en": "Bashtanka",
+"lat": 47.4033,
+"lon": 32.4389,
+"pop": 12696,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Гвардійське",
+"ru": "Гвардейское",
+"en": "Gvardeyskoye",
+"lat": 45.1157,
+"lon": 34.0239,
+"pop": 12660,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Гнівань",
+"ru": "Гнивань",
+"en": "Hnivan",
+"lat": 49.0934,
+"lon": 28.3383,
+"pop": 12592,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Бучач",
+"ru": "Бучач",
+"en": "Buchach",
+"lat": 49.0631,
+"lon": 25.39,
+"pop": 12514,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Перегінське",
+"ru": "Перегинское",
+"en": "Perehinske",
+"lat": 48.8116,
+"lon": 24.1939,
+"pop": 12486,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Мена",
+"ru": "Мена",
+"en": "Mena",
+"lat": 51.5228,
+"lon": 32.2164,
+"pop": 12425,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Нова Одеса",
+"ru": "Новая Одесса",
+"en": "Nova Odesa",
+"lat": 47.311,
+"lon": 31.774,
+"pop": 12410,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Сіверськ",
+"ru": "Северск",
+"en": "Siversk",
+"lat": 48.8676,
+"lon": 38.0902,
+"pop": 12392,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Лохвиця",
+"ru": "Лохвица",
+"en": "Lokhvytsia",
+"lat": 50.3595,
+"lon": 33.2742,
+"pop": 12307,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Котельва",
+"ru": "Котельва",
+"en": "Kotelva",
+"lat": 50.0676,
+"lon": 34.7618,
+"pop": 12300,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Світлодарськ",
+"ru": "Светлодарск",
+"en": "Svitlodarsk",
+"lat": 48.438,
+"lon": 38.2235,
+"pop": 12273,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Біляївка",
+"ru": "Беляевка",
+"en": "Biliaivka",
+"lat": 46.4844,
+"lon": 30.2121,
+"pop": 12213,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Боково-Хрустальне",
+"ru": "Боково-Хрустальное",
+"en": "Боково-Хрустальне",
+"lat": 48.15,
+"lon": 38.8182,
+"pop": 12197,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Приморськ",
+"ru": "Приморск",
+"en": "Prymorsk",
+"lat": 46.7343,
+"lon": 36.3472,
+"pop": 12183,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Узин",
+"ru": "Узин",
+"en": "Uzyn",
+"lat": 49.8285,
+"lon": 30.4197,
+"pop": 12166,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Українськ",
+"ru": "Украинск",
+"en": "Ukrainsk",
+"lat": 48.0947,
+"lon": 37.3587,
+"pop": 12161,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Заставна",
+"ru": "Заставна",
+"en": "Zastavna",
+"lat": 48.5236,
+"lon": 25.8456,
+"pop": 12159,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Баранівка",
+"ru": "Барановка",
+"en": "Baranivka",
+"lat": 50.2937,
+"lon": 27.6667,
+"pop": 12128,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Якимівка",
+"ru": "Акимовка",
+"en": "Yakymivka",
+"lat": 46.6964,
+"lon": 35.1552,
+"pop": 12001,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Миронівка",
+"ru": "Мироновка",
+"en": "Myronivka",
+"lat": 49.6583,
+"lon": 30.9825,
+"pop": 11999,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Родинське",
+"ru": "Родинское",
+"en": "Rodynske",
+"lat": 48.354,
+"lon": 37.2034,
+"pop": 11996,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Новоазовськ",
+"ru": "Новоазовск",
+"en": "Novoazovsk",
+"lat": 47.1139,
+"lon": 38.0831,
+"pop": 11950,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Інкерман",
+"ru": "Инкерман",
+"en": "Inkerman",
+"lat": 44.6181,
+"lon": 33.6043,
+"pop": 11918,
+"place": "town",
+"region": "UA-40"
+},
+{
+"uk": "Кальміуське",
+"ru": "Комсомольское",
+"en": "Kalmiouske",
+"lat": 47.6688,
+"lon": 38.0739,
+"pop": 11909,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Соледар",
+"ru": "Соледар",
+"en": "Soledar",
+"lat": 48.6957,
+"lon": 38.0672,
+"pop": 11898,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Васильківка",
+"ru": "Васильковка",
+"en": "Vasylkivka",
+"lat": 48.2104,
+"lon": 36.0303,
+"pop": 11885,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Немирів",
+"ru": "Немиров",
+"en": "Nemyriv",
+"lat": 48.9654,
+"lon": 28.843,
+"pop": 11829,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Гірник",
+"ru": "Горняк",
+"en": "Hirnyk",
+"lat": 48.0568,
+"lon": 37.3724,
+"pop": 11822,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ічня",
+"ru": "Ічня",
+"en": "Ichnia",
+"lat": 50.8623,
+"lon": 32.391,
+"pop": 11781,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Камінь-Каширський",
+"ru": "Камень-Каширский",
+"en": "Kamin-Kashyrskyi",
+"lat": 51.6271,
+"lon": 24.9614,
+"pop": 11756,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Овідіополь",
+"ru": "Овидиополь",
+"en": "Ovidiopol",
+"lat": 46.2474,
+"lon": 30.4449,
+"pop": 11741,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Михайлівка",
+"ru": "Михайловка",
+"en": "Mykhailivka",
+"lat": 47.2657,
+"lon": 35.2217,
+"pop": 11694,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Новомиргород",
+"ru": "Новомиргород",
+"en": "Novomyrhorod",
+"lat": 48.797,
+"lon": 31.6524,
+"pop": 11677,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Покровське",
+"ru": "Покровское",
+"en": "Pokrovske",
+"lat": 47.9809,
+"lon": 36.2334,
+"pop": 11661,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Соснівка",
+"ru": "Сосновка",
+"en": "Sosnivka",
+"lat": 50.2909,
+"lon": 24.2563,
+"pop": 11588,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Тараща",
+"ru": "Тараща",
+"en": "Tarashcha",
+"lat": 49.5555,
+"lon": 30.5023,
+"pop": 11572,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Гребінка",
+"ru": "Гребёнка",
+"en": "Hrebinka",
+"lat": 50.1206,
+"lon": 32.4289,
+"pop": 11562,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Слобожанське",
+"ru": "Слобожанское",
+"en": "Slobozhanske",
+"lat": 48.5308,
+"lon": 35.0828,
+"pop": 11528,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Октябрське",
+"ru": "Октябрьское",
+"en": "Oktiabrskoe",
+"lat": 45.2932,
+"lon": 34.1286,
+"pop": 11489,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Рокитне",
+"ru": "Ракитное",
+"en": "Rokytne",
+"lat": 49.6867,
+"lon": 30.473,
+"pop": 11467,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Сновськ",
+"ru": "Сновск",
+"en": "Snovsk",
+"lat": 51.8188,
+"lon": 31.9449,
+"pop": 11393,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Іллінці",
+"ru": "Ильинцы",
+"en": "Illintsi",
+"lat": 49.1136,
+"lon": 29.2024,
+"pop": 11340,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Гаспра",
+"ru": "Гаспра",
+"en": "Gaspra",
+"lat": 44.4307,
+"lon": 34.1052,
+"pop": 11313,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Борщів",
+"ru": "Борщёв",
+"en": "Borshchiv",
+"lat": 48.8026,
+"lon": 26.0402,
+"pop": 11273,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Мала Виска",
+"ru": "Малая Виска",
+"en": "Mala Vyska",
+"lat": 48.6405,
+"lon": 31.6342,
+"pop": 11269,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Бобровиця",
+"ru": "Бобровица",
+"en": "Bobrovytsia",
+"lat": 50.7415,
+"lon": 31.3861,
+"pop": 11244,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Щолкіне",
+"ru": "Щёлкино",
+"en": "Shchyolkino",
+"lat": 45.4291,
+"lon": 35.8223,
+"pop": 11231,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Широке",
+"ru": "Широкое",
+"en": "Shyroke",
+"lat": 47.6847,
+"lon": 33.2645,
+"pop": 11221,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Жидачів",
+"ru": "Жыдачив",
+"en": "Zhydachiv",
+"lat": 49.3883,
+"lon": 24.1353,
+"pop": 11204,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Гресівський",
+"ru": "Грэсовский",
+"en": "Gresovsky",
+"lat": 45.0102,
+"lon": 34.0265,
+"pop": 11139,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Веселе",
+"ru": "Весёлое",
+"en": "Vesele",
+"lat": 47.0179,
+"lon": 34.9211,
+"pop": 11098,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Таврійськ",
+"ru": "Таврийск",
+"en": "Tavriisk",
+"lat": 46.755,
+"lon": 33.4248,
+"pop": 11051,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Мостиська",
+"ru": "Мостиска",
+"en": "Mostyska",
+"lat": 49.7923,
+"lon": 23.1479,
+"pop": 11000,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Чорноморське",
+"ru": "Черноморское",
+"en": "Chornomorskoe",
+"lat": 45.511,
+"lon": 32.6996,
+"pop": 10991,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Баришівка",
+"ru": "Барышевка",
+"en": "Baryshivka",
+"lat": 50.3645,
+"lon": 31.3257,
+"pop": 10950,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Нью-Йорк",
+"ru": "Нью-Йорк",
+"en": "Niu-York",
+"lat": 48.332,
+"lon": 37.8366,
+"pop": 10948,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Бобринець",
+"ru": "Бобринец",
+"en": "Bobrynets",
+"lat": 48.0573,
+"lon": 32.1594,
+"pop": 10945,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Кам’янка-Бузька",
+"ru": "Каменка-Бугская",
+"en": "Kamianka-Buzka",
+"lat": 50.1047,
+"lon": 24.3453,
+"pop": 10921,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Татарбунари",
+"ru": "Татарбунары",
+"en": "Tatarbunary",
+"lat": 45.8399,
+"lon": 29.6167,
+"pop": 10881,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Дубляни",
+"ru": "Дубляны",
+"en": "Dubliany",
+"lat": 49.9027,
+"lon": 24.0876,
+"pop": 10795,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Сартана",
+"ru": "Сартана",
+"en": "Sartana",
+"lat": 47.1701,
+"lon": 37.6953,
+"pop": 10772,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Болехів",
+"ru": "Болехов",
+"en": "Bolekhiv",
+"lat": 49.0663,
+"lon": 23.8599,
+"pop": 10766,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Моспине",
+"ru": "Моспино",
+"en": "Mospyne",
+"lat": 47.8813,
+"lon": 38.0747,
+"pop": 10753,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Красногвардійське",
+"ru": "Красногвардейское",
+"en": "Krasnogvardeyskoye",
+"lat": 45.496,
+"lon": 34.2951,
+"pop": 10742,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Новодністровськ",
+"ru": "Новоднестровск",
+"en": "Novodnistrovsk",
+"lat": 48.5849,
+"lon": 27.4311,
+"pop": 10701,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Барвінкове",
+"ru": "Барвенково",
+"en": "Barvinkove",
+"lat": 48.903,
+"lon": 37.0246,
+"pop": 10700,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Новотроїцьке",
+"ru": "Новотроицкое",
+"en": "Novotroitske",
+"lat": 46.3558,
+"lon": 34.3364,
+"pop": 10627,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Іванків",
+"ru": "Иванков",
+"en": "Ivankiv",
+"lat": 50.933,
+"lon": 29.9043,
+"pop": 10602,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Летичів",
+"ru": "Летичев",
+"en": "Letychiv",
+"lat": 49.3829,
+"lon": 27.6231,
+"pop": 10577,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Маневичі",
+"ru": "Маневичи",
+"en": "Manevychi",
+"lat": 51.2908,
+"lon": 25.5379,
+"pop": 10500,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Радивилів",
+"ru": "Радивилов",
+"en": "Radyvyliv",
+"lat": 50.128,
+"lon": 25.2487,
+"pop": 10487,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Добротвір",
+"ru": "Добротвор",
+"en": "Dobrotvir",
+"lat": 50.2053,
+"lon": 24.3856,
+"pop": 10457,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Ямпіль",
+"ru": "Ямполь",
+"en": "Yampil",
+"lat": 48.2456,
+"lon": 28.2853,
+"pop": 10421,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Зіньків",
+"ru": "Зеньков",
+"en": "Zinkiv",
+"lat": 50.2103,
+"lon": 34.3577,
+"pop": 10393,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Макарів",
+"ru": "Макаров",
+"en": "Makariv",
+"lat": 50.464,
+"lon": 29.8069,
+"pop": 10389,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Ірміно",
+"ru": "Ирмино",
+"en": "Irmino",
+"lat": 48.6014,
+"lon": 38.6019,
+"pop": 10355,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Північне",
+"ru": "Северное",
+"en": "Pivnichne",
+"lat": 48.3866,
+"lon": 37.9019,
+"pop": 10330,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Гірське",
+"ru": "Горское",
+"en": "Hirske",
+"lat": 48.7399,
+"lon": 38.496,
+"pop": 10317,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Валки",
+"ru": "Валки",
+"en": "Valky",
+"lat": 49.8306,
+"lon": 35.6088,
+"pop": 10295,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Олевськ",
+"ru": "Олевск",
+"en": "Olevsk",
+"lat": 51.2227,
+"lon": 27.6488,
+"pop": 10229,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Снятин",
+"ru": "Снятын",
+"en": "Sniatyn",
+"lat": 48.4523,
+"lon": 25.5518,
+"pop": 10161,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Перещепине",
+"ru": "Перещепино",
+"en": "Pereshchepyne",
+"lat": 49.0183,
+"lon": 35.3591,
+"pop": 10150,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Зимогір’я",
+"ru": "Зимогорье",
+"en": "Zymohiria",
+"lat": 48.5782,
+"lon": 38.9451,
+"pop": 10148,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Верхівцеве",
+"ru": "Верховцево",
+"en": "Verkhivtseve",
+"lat": 48.484,
+"lon": 34.2423,
+"pop": 10134,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Любомль",
+"ru": "Любомль",
+"en": "Liuboml",
+"lat": 51.2235,
+"lon": 24.0316,
+"pop": 10129,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Теплодар",
+"ru": "Теплодар",
+"en": "Teplodar",
+"lat": 46.5051,
+"lon": 30.3272,
+"pop": 10081,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Новоолексіївка",
+"ru": "Новоалексеевка",
+"en": "Novooleksiivka",
+"lat": 46.2277,
+"lon": 34.6414,
+"pop": 10080,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Чаплинка",
+"ru": "Чаплинка",
+"en": "Chaplynka",
+"lat": 46.3618,
+"lon": 33.538,
+"pop": 10021,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Погребище",
+"ru": "Погребище",
+"en": "Pohrebyshche",
+"lat": 49.4848,
+"lon": 29.2579,
+"pop": 10013,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Софіївка",
+"ru": "Софиевка",
+"en": "Софіївка",
+"lat": 48.2703,
+"lon": 38.1447,
+"pop": 10013,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ічкі",
+"ru": "Советский",
+"en": "Sovietskyi",
+"lat": 45.3417,
+"lon": 34.9279,
+"pop": 9947,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Ходорів",
+"ru": "Ходоров",
+"en": "Khodoriv",
+"lat": 49.4066,
+"lon": 24.314,
+"pop": 9900,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Айдар",
+"ru": "Айдар",
+"en": "Aidar",
+"lat": 49.5384,
+"lon": 39.1022,
+"pop": 9900,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Донець",
+"ru": "Донец",
+"en": "Donets",
+"lat": 49.5092,
+"lon": 36.5696,
+"pop": 9883,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Сєверне",
+"ru": "Северное",
+"en": "Sieverne",
+"lat": 48.083,
+"lon": 38.6856,
+"pop": 9868,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Золочів",
+"ru": "Золочев",
+"en": "Zolochiv",
+"lat": 50.2791,
+"lon": 35.9824,
+"pop": 9860,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Білозерка",
+"ru": "Белозёрка",
+"en": "Bilozerka",
+"lat": 46.6308,
+"lon": 32.4454,
+"pop": 9804,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Ворожба",
+"ru": "Ворожба",
+"en": "Vorozhba",
+"lat": 51.1722,
+"lon": 34.2245,
+"pop": 9800,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Куп’янськ-Вузловий",
+"ru": "Купянск-Узловой",
+"en": "Kupiansk-Vuzlovyi",
+"lat": 49.6599,
+"lon": 37.6439,
+"pop": 9789,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Смоліне",
+"ru": "Смолино",
+"en": "Smoline",
+"lat": 48.6015,
+"lon": 31.2957,
+"pop": 9745,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Красноїльськ",
+"ru": "Красноильск",
+"en": "Krasnoilsk",
+"lat": 48.0182,
+"lon": 25.5999,
+"pop": 9738,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Березівка",
+"ru": "Березовка",
+"en": "Berezivka",
+"lat": 47.2016,
+"lon": 30.9086,
+"pop": 9737,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Черняхів",
+"ru": "Черняхов",
+"en": "Cherniakhiv",
+"lat": 50.453,
+"lon": 28.6657,
+"pop": 9726,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Андріївка",
+"ru": "Андреевка",
+"en": "Andriivka",
+"lat": 49.5456,
+"lon": 36.6116,
+"pop": 9705,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Безлюдівка",
+"ru": "Безлюдовка",
+"en": "Bezliudivka",
+"lat": 49.8707,
+"lon": 36.2985,
+"pop": 9693,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Тисмениця",
+"ru": "Тысменица",
+"en": "Tysmenytsia",
+"lat": 48.9018,
+"lon": 24.8485,
+"pop": 9618,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Дубове",
+"ru": "Дубовое",
+"en": "Dubove",
+"lat": 48.1792,
+"lon": 23.886,
+"pop": 9591,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Млинів",
+"ru": "Млинов",
+"en": "Mlyniv",
+"lat": 50.5119,
+"lon": 25.6126,
+"pop": 9564,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Нижньогірський",
+"ru": "Нижнегорский",
+"en": "Nizhnegorskiy",
+"lat": 45.443,
+"lon": 34.7384,
+"pop": 9564,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Велика Димерка",
+"ru": "Великая Дымерка",
+"en": "Velyka Dymerka",
+"lat": 50.5914,
+"lon": 30.9016,
+"pop": 9564,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Біленьке",
+"ru": "Беленькое",
+"en": "Bilenke",
+"lat": 48.7592,
+"lon": 37.6178,
+"pop": 9551,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Міжгір’я",
+"ru": "Межгорье",
+"en": "Mizhhiria",
+"lat": 48.5281,
+"lon": 23.5009,
+"pop": 9549,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Сокиряни",
+"ru": "Сокиряны",
+"en": "Sokyriany",
+"lat": 48.446,
+"lon": 27.4112,
+"pop": 9538,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Покотилівка",
+"ru": "Покотиловка",
+"en": "Pokotylivka",
+"lat": 49.9161,
+"lon": 36.1804,
+"pop": 9536,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Каланчак",
+"ru": "Каланчак",
+"en": "Kalanchak",
+"lat": 46.2572,
+"lon": 33.2844,
+"pop": 9518,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Ратне",
+"ru": "Ратно",
+"en": "Ratne",
+"lat": 51.6715,
+"lon": 24.5246,
+"pop": 9483,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Радехів",
+"ru": "Радехів",
+"en": "Radekhiv",
+"lat": 50.2809,
+"lon": 24.6398,
+"pop": 9463,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Борзна",
+"ru": "Борзна",
+"en": "Borzna",
+"lat": 51.2534,
+"lon": 32.4263,
+"pop": 9454,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Старий Крим",
+"ru": "Старый Крым",
+"en": "Stary Krym",
+"lat": 45.0294,
+"lon": 35.0882,
+"pop": 9446,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Дубровиця",
+"ru": "Дубровица",
+"en": "Dubrovytsia",
+"lat": 51.5709,
+"lon": 26.5661,
+"pop": 9430,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Любашівка",
+"ru": "Любашёвка",
+"en": "Liubashivka",
+"lat": 47.8316,
+"lon": 30.2562,
+"pop": 9429,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Городенка",
+"ru": "Городенка",
+"en": "Horodenka",
+"lat": 48.6721,
+"lon": 25.4953,
+"pop": 9428,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Заліщики",
+"ru": "Залещики",
+"en": "Zalishchyky",
+"lat": 48.6536,
+"lon": 25.7311,
+"pop": 9426,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Хотин",
+"ru": "Хотин",
+"en": "Khotyn",
+"lat": 48.5068,
+"lon": 26.4859,
+"pop": 9422,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Козова",
+"ru": "Козова",
+"en": "Kozova",
+"lat": 49.4333,
+"lon": 25.1485,
+"pop": 9389,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Глибока",
+"ru": "Глибока",
+"en": "Hlyboka",
+"lat": 48.0858,
+"lon": 25.9284,
+"pop": 9376,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Великий Бичків",
+"ru": "Великий Бычков",
+"en": "Velykyi Bychkiv",
+"lat": 47.9735,
+"lon": 24.0147,
+"pop": 9367,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Ананьїв",
+"ru": "Ананьев",
+"en": "Ananiv",
+"lat": 47.7162,
+"lon": 29.9635,
+"pop": 9355,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Новий Світ",
+"ru": "Новый Свет",
+"en": "Novyi Svit",
+"lat": 47.8067,
+"lon": 38.0211,
+"pop": 9329,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Решетилівка",
+"ru": "Решетиловка",
+"en": "Reshetylivka",
+"lat": 49.5586,
+"lon": 34.0792,
+"pop": 9297,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Тячів",
+"ru": "Тячев",
+"en": "Tiachiv",
+"lat": 48.0116,
+"lon": 23.5784,
+"pop": 9184,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Петропавлівка",
+"ru": "Петропавловка",
+"en": "Petropavlivka",
+"lat": 48.4586,
+"lon": 36.4248,
+"pop": 9177,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Іршава",
+"ru": "Иршава",
+"en": "Irshava",
+"lat": 48.3192,
+"lon": 23.0418,
+"pop": 9166,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Андрушівка",
+"ru": "Андрушёвка",
+"en": "Andrushivka",
+"lat": 50.0301,
+"lon": 29.0222,
+"pop": 9092,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Гурзуф",
+"ru": "Гурзуф",
+"en": "Gurzuf",
+"lat": 44.5479,
+"lon": 34.2737,
+"pop": 9068,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Крижопіль",
+"ru": "Крыжополь",
+"en": "Kryzhopil",
+"lat": 48.3857,
+"lon": 28.8694,
+"pop": 9024,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Первомайське",
+"ru": "Первомайское",
+"en": "Pervomaiskoe",
+"lat": 45.7124,
+"lon": 33.8641,
+"pop": 9019,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Ясенівський",
+"ru": "Ясеновский",
+"en": "Yasenivskyi",
+"lat": 48.1561,
+"lon": 39.2065,
+"pop": 9017,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Пустомити",
+"ru": "Пустомыты",
+"en": "Pustomyty",
+"lat": 49.719,
+"lon": 23.9047,
+"pop": 9016,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Королево",
+"ru": "Королёво",
+"en": "Korolevo",
+"lat": 48.1541,
+"lon": 23.1322,
+"pop": 8993,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Чоп",
+"ru": "Чоп",
+"en": "Chop",
+"lat": 48.4314,
+"lon": 22.2064,
+"pop": 8981,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Солотвино",
+"ru": "Солотвино",
+"en": "Solotvyno",
+"lat": 47.947,
+"lon": 23.8747,
+"pop": 8977,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Успенка",
+"ru": "Успенка",
+"en": "Uspenka",
+"lat": 48.3938,
+"lon": 39.1568,
+"pop": 8974,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Кодима",
+"ru": "Кодыма",
+"en": "Kodyma",
+"lat": 48.1047,
+"lon": 29.1286,
+"pop": 8932,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Краснопілля",
+"ru": "Краснополье",
+"en": "Krasnopillia",
+"lat": 50.7713,
+"lon": 35.2563,
+"pop": 8905,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Стрижавка",
+"ru": "Стрижавка",
+"en": "Stryzhavka",
+"lat": 49.3098,
+"lon": 28.4731,
+"pop": 8869,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Липовець",
+"ru": "Липовец",
+"en": "Lypovets",
+"lat": 49.2296,
+"lon": 29.0642,
+"pop": 8867,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Володимирець",
+"ru": "Владимирец",
+"en": "Volodymyrets",
+"lat": 51.4198,
+"lon": 26.1392,
+"pop": 8857,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Олександрівка",
+"ru": "Александровка",
+"en": "Oleksandrivka",
+"lat": 48.9659,
+"lon": 32.2336,
+"pop": 8849,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Тлумач",
+"ru": "Тлумач",
+"en": "Tlumach",
+"lat": 48.8666,
+"lon": 25.0012,
+"pop": 8841,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Буринь",
+"ru": "Бурынь",
+"en": "Buryn",
+"lat": 51.196,
+"lon": 33.8288,
+"pop": 8787,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Білицьке",
+"ru": "Белицкое",
+"en": "Bilytske",
+"lat": 48.4078,
+"lon": 37.1765,
+"pop": 8768,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Заводське",
+"ru": "Заводське",
+"en": "Zavodske",
+"lat": 50.4053,
+"lon": 33.3974,
+"pop": 8700,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Ланівці",
+"ru": "Лановцы",
+"en": "Lanivtsi",
+"lat": 49.8734,
+"lon": 26.078,
+"pop": 8682,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Глеваха",
+"ru": "Глеваха",
+"en": "Hlevakha",
+"lat": 50.2597,
+"lon": 30.3059,
+"pop": 8679,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Христинівка",
+"ru": "Христиновка",
+"en": "Khrystynivka",
+"lat": 48.813,
+"lon": 29.9678,
+"pop": 8671,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Врадіївка",
+"ru": "Врадиевка",
+"en": "Vradiivka",
+"lat": 47.8594,
+"lon": 30.5891,
+"pop": 8669,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Нове",
+"ru": "Новое",
+"en": "Nove",
+"lat": 48.5293,
+"lon": 32.1245,
+"pop": 8653,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Буштино",
+"ru": "Буштыно",
+"en": "Bushtyno",
+"lat": 48.0487,
+"lon": 23.4863,
+"pop": 8634,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Сахновщина",
+"ru": "Сахновщина",
+"en": "Sakhnovshchyna",
+"lat": 49.1517,
+"lon": 35.8753,
+"pop": 8625,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Новоайдар",
+"ru": "Новоайдар",
+"en": "Novoaidar",
+"lat": 48.9596,
+"lon": 38.9938,
+"pop": 8622,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Помічна",
+"ru": "Помошная",
+"en": "Pomichna",
+"lat": 48.2433,
+"lon": 31.4037,
+"pop": 8608,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Любимівка",
+"ru": "Любимовка",
+"en": "Любимівка",
+"lat": 48.0476,
+"lon": 39.4381,
+"pop": 8599,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Маньківка",
+"ru": "Маньковка",
+"en": "Mankivka",
+"lat": 48.9634,
+"lon": 30.3343,
+"pop": 8596,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Вилкове",
+"ru": "Вилково",
+"en": "Vylkove",
+"lat": 45.4031,
+"lon": 29.5831,
+"pop": 8570,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Микільське",
+"ru": "Володарское",
+"en": "Mykilske",
+"lat": 47.2004,
+"lon": 37.3162,
+"pop": 8539,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Варва",
+"ru": "Варва",
+"en": "Varva",
+"lat": 50.4983,
+"lon": 32.7229,
+"pop": 8518,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Південне",
+"ru": "Пивденное",
+"en": "Pivdenne",
+"lat": 49.8847,
+"lon": 36.0667,
+"pop": 8516,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Алупка",
+"ru": "Алупка",
+"en": "Alupka",
+"lat": 44.4204,
+"lon": 34.0484,
+"pop": 8497,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Яворницьке",
+"ru": "Яворницкое",
+"en": "Yavornytske",
+"lat": 48.4044,
+"lon": 35.2755,
+"pop": 8495,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Диканька",
+"ru": "Диканька",
+"en": "Dykanka",
+"lat": 49.8228,
+"lon": 34.5386,
+"pop": 8468,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Косів",
+"ru": "Косов",
+"en": "Kosiv",
+"lat": 48.3158,
+"lon": 25.0983,
+"pop": 8456,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Семенівка",
+"ru": "Семёновка",
+"en": "Semenivka",
+"lat": 52.1785,
+"lon": 32.5776,
+"pop": 8450,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Горохів",
+"ru": "Горохов",
+"en": "Horokhiv",
+"lat": 50.4986,
+"lon": 24.7601,
+"pop": 8444,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Монастирище",
+"ru": "Монастырище",
+"en": "Monastyryshche",
+"lat": 48.9944,
+"lon": 29.8007,
+"pop": 8425,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Масандра",
+"ru": "Массандра",
+"en": "Massandra",
+"lat": 44.5088,
+"lon": 34.1887,
+"pop": 8413,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Буськ",
+"ru": "Буск",
+"en": "Busk",
+"lat": 49.9654,
+"lon": 24.609,
+"pop": 8355,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Мангуш",
+"ru": "Мангуш",
+"en": "Manhush",
+"lat": 47.0568,
+"lon": 37.3078,
+"pop": 8331,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Рава-Руська",
+"ru": "Рава-Русская",
+"en": "Rava-Ruska",
+"lat": 50.2307,
+"lon": 23.624,
+"pop": 8328,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Біловодськ",
+"ru": "Беловодск",
+"en": "Bilovodsk",
+"lat": 49.2068,
+"lon": 39.5912,
+"pop": 8313,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Вишково",
+"ru": "Вышково",
+"en": "Vyshkovo",
+"lat": 48.0461,
+"lon": 23.4277,
+"pop": 8312,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Ясногірка",
+"ru": "Ясногорка",
+"en": "Yasnohirka",
+"lat": 48.7787,
+"lon": 37.5537,
+"pop": 8312,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ясіня",
+"ru": "Ясиня",
+"en": "Yasinia",
+"lat": 48.2723,
+"lon": 24.3612,
+"pop": 8308,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Борова",
+"ru": "Боровая",
+"en": "Borova",
+"lat": 50.1699,
+"lon": 30.1033,
+"pop": 8300,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Обухівка",
+"ru": "Обуховка",
+"en": "Obukhivka",
+"lat": 48.5495,
+"lon": 34.8546,
+"pop": 8266,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Козелець",
+"ru": "Козелец",
+"en": "Kozelets",
+"lat": 50.9161,
+"lon": 31.1168,
+"pop": 8251,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Софіївка",
+"ru": "Софиевка",
+"en": "Sofiivka",
+"lat": 48.0482,
+"lon": 33.8669,
+"pop": 8243,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Вуглегірськ",
+"ru": "Углегорск",
+"en": "Vuhlehirsk",
+"lat": 48.312,
+"lon": 38.2609,
+"pop": 8226,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Лисянка",
+"ru": "Лысянка",
+"en": "Lysianka",
+"lat": 49.2526,
+"lon": 30.8275,
+"pop": 8206,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Делятин",
+"ru": "Делятин",
+"en": "Deliatyn",
+"lat": 48.5277,
+"lon": 24.6286,
+"pop": 8184,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Кушугум",
+"ru": "Кушугум",
+"en": "Kushuhum",
+"lat": 47.7167,
+"lon": 35.2098,
+"pop": 8176,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Нові Санжари",
+"ru": "Новые Санжары",
+"en": "Novi Sanzhary",
+"lat": 49.3338,
+"lon": 34.3149,
+"pop": 8146,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Квасилів",
+"ru": "Квасилов",
+"en": "Kvasyliv",
+"lat": 50.5582,
+"lon": 26.2624,
+"pop": 8117,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Миронівський",
+"ru": "Мироновский",
+"en": "Myronivskyi",
+"lat": 48.4621,
+"lon": 38.2755,
+"pop": 8100,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Рогатин",
+"ru": "Рогатин",
+"en": "Rohatyn",
+"lat": 49.4093,
+"lon": 24.6106,
+"pop": 8097,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Слов’яносербськ",
+"ru": "Славяносербск",
+"en": "Slovianoserbsk",
+"lat": 48.6947,
+"lon": 38.9863,
+"pop": 8065,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Межова",
+"ru": "Межевая",
+"en": "Mezhova",
+"lat": 48.2554,
+"lon": 36.7323,
+"pop": 8049,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Яремче",
+"ru": "Яремче",
+"en": "Yaremche",
+"lat": 48.4504,
+"lon": 24.551,
+"pop": 8047,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Пантелеймонівка",
+"ru": "Пантелеймоновка",
+"en": "Panteleimonivka",
+"lat": 48.2071,
+"lon": 37.9729,
+"pop": 8009,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Краснокутськ",
+"ru": "Краснокутск",
+"en": "Krasnokutsk",
+"lat": 50.0626,
+"lon": 35.1648,
+"pop": 8008,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Підволочиськ",
+"ru": "Подволочиск",
+"en": "Pidvolochysk",
+"lat": 49.5314,
+"lon": 26.1441,
+"pop": 8002,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Градизьк",
+"ru": "Градижск",
+"en": "Hradyzk",
+"lat": 49.2312,
+"lon": 33.1206,
+"pop": 8002,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Троїцьке",
+"ru": "Троицкое",
+"en": "Troitske",
+"lat": 49.9074,
+"lon": 38.2868,
+"pop": 7975,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Криве Озеро",
+"ru": "Кривое Озеро",
+"en": "Kryve Ozero",
+"lat": 47.9532,
+"lon": 30.3426,
+"pop": 7958,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Ярмолинці",
+"ru": "Ярмолинцы",
+"en": "Yarmolyntsi",
+"lat": 49.1893,
+"lon": 26.8268,
+"pop": 7954,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Ланчин",
+"ru": "Ланчин",
+"en": "Lanchyn",
+"lat": 48.5555,
+"lon": 24.7523,
+"pop": 7938,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Єди-Кую",
+"ru": "Ленино",
+"en": "Lenino",
+"lat": 45.2957,
+"lon": 35.7738,
+"pop": 7936,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Богородчани",
+"ru": "Богородчаны",
+"en": "Bohorodchany",
+"lat": 48.8093,
+"lon": 24.5456,
+"pop": 7916,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Привілля",
+"ru": "Приволье",
+"en": "Pryvillia",
+"lat": 48.9997,
+"lon": 38.3011,
+"pop": 7901,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Новоселиця",
+"ru": "Новоселица",
+"en": "Novoselytsia",
+"lat": 48.218,
+"lon": 26.2665,
+"pop": 7892,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Вапнярка",
+"ru": "Вапнярка",
+"en": "Vapniarka",
+"lat": 48.5312,
+"lon": 28.7468,
+"pop": 7891,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Новодружеськ",
+"ru": "Новодружеск",
+"en": "Novodruzhesk",
+"lat": 48.9634,
+"lon": 38.352,
+"pop": 7870,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Тростянець",
+"ru": "Тростянец",
+"en": "Trostianets",
+"lat": 48.5123,
+"lon": 29.2227,
+"pop": 7850,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Почаїв",
+"ru": "Почаев",
+"en": "Pochaiv",
+"lat": 50.0018,
+"lon": 25.5111,
+"pop": 7842,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Царичанка",
+"ru": "Царичанка",
+"en": "Tsarychanka",
+"lat": 48.9434,
+"lon": 34.4899,
+"pop": 7839,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Велика Лепетиха",
+"ru": "Великая Лепетиха",
+"en": "Velyka Lepetykha",
+"lat": 47.1786,
+"lon": 33.9428,
+"pop": 7830,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Краснопавлівка",
+"ru": "Краснопавловка",
+"en": "Krasnopavlivka",
+"lat": 49.137,
+"lon": 36.3208,
+"pop": 7828,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Романів",
+"ru": "Романов",
+"en": "Romaniv",
+"lat": 50.1477,
+"lon": 27.9314,
+"pop": 7800,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Свеса",
+"ru": "Свесса",
+"en": "Svesa",
+"lat": 51.9482,
+"lon": 33.933,
+"pop": 7758,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Олексієво-Дружківка",
+"ru": "Алексеево-Дружковка",
+"en": "Oleksiievo-Druzhkivka",
+"lat": 48.5786,
+"lon": 37.6045,
+"pop": 7746,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Берегомет",
+"ru": "Берегомет",
+"en": "Berehomet",
+"lat": 48.1631,
+"lon": 25.3099,
+"pop": 7741,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Малинівка",
+"ru": "Малиновка",
+"en": "Malynivka",
+"lat": 49.8007,
+"lon": 36.7181,
+"pop": 7725,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Власівка",
+"ru": "Власовка",
+"en": "Vlasivka",
+"lat": 49.1161,
+"lon": 33.2792,
+"pop": 7724,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Клевань",
+"ru": "Клевань",
+"en": "Klevan",
+"lat": 50.7465,
+"lon": 26.0063,
+"pop": 7708,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Березнегувате",
+"ru": "Березнеговатое",
+"en": "Bereznehuvate",
+"lat": 47.3087,
+"lon": 32.8487,
+"pop": 7676,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Випасне",
+"ru": "Выпасное",
+"en": "Vypasne",
+"lat": 46.1928,
+"lon": 30.2583,
+"pop": 7675,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Вороніж",
+"ru": "Воронеж",
+"en": "Voronizh",
+"lat": 51.7778,
+"lon": 33.466,
+"pop": 7652,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Тересва",
+"ru": "Тересва",
+"en": "Teresva",
+"lat": 47.9979,
+"lon": 23.6996,
+"pop": 7625,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Кипуче",
+"ru": "Кипучее",
+"en": "Kypuche",
+"lat": 48.4388,
+"lon": 38.7215,
+"pop": 7616,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Чорнобай",
+"ru": "Чернобай",
+"en": "Chornobai",
+"lat": 49.6704,
+"lon": 32.3234,
+"pop": 7573,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Солоне",
+"ru": "Солёное",
+"en": "Solone",
+"lat": 48.2042,
+"lon": 34.8771,
+"pop": 7567,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Ржищів",
+"ru": "Ржищев",
+"en": "Rzhyshchiv",
+"lat": 49.9682,
+"lon": 31.0412,
+"pop": 7564,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Десна",
+"ru": "Десна",
+"en": "Desna",
+"lat": 50.9248,
+"lon": 30.773,
+"pop": 7562,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Кельменці",
+"ru": "Кельменцы",
+"en": "Kelmentsi",
+"lat": 48.4655,
+"lon": 26.8319,
+"pop": 7552,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Сосниця",
+"ru": "Сосниця",
+"en": "Sosnytsia",
+"lat": 51.5245,
+"lon": 32.5029,
+"pop": 7534,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Зоринськ",
+"ru": "Зоринск",
+"en": "Zorynsk",
+"lat": 48.413,
+"lon": 38.6279,
+"pop": 7532,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Середина-Буда",
+"ru": "Середина-Буда",
+"en": "Seredyna-Buda",
+"lat": 52.1887,
+"lon": 34.0306,
+"pop": 7500,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Мала Данилівка",
+"ru": "Малая Даниловка",
+"en": "Mala Danylivka",
+"lat": 50.0635,
+"lon": 36.1636,
+"pop": 7471,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Семенівка",
+"ru": "Семёновка",
+"en": "Semenivka",
+"lat": 49.5973,
+"lon": 33.1796,
+"pop": 7469,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Понінка",
+"ru": "Понинка",
+"en": "Poninka",
+"lat": 50.1914,
+"lon": 27.5613,
+"pop": 7464,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Ріпки",
+"ru": "Репки",
+"en": "Ripky",
+"lat": 51.8036,
+"lon": 31.0931,
+"pop": 7458,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Корець",
+"ru": "Корец",
+"en": "Korets",
+"lat": 50.6195,
+"lon": 27.1597,
+"pop": 7428,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Кам’янка",
+"ru": "Каменка",
+"en": "Kamianka",
+"lat": 47.3624,
+"lon": 36.6511,
+"pop": 7408,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Хорошів",
+"ru": "Хорошев",
+"en": "Khoroshiv",
+"lat": 50.596,
+"lon": 28.4453,
+"pop": 7382,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Казанка",
+"ru": "Казанка",
+"en": "Kazanka",
+"lat": 47.8352,
+"lon": 32.8242,
+"pop": 7343,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Іванівка",
+"ru": "Ивановка",
+"en": "Ivanivka",
+"lat": 48.2379,
+"lon": 38.9352,
+"pop": 7333,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Лиманівка",
+"ru": "Лимановка",
+"en": "Lymanivka",
+"lat": 48.9357,
+"lon": 36.2779,
+"pop": 7332,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Бабаї",
+"ru": "Бабаи",
+"en": "Babai",
+"lat": 49.8915,
+"lon": 36.2025,
+"pop": 7304,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Лиманське",
+"ru": "Лиманское",
+"en": "Lymanske",
+"lat": 46.6618,
+"lon": 29.9761,
+"pop": 7301,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Роздольне",
+"ru": "Раздольное",
+"en": "Razdol'noye",
+"lat": 45.7683,
+"lon": 33.4896,
+"pop": 7300,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Нова Прага",
+"ru": "Новая Прага",
+"en": "Nova Praha",
+"lat": 48.5691,
+"lon": 32.9044,
+"pop": 7273,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Вільшани",
+"ru": "Ольшаны",
+"en": "Vilshany",
+"lat": 50.0514,
+"lon": 35.8839,
+"pop": 7252,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Велика Березовиця",
+"ru": "Великая Березовица",
+"en": "Velyka Berezovytsia",
+"lat": 49.502,
+"lon": 25.6113,
+"pop": 7249,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Рудно",
+"ru": "Рудно",
+"en": "Rudno",
+"lat": 49.8359,
+"lon": 23.8807,
+"pop": 7244,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Новоозерне",
+"ru": "Новоозёрное",
+"en": "Novoozyornoye",
+"lat": 45.3837,
+"lon": 33.117,
+"pop": 7242,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Петрове",
+"ru": "Петрово",
+"en": "Petrove",
+"lat": 48.336,
+"lon": 33.2674,
+"pop": 7224,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Ямпіль",
+"ru": "Ямполь",
+"en": "Yampil",
+"lat": 51.9481,
+"lon": 33.7785,
+"pop": 7200,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Нова Маячка",
+"ru": "Новая Маячка",
+"en": "Nova Maiachka",
+"lat": 46.5966,
+"lon": 33.2214,
+"pop": 7181,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Пересічне",
+"ru": "Пересечное",
+"en": "Peresichne",
+"lat": 50.016,
+"lon": 35.9911,
+"pop": 7176,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Зборів",
+"ru": "Зборов",
+"en": "Zboriv",
+"lat": 49.6645,
+"lon": 25.1386,
+"pop": 7163,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Молодіжне",
+"ru": "Молодёжное",
+"en": "Molodyozhnoye",
+"lat": 45.0088,
+"lon": 34.0607,
+"pop": 7151,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Гольмівський",
+"ru": "Гольмовский",
+"en": "Holmivskyi",
+"lat": 48.4044,
+"lon": 38.0884,
+"pop": 7127,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Турка",
+"ru": "Турка",
+"en": "Turka",
+"lat": 49.1531,
+"lon": 23.0336,
+"pop": 7114,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Воловець",
+"ru": "Воловец",
+"en": "Volovets",
+"lat": 48.7146,
+"lon": 23.1888,
+"pop": 7104,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Гусятин",
+"ru": "Гусятин",
+"en": "Husiatyn",
+"lat": 49.0708,
+"lon": 26.1996,
+"pop": 7104,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Новотроїцьке",
+"ru": "Новотроицкое",
+"en": "Novotroitske",
+"lat": 47.7167,
+"lon": 37.5817,
+"pop": 7093,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Молочанськ",
+"ru": "Молочанск",
+"en": "Molochansk",
+"lat": 47.2065,
+"lon": 35.5974,
+"pop": 7090,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Перемишляни",
+"ru": "Перемышляны",
+"en": "Peremyshliany",
+"lat": 49.6694,
+"lon": 24.5584,
+"pop": 7085,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Великий Березний",
+"ru": "Великий Берёзный",
+"en": "Velykyi Bereznyi",
+"lat": 48.8899,
+"lon": 22.4581,
+"pop": 7078,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Хоростків",
+"ru": "Хоростков",
+"en": "Khorostkiv",
+"lat": 49.2122,
+"lon": 25.9169,
+"pop": 7067,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Зарічне",
+"ru": "Заречное",
+"en": "Zarichne",
+"lat": 51.8116,
+"lon": 26.1284,
+"pop": 7045,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Пісківка",
+"ru": "Пісківка",
+"en": "Piskivka",
+"lat": 50.6969,
+"lon": 29.5931,
+"pop": 7030,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Зуя",
+"ru": "Зуя",
+"en": "Zuya",
+"lat": 45.0548,
+"lon": 34.3226,
+"pop": 7027,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Кіровське",
+"ru": "Кировское",
+"en": "Kirovskoe",
+"lat": 45.2306,
+"lon": 35.2011,
+"pop": 7024,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Буди",
+"ru": "Буды",
+"en": "Budy",
+"lat": 49.8916,
+"lon": 36.0238,
+"pop": 7004,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Старий Самбір",
+"ru": "Старый Самбор",
+"en": "Staryi Sambir",
+"lat": 49.4441,
+"lon": 23.0023,
+"pop": 7000,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Кіцмань",
+"ru": "Кицмань",
+"en": "Kitsman",
+"lat": 48.4411,
+"lon": 25.7668,
+"pop": 6995,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Ставище",
+"ru": "Ставище",
+"en": "Stavyshche",
+"lat": 49.3897,
+"lon": 30.1921,
+"pop": 6974,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Немішаєве",
+"ru": "Немішаєве",
+"en": "Nemishaieve",
+"lat": 50.568,
+"lon": 30.1015,
+"pop": 6968,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Велика Олександрівка",
+"ru": "Великая Александровка",
+"en": "Velyka Oleksandrivka",
+"lat": 47.3159,
+"lon": 33.2998,
+"pop": 6966,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Олександрівка",
+"ru": "Александровка",
+"en": "Oleksandrivka",
+"lat": 46.3279,
+"lon": 30.6313,
+"pop": 6953,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Шаргород",
+"ru": "Шаргород",
+"en": "Sharhorod",
+"lat": 48.7498,
+"lon": 28.0832,
+"pop": 6949,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Білокуракине",
+"ru": "Белокуракино",
+"en": "Bilokurakyne",
+"lat": 49.5264,
+"lon": 38.7354,
+"pop": 6944,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Кріпенський",
+"ru": "Крепенский",
+"en": "Kripenskyi",
+"lat": 48.0819,
+"lon": 39.0627,
+"pop": 6941,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Копичинці",
+"ru": "Копычинцы",
+"en": "Kopychyntsi",
+"lat": 49.1069,
+"lon": 25.9085,
+"pop": 6869,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Доброслав",
+"ru": "Доброслав",
+"en": "Dobroslav",
+"lat": 46.8194,
+"lon": 30.9432,
+"pop": 6863,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Ємільчине",
+"ru": "Емильчино",
+"en": "Yemilchyne",
+"lat": 50.8721,
+"lon": 27.8047,
+"pop": 6842,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Драбів",
+"ru": "Драбов",
+"en": "Drabiv",
+"lat": 49.9571,
+"lon": 32.1411,
+"pop": 6838,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Савинці",
+"ru": "Савинцы",
+"en": "Savyntsi",
+"lat": 49.396,
+"lon": 37.0502,
+"pop": 6830,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Слатине",
+"ru": "Слатино",
+"en": "Slatyne",
+"lat": 50.2091,
+"lon": 36.1572,
+"pop": 6826,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Рокитне",
+"ru": "Рокитное",
+"en": "Rokytne",
+"lat": 51.2681,
+"lon": 27.2215,
+"pop": 6825,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Чинадійово",
+"ru": "Чинадиево",
+"en": "Chynadiiovo",
+"lat": 48.5005,
+"lon": 22.8443,
+"pop": 6822,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Приазовське",
+"ru": "Приазовское",
+"en": "Pryazovske",
+"lat": 46.73,
+"lon": 35.639,
+"pop": 6818,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Борова",
+"ru": "Боровая",
+"en": "Borova",
+"lat": 49.3799,
+"lon": 37.6253,
+"pop": 6806,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Іваничі",
+"ru": "Иваничи",
+"en": "Ivanychi",
+"lat": 50.6406,
+"lon": 24.3614,
+"pop": 6784,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Вінницькі Хутори",
+"ru": "Винницкие Хутора",
+"en": "Vinnytski Khutory",
+"lat": 49.2047,
+"lon": 28.5507,
+"pop": 6770,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Теофіполь",
+"ru": "Теофиполь",
+"en": "Teofipol",
+"lat": 49.8446,
+"lon": 26.4153,
+"pop": 6763,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Літин",
+"ru": "Литин",
+"en": "Lityn",
+"lat": 49.329,
+"lon": 28.074,
+"pop": 6751,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Червоногригорівка",
+"ru": "Червоногригорівка",
+"en": "Chervonohryhorivka",
+"lat": 47.6216,
+"lon": 34.5245,
+"pop": 6710,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Олександрівськ",
+"ru": "Александровск",
+"en": "Oleksandrivsk",
+"lat": 48.5858,
+"lon": 39.1898,
+"pop": 6709,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Перечин",
+"ru": "Перечин",
+"en": "Perechyn",
+"lat": 48.7371,
+"lon": 22.4876,
+"pop": 6705,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Володимирівка",
+"ru": "Владимировка",
+"en": "Volodymyrivka",
+"lat": 47.7267,
+"lon": 37.4058,
+"pop": 6698,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Іршанськ",
+"ru": "Иршанск",
+"en": "Irshansk",
+"lat": 50.7504,
+"lon": 28.7211,
+"pop": 6652,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Шевченкове",
+"ru": "Шевченково",
+"en": "Shevchenkove",
+"lat": 49.695,
+"lon": 37.1753,
+"pop": 6627,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Саврань",
+"ru": "Саврань",
+"en": "Savran",
+"lat": 48.1247,
+"lon": 30.0797,
+"pop": 6616,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Карнаухівка",
+"ru": "Карнауховка",
+"en": "Karnaukhivka",
+"lat": 48.4749,
+"lon": 34.7384,
+"pop": 6597,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Біле",
+"ru": "Белое",
+"en": "Bile",
+"lat": 48.4891,
+"lon": 39.0241,
+"pop": 6593,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Томаківка",
+"ru": "Томаковка",
+"en": "Tomakivka",
+"lat": 47.8072,
+"lon": 34.7475,
+"pop": 6559,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Турбів",
+"ru": "Турбов",
+"en": "Turbiv",
+"lat": 49.3399,
+"lon": 28.7261,
+"pop": 6558,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Нововоронцовка",
+"ru": "Нововоронцовка",
+"en": "Novovorontsovka",
+"lat": 47.4958,
+"lon": 33.9198,
+"pop": 6549,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Теплик",
+"ru": "Теплик",
+"en": "Teplyk",
+"lat": 48.6636,
+"lon": 29.7469,
+"pop": 6544,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Кегичівка",
+"ru": "Кегичёвка",
+"en": "Kehychivka",
+"lat": 49.2891,
+"lon": 35.7626,
+"pop": 6539,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Новофедорівка",
+"ru": "Новофёдоровка",
+"en": "Novofedorovka",
+"lat": 45.0943,
+"lon": 33.5752,
+"pop": 6493,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Магдалинівка",
+"ru": "Магдалиновка",
+"en": "Mahdalynivka",
+"lat": 48.9146,
+"lon": 34.9292,
+"pop": 6493,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Віньківці",
+"ru": "Виньковцы",
+"en": "Vinkivtsi",
+"lat": 49.0347,
+"lon": 27.2321,
+"pop": 6473,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Вороновиця",
+"ru": "Вороновица",
+"en": "Voronovytsia",
+"lat": 49.1118,
+"lon": 28.6889,
+"pop": 6466,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Ладан",
+"ru": "Ладан",
+"en": "Ladan",
+"lat": 50.5136,
+"lon": 32.5877,
+"pop": 6466,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Георгіївка",
+"ru": "Георгиевка",
+"en": "Heorhiivka",
+"lat": 48.4299,
+"lon": 39.2691,
+"pop": 6465,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Арбузинка",
+"ru": "Арбузинка",
+"en": "Arbuzynka",
+"lat": 47.9076,
+"lon": 31.3152,
+"pop": 6457,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Судова Вишня",
+"ru": "Судовая Вишня",
+"en": "Sudova Vyshnia",
+"lat": 49.7881,
+"lon": 23.3733,
+"pop": 6434,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Старобешеве",
+"ru": "Старобешево",
+"en": "Starobesheve",
+"lat": 47.7498,
+"lon": 38.0252,
+"pop": 6424,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Марківка",
+"ru": "Марковка",
+"en": "Markivka",
+"lat": 49.5239,
+"lon": 39.5682,
+"pop": 6421,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Володарка",
+"ru": "Володарка",
+"en": "Volodarka",
+"lat": 49.5225,
+"lon": 29.928,
+"pop": 6395,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Горностаївка",
+"ru": "Горностаевка",
+"en": "Hornostaivka",
+"lat": 47.0071,
+"lon": 33.7317,
+"pop": 6388,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Івано-Франкове",
+"ru": "Ивано-Франково",
+"en": "Ivano-Frankove",
+"lat": 49.922,
+"lon": 23.7312,
+"pop": 6346,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Билбасівка",
+"ru": "Былбасовка",
+"en": "Bylbasivka",
+"lat": 48.8403,
+"lon": 37.5075,
+"pop": 6310,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Красне",
+"ru": "Красное",
+"en": "Krasne",
+"lat": 49.9192,
+"lon": 24.6153,
+"pop": 6308,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Галич",
+"ru": "Галич",
+"en": "Halych",
+"lat": 49.1233,
+"lon": 24.7299,
+"pop": 6307,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Кореїз",
+"ru": "Кореиз",
+"en": "Koreiz",
+"lat": 44.4341,
+"lon": 34.092,
+"pop": 6294,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Родакове",
+"ru": "Родаково",
+"en": "Rodakove",
+"lat": 48.5592,
+"lon": 39.0251,
+"pop": 6292,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Доманівка",
+"ru": "Доманёвка",
+"en": "Domanivka",
+"lat": 47.6322,
+"lon": 30.9892,
+"pop": 6288,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Чернігівка",
+"ru": "Черниговка",
+"en": "Chernihivka",
+"lat": 47.1949,
+"lon": 36.2075,
+"pop": 6282,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Сколе",
+"ru": "Сколе",
+"en": "Skole",
+"lat": 49.0379,
+"lon": 23.5141,
+"pop": 6269,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Велика Новосілка",
+"ru": "Великая Новосёлка",
+"en": "Velyka Novosilka",
+"lat": 47.8437,
+"lon": 36.8396,
+"pop": 6265,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Веселинове",
+"ru": "Веселиново",
+"en": "Veselynove",
+"lat": 47.3563,
+"lon": 31.2368,
+"pop": 6238,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Цумань",
+"ru": "Цумань",
+"en": "Tsuman",
+"lat": 50.8296,
+"lon": 25.8841,
+"pop": 6235,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Брюховичі",
+"ru": "Брюховичи",
+"en": "Briukhovychi",
+"lat": 49.9025,
+"lon": 23.9467,
+"pop": 6223,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Сутиски",
+"ru": "Сутиски",
+"en": "Sutysky",
+"lat": 49.0454,
+"lon": 28.4182,
+"pop": 6207,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Недригайлів",
+"ru": "Недригайлов",
+"en": "Nedryhailiv",
+"lat": 50.8359,
+"lon": 33.8783,
+"pop": 6186,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Балабине",
+"ru": "Балабине",
+"en": "Balabyne",
+"lat": 47.7472,
+"lon": 35.217,
+"pop": 6168,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Голованівськ",
+"ru": "Голованевск",
+"en": "Holovanivsk",
+"lat": 48.383,
+"lon": 30.4656,
+"pop": 6150,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Чутове",
+"ru": "Чутово",
+"en": "Chutove",
+"lat": 49.7152,
+"lon": 35.1709,
+"pop": 6147,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Чорнушине",
+"ru": "Чорнушине",
+"en": "Chornushyne",
+"lat": 48.3278,
+"lon": 38.5019,
+"pop": 6137,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Монастириська",
+"ru": "Монастыриска",
+"en": "Monastyryska",
+"lat": 49.0908,
+"lon": 25.1718,
+"pop": 6134,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Муровані Курилівці",
+"ru": "Мурованые Куриловцы",
+"en": "Murovani Kurylivtsi",
+"lat": 48.7147,
+"lon": 27.5331,
+"pop": 6113,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Калинопіль",
+"ru": "Калинополь",
+"en": "Kalynopil",
+"lat": 48.9433,
+"lon": 30.9724,
+"pop": 6092,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Остер",
+"ru": "Остер",
+"en": "Oster",
+"lat": 50.9508,
+"lon": 30.8782,
+"pop": 6092,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Васищеве",
+"ru": "Васищево",
+"en": "Vasyshcheve",
+"lat": 49.8354,
+"lon": 36.3312,
+"pop": 6069,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Старий Крим",
+"ru": "Старый Крым",
+"en": "Staryi Krym",
+"lat": 47.1606,
+"lon": 37.4909,
+"pop": 6069,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Партеніт",
+"ru": "Партенит",
+"en": "Partenit",
+"lat": 44.5818,
+"lon": 34.3429,
+"pop": 6061,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Побузьке",
+"ru": "Побугское",
+"en": "Pobuzke",
+"lat": 48.1632,
+"lon": 30.5949,
+"pop": 6042,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Великі Мости",
+"ru": "Великие Мосты",
+"en": "Velyki Mosty",
+"lat": 50.2402,
+"lon": 24.1385,
+"pop": 6037,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Печеніги",
+"ru": "Печенеги",
+"en": "Pechenihy",
+"lat": 49.8655,
+"lon": 36.9398,
+"pop": 6033,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Попільня",
+"ru": "Попельня",
+"en": "Popilnia",
+"lat": 49.9452,
+"lon": 29.4592,
+"pop": 6028,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Опішня",
+"ru": "Опошня",
+"en": "Opishnia",
+"lat": 49.9571,
+"lon": 34.6091,
+"pop": 6003,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Бессарабське",
+"ru": "Бессарабское",
+"en": "Bessarabske",
+"lat": 46.1822,
+"lon": 29.1519,
+"pop": 5986,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Чорноморське",
+"ru": "Черноморское",
+"en": "Chornomorske",
+"lat": 46.5849,
+"lon": 30.9334,
+"pop": 5978,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Мілове",
+"ru": "Меловое",
+"en": "Milove",
+"lat": 49.3801,
+"lon": 40.1255,
+"pop": 5975,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Борівське",
+"ru": "Боровское",
+"en": "Borivske",
+"lat": 48.871,
+"lon": 38.5606,
+"pop": 5949,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Аграрне",
+"ru": "Аграрное",
+"en": "Agrarnoye",
+"lat": 45.016,
+"lon": 34.0488,
+"pop": 5938,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Маяки",
+"ru": "Маяки",
+"en": "Maiaky",
+"lat": 46.4166,
+"lon": 30.2751,
+"pop": 5937,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Добровеличківка",
+"ru": "Добровеличковка",
+"en": "Dobrovelychkivka",
+"lat": 48.3879,
+"lon": 31.1775,
+"pop": 5931,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Новоархангельськ",
+"ru": "Новоархангельск",
+"en": "Novoarkhanhelsk",
+"lat": 48.6616,
+"lon": 30.815,
+"pop": 5882,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Новодонецьке",
+"ru": "Новодонецкое",
+"en": "Novodonetske",
+"lat": 48.6343,
+"lon": 36.9819,
+"pop": 5880,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Козача Лопань",
+"ru": "Казачья Лопань",
+"en": "Kozacha Lopan",
+"lat": 50.3296,
+"lon": 36.1921,
+"pop": 5878,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Брошнів-Осада",
+"ru": "Брошнев-Осада",
+"en": "Broshniv-Osada",
+"lat": 48.9959,
+"lon": 24.1859,
+"pop": 5863,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Дніпровське",
+"ru": "Днепровское",
+"en": "Dniprovske",
+"lat": 48.5973,
+"lon": 34.4281,
+"pop": 5809,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Моршин",
+"ru": "Моршин",
+"en": "Morshyn",
+"lat": 49.1536,
+"lon": 23.8701,
+"pop": 5793,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Білики",
+"ru": "Белики",
+"en": "Bilyky",
+"lat": 49.259,
+"lon": 34.269,
+"pop": 5786,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Зеленівка",
+"ru": "Зеленовка",
+"en": "Zelenivka",
+"lat": 46.7175,
+"lon": 32.6497,
+"pop": 5785,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Хутір-Михайлівський",
+"ru": "Хутор-Михайловский",
+"en": "Khutir-Mykhailivskyi",
+"lat": 52.0477,
+"lon": 33.9429,
+"pop": 5771,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Губиниха",
+"ru": "Губиниха",
+"en": "Hubynykha",
+"lat": 48.8083,
+"lon": 35.2563,
+"pop": 5768,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Шкло",
+"ru": "Шкло",
+"en": "Shklo",
+"lat": 49.9493,
+"lon": 23.5446,
+"pop": 5754,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Велика Михайлівка",
+"ru": "Великая Михайловка",
+"en": "Velyka Mykhailivka",
+"lat": 47.0775,
+"lon": 29.8509,
+"pop": 5753,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Чуднів",
+"ru": "Чуднов",
+"en": "Chudniv",
+"lat": 50.0524,
+"lon": 28.1154,
+"pop": 5752,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Гребінки",
+"ru": "Гребінки",
+"en": "Hrebinky",
+"lat": 49.9535,
+"lon": 30.1763,
+"pop": 5736,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Щирець",
+"ru": "Щирец",
+"en": "Shchyrets",
+"lat": 49.6465,
+"lon": 23.8571,
+"pop": 5733,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Залізне",
+"ru": "Железное",
+"en": "Zalizne",
+"lat": 48.3735,
+"lon": 37.8823,
+"pop": 5720,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Турійськ",
+"ru": "Турийск",
+"en": "Turiisk",
+"lat": 51.083,
+"lon": 24.5239,
+"pop": 5697,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Шишаки",
+"ru": "Шишаки",
+"en": "Shyshaky",
+"lat": 49.8764,
+"lon": 34.0069,
+"pop": 5671,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Городківка",
+"ru": "Городковка",
+"en": "Horodkivka",
+"lat": 48.3806,
+"lon": 28.687,
+"pop": 5634,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Любимівка",
+"ru": "Любимовка",
+"en": "Liubymivka",
+"lat": 46.8116,
+"lon": 33.5646,
+"pop": 5631,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Любешів",
+"ru": "Любешов",
+"en": "Liubeshiv",
+"lat": 51.7633,
+"lon": 25.5048,
+"pop": 5627,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Просяна",
+"ru": "Просяная",
+"en": "Prosiana",
+"lat": 48.1191,
+"lon": 36.3692,
+"pop": 5618,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Димер",
+"ru": "Димер",
+"en": "Dymer",
+"lat": 50.7864,
+"lon": 30.3039,
+"pop": 5609,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Ворзель",
+"ru": "Ворзель",
+"en": "Vorzel",
+"lat": 50.5457,
+"lon": 30.1563,
+"pop": 5603,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Есхар",
+"ru": "Эсхар",
+"en": "Eskhar",
+"lat": 49.7953,
+"lon": 36.5927,
+"pop": 5602,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Стара Синява",
+"ru": "Старая Синява",
+"en": "Stara Syniava",
+"lat": 49.5972,
+"lon": 27.6158,
+"pop": 5581,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Велика Багачка",
+"ru": "Великая Багачка",
+"en": "Velyka Bahachka",
+"lat": 49.7853,
+"lon": 33.7214,
+"pop": 5580,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Нова Борова",
+"ru": "Новая Боровая",
+"en": "Nova Borova",
+"lat": 50.6933,
+"lon": 28.6396,
+"pop": 5572,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Куликівка",
+"ru": "Куликівка",
+"en": "Kulykivka",
+"lat": 51.3736,
+"lon": 31.6456,
+"pop": 5567,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Степанівка",
+"ru": "Степановка",
+"en": "Stepanivka",
+"lat": 50.9417,
+"lon": 34.6422,
+"pop": 5543,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Томашпіль",
+"ru": "Томашполь",
+"en": "Tomashpil",
+"lat": 48.5488,
+"lon": 28.5188,
+"pop": 5522,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Новомиколаївка",
+"ru": "Новониколаевка",
+"en": "Novomykolaivka",
+"lat": 47.9715,
+"lon": 35.8989,
+"pop": 5522,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Короп",
+"ru": "Короп",
+"en": "Korop",
+"lat": 51.5671,
+"lon": 32.9521,
+"pop": 5505,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Білогір’я",
+"ru": "Белогорье",
+"en": "Bilohiria",
+"lat": 50.0019,
+"lon": 26.4167,
+"pop": 5483,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Городниця",
+"ru": "Городница",
+"en": "Horodnytsia",
+"lat": 50.8063,
+"lon": 27.3141,
+"pop": 5470,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Отинія",
+"ru": "Отыния",
+"en": "Otyniia",
+"lat": 48.7345,
+"lon": 24.8638,
+"pop": 5466,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Олександрівка",
+"ru": "Александровка",
+"en": "Oleksandrivka",
+"lat": 47.6895,
+"lon": 31.2785,
+"pop": 5465,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Братське",
+"ru": "Братское",
+"en": "Bratske",
+"lat": 47.8642,
+"lon": 31.5748,
+"pop": 5456,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Вашківці",
+"ru": "Вашковцы",
+"en": "Vashkivtsi",
+"lat": 48.382,
+"lon": 25.5175,
+"pop": 5455,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Згурівка",
+"ru": "Згуровка",
+"en": "Zhurivka",
+"lat": 50.4951,
+"lon": 31.7692,
+"pop": 5447,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Кам’янець",
+"ru": "Каменец",
+"en": "Kamianets",
+"lat": 48.3606,
+"lon": 32.6573,
+"pop": 5425,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Верховина",
+"ru": "Верховина",
+"en": "Verkhovyna",
+"lat": 48.1538,
+"lon": 24.8279,
+"pop": 5412,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Рудки",
+"ru": "Рудки",
+"en": "Rudky",
+"lat": 49.6546,
+"lon": 23.4872,
+"pop": 5408,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Комишуваха",
+"ru": "Комишуваха",
+"en": "Komyshuvakha",
+"lat": 47.7142,
+"lon": 35.5323,
+"pop": 5406,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Чемерівці",
+"ru": "Чемеровцы",
+"en": "Chemerivtsi",
+"lat": 49.0087,
+"lon": 26.3406,
+"pop": 5399,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Окни",
+"ru": "Окны",
+"en": "Okny",
+"lat": 47.5399,
+"lon": 29.4588,
+"pop": 5399,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Велика Писарівка",
+"ru": "Великая Писаревка",
+"en": "Velyka Pysarivka",
+"lat": 50.4253,
+"lon": 35.4839,
+"pop": 5399,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Тепле",
+"ru": "Тёплое",
+"en": "Тепле",
+"lat": 48.3097,
+"lon": 39.5652,
+"pop": 5398,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Шумськ",
+"ru": "Шумск",
+"en": "Shumsk",
+"lat": 50.1184,
+"lon": 26.1186,
+"pop": 5387,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Піщанка",
+"ru": "Песчанка",
+"en": "Pishchanka",
+"lat": 48.2078,
+"lon": 28.8865,
+"pop": 5387,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Шацьк",
+"ru": "Шацк",
+"en": "Shatsk",
+"lat": 51.4909,
+"lon": 23.9219,
+"pop": 5370,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Гоща",
+"ru": "Гоща",
+"en": "Hoshcha",
+"lat": 50.6047,
+"lon": 26.6828,
+"pop": 5360,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Липова Долина",
+"ru": "Липовая Долина",
+"en": "Lypova Dolyna",
+"lat": 50.5638,
+"lon": 33.799,
+"pop": 5348,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Старомихайлівка",
+"ru": "Старомихайловка",
+"en": "Staromykhailivka",
+"lat": 48.0002,
+"lon": 37.5831,
+"pop": 5337,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Кирнасівка",
+"ru": "Кирнасовка",
+"en": "Kyrnasivka",
+"lat": 48.5929,
+"lon": 28.9842,
+"pop": 5334,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Ялта",
+"ru": "Ялта",
+"en": "Yalta",
+"lat": 46.9589,
+"lon": 37.2776,
+"pop": 5321,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Сергіївка",
+"ru": "Сергеевка",
+"en": "Serhiivka",
+"lat": 46.0276,
+"lon": 30.3727,
+"pop": 5275,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Пулини",
+"ru": "Пулины",
+"en": "Pulyny",
+"lat": 50.469,
+"lon": 28.2706,
+"pop": 5269,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Калинівка",
+"ru": "Калиновка",
+"en": "Kalynivka",
+"lat": 50.2257,
+"lon": 30.2262,
+"pop": 5260,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Печеніжин",
+"ru": "Печенежин",
+"en": "Pechenizhyn",
+"lat": 48.5132,
+"lon": 24.8804,
+"pop": 5259,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Верхній Рогачик",
+"ru": "Верхний Рогачик",
+"en": "Verkhnii Rohachyk",
+"lat": 47.2569,
+"lon": 34.3339,
+"pop": 5204,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Зарічне",
+"ru": "Заречное",
+"en": "Zarichne",
+"lat": 48.7364,
+"lon": 35.3248,
+"pop": 5199,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Чечельник",
+"ru": "Чечельник",
+"en": "Chechelnyk",
+"lat": 48.2127,
+"lon": 29.3599,
+"pop": 5187,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Знам’янка Друга",
+"ru": "Знаменка Вторая",
+"en": "Znamianka Druha",
+"lat": 48.7134,
+"lon": 32.5925,
+"pop": 5184,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Захарівка",
+"ru": "Захарьевка",
+"en": "Zakharivka",
+"lat": 47.3316,
+"lon": 29.7581,
+"pop": 5174,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Кача",
+"ru": "Кача",
+"en": "Kacha",
+"lat": 44.7755,
+"lon": 33.5438,
+"pop": 5173,
+"place": "town",
+"region": "UA-40"
+},
+{
+"uk": "Стара Вижівка",
+"ru": "Старая Выжевка",
+"en": "Stara Vyzhivka",
+"lat": 51.4423,
+"lon": 24.4386,
+"pop": 5161,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Лозівський",
+"ru": "Лозовский",
+"en": "Lozivskyi",
+"lat": 48.5591,
+"lon": 38.8808,
+"pop": 5146,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Донське",
+"ru": "Донское",
+"en": "Donske",
+"lat": 47.516,
+"lon": 37.5375,
+"pop": 5132,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Сарата",
+"ru": "Сарата",
+"en": "Sarata",
+"lat": 46.0212,
+"lon": 29.663,
+"pop": 5084,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Коротич",
+"ru": "Коротыч",
+"en": "Korotych",
+"lat": 49.9517,
+"lon": 36.0396,
+"pop": 5081,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Благовіщенське",
+"ru": "Благовещенское",
+"en": "Blahovishchenske",
+"lat": 48.3277,
+"lon": 30.2345,
+"pop": 5073,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Озерне",
+"ru": "Озёрное",
+"en": "Ozerne",
+"lat": 50.1809,
+"lon": 28.7352,
+"pop": 5072,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Розсипне",
+"ru": "Рассыпное",
+"en": "Rozsypne",
+"lat": 48.1303,
+"lon": 38.5665,
+"pop": 5071,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Талалаївка",
+"ru": "Талалаевка",
+"en": "Talalaivka",
+"lat": 50.8317,
+"lon": 33.1344,
+"pop": 5055,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Брусилів",
+"ru": "Брусилов",
+"en": "Brusyliv",
+"lat": 50.2831,
+"lon": 29.5189,
+"pop": 5046,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Рогань",
+"ru": "Рогань",
+"en": "Rohan",
+"lat": 49.9035,
+"lon": 36.4791,
+"pop": 5046,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Новопокровка",
+"ru": "Новопокровка",
+"en": "Novopokrovka",
+"lat": 49.8377,
+"lon": 36.555,
+"pop": 5027,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Міусинськ",
+"ru": "Миусинск",
+"en": "Miusynsk",
+"lat": 48.0904,
+"lon": 38.893,
+"pop": 4999,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Клавдієво-Тарасове",
+"ru": "Клавдієво-Тарасове",
+"en": "Klavdiievo-Tarasove",
+"lat": 50.5841,
+"lon": 30.0095,
+"pop": 4995,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Брацлав",
+"ru": "Брацлав",
+"en": "Bratslav",
+"lat": 48.8269,
+"lon": 28.938,
+"pop": 4994,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Петропавлівка",
+"ru": "Петропавловка",
+"en": "Petropavlivka",
+"lat": 48.8081,
+"lon": 39.2668,
+"pop": 4981,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Єланець",
+"ru": "Еланец",
+"en": "Yelanets",
+"lat": 47.6964,
+"lon": 31.8489,
+"pop": 4969,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Заозерне",
+"ru": "Заозёрное",
+"en": "Zaozyornoye",
+"lat": 45.1552,
+"lon": 33.2744,
+"pop": 4940,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Петриківка",
+"ru": "Петриковка",
+"en": "Petrykivka",
+"lat": 48.7222,
+"lon": 34.6232,
+"pop": 4913,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Березна",
+"ru": "Березна",
+"en": "Berezna",
+"lat": 51.5779,
+"lon": 31.7903,
+"pop": 4902,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Рахни-Лісові",
+"ru": "Рахны-Лесовые",
+"en": "Rakhny-Lisovi",
+"lat": 48.7818,
+"lon": 28.4803,
+"pop": 4900,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Рівне",
+"ru": "Ровное",
+"en": "Rivne",
+"lat": 48.245,
+"lon": 31.7477,
+"pop": 4877,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Вільшанка",
+"ru": "Ольшанка",
+"en": "Vilshanka",
+"lat": 48.2354,
+"lon": 30.8745,
+"pop": 4877,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Олександрійське",
+"ru": "Александрийское",
+"en": "Oleksandriiske",
+"lat": 48.6058,
+"lon": 32.9839,
+"pop": 4876,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Фащівка",
+"ru": "Фащевка",
+"en": "Fashchivka",
+"lat": 48.2725,
+"lon": 38.6149,
+"pop": 4845,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Миропіль",
+"ru": "Мирополь",
+"en": "Myropil",
+"lat": 50.1099,
+"lon": 27.6975,
+"pop": 4834,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Новогуйвинське",
+"ru": "Новогуйвинское",
+"en": "Novohuivynske",
+"lat": 50.2069,
+"lon": 28.6918,
+"pop": 4805,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Комсомольське",
+"ru": "Комсомольское",
+"en": "Komsomolskoye",
+"lat": 45.0199,
+"lon": 34.0215,
+"pop": 4787,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Благодатне",
+"ru": "Благодатное",
+"en": "Blahodatne",
+"lat": 50.6626,
+"lon": 24.2472,
+"pop": 4779,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Лужани",
+"ru": "Лужаны",
+"en": "Luzhany",
+"lat": 48.3581,
+"lon": 25.769,
+"pop": 4738,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Ружин",
+"ru": "Ружин",
+"en": "Ruzhyn",
+"lat": 49.7231,
+"lon": 29.2096,
+"pop": 4712,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Завалля",
+"ru": "Завалье",
+"en": "Zavallia",
+"lat": 48.2167,
+"lon": 30.0199,
+"pop": 4700,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Павлиш",
+"ru": "Павлыш",
+"en": "Pavlysh",
+"lat": 48.922,
+"lon": 33.3609,
+"pop": 4699,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Святогірськ",
+"ru": "Святогорск",
+"en": "Sviatohirsk",
+"lat": 49.0356,
+"lon": 37.5654,
+"pop": 4692,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Браїлів",
+"ru": "Браилов",
+"en": "Brailiv",
+"lat": 49.1092,
+"lon": 28.1595,
+"pop": 4691,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Катлабуг",
+"ru": "Катлабуг",
+"en": "Katlabuh",
+"lat": 45.5802,
+"lon": 28.9847,
+"pop": 4665,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Кринички",
+"ru": "Кринички",
+"en": "Krynychky",
+"lat": 48.3695,
+"lon": 34.4587,
+"pop": 4657,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Буялик",
+"ru": "Буялык",
+"en": "Buialyk",
+"lat": 46.9105,
+"lon": 30.7186,
+"pop": 4647,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Іванів",
+"ru": "Иванов",
+"en": "Ivaniv",
+"lat": 49.4853,
+"lon": 28.3424,
+"pop": 4628,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Хорошеве",
+"ru": "Хорошево",
+"en": "Khorosheve",
+"lat": 49.8534,
+"lon": 36.224,
+"pop": 4620,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Воскресенське",
+"ru": "Воскресенское",
+"en": "Voskresenske",
+"lat": 47.0169,
+"lon": 32.1469,
+"pop": 4597,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Красноріченське",
+"ru": "Краснореченское",
+"en": "Krasnorichenske",
+"lat": 49.2162,
+"lon": 38.2039,
+"pop": 4595,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Красносілка",
+"ru": "Красносёлка",
+"en": "Krasnosilka",
+"lat": 46.6236,
+"lon": 30.7761,
+"pop": 4580,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Бойківське",
+"ru": "Тельманово",
+"en": "Boykivske",
+"lat": 47.4125,
+"lon": 38.0187,
+"pop": 4577,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Довбиш",
+"ru": "Довбыш",
+"en": "Dovbysh",
+"lat": 50.3715,
+"lon": 27.9859,
+"pop": 4571,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Великий Любінь",
+"ru": "Великий Любень",
+"en": "Velykyi Liubin",
+"lat": 49.7217,
+"lon": 23.7302,
+"pop": 4550,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Нижні Сірогози",
+"ru": "Нижние Серогозы",
+"en": "Nyzhni Sirohozy",
+"lat": 46.8457,
+"lon": 34.3772,
+"pop": 4544,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Клесів",
+"ru": "Клесов",
+"en": "Klesiv",
+"lat": 51.3123,
+"lon": 26.8883,
+"pop": 4543,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Добромиль",
+"ru": "Добромыль",
+"en": "Dobromyl",
+"lat": 49.571,
+"lon": 22.7852,
+"pop": 4537,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Кринична",
+"ru": "Криничная",
+"en": "Krynychna",
+"lat": 48.1285,
+"lon": 38.0276,
+"pop": 4520,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Лиса Гора",
+"ru": "Лысая Гора",
+"en": "Lysa Hora",
+"lat": 48.1708,
+"lon": 31.0955,
+"pop": 4502,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Боромля",
+"ru": "Боромля",
+"en": "Boromlia",
+"lat": 50.6195,
+"lon": 34.9671,
+"pop": 4482,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Компаніївка",
+"ru": "Компанеевка",
+"en": "Kompaniivka",
+"lat": 48.2497,
+"lon": 32.2044,
+"pop": 4478,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Люблинець",
+"ru": "Люблинец",
+"en": "Liublynets",
+"lat": 51.1863,
+"lon": 24.6193,
+"pop": 4477,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Торчин",
+"ru": "Торчин",
+"en": "Torchyn",
+"lat": 50.7697,
+"lon": 25.0108,
+"pop": 4474,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Новодар’ївка",
+"ru": "Новодарьевка",
+"en": "Novodarivka",
+"lat": 48.0768,
+"lon": 39.4777,
+"pop": 4460,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Козельщина",
+"ru": "Козельщина",
+"en": "Kozelshchyna",
+"lat": 49.2136,
+"lon": 33.8414,
+"pop": 4434,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Дніпряни",
+"ru": "Днепряны",
+"en": "Dnipriany",
+"lat": 46.7492,
+"lon": 33.2632,
+"pop": 4431,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Брилівка",
+"ru": "Брилёвка",
+"en": "Brylivka",
+"lat": 46.4202,
+"lon": 33.1411,
+"pop": 4416,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Дворічна",
+"ru": "Двуречная",
+"en": "Dvorichna",
+"lat": 49.8509,
+"lon": 37.6826,
+"pop": 4410,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Зачепилівка",
+"ru": "Зачепиловка",
+"en": "Zachepylivka",
+"lat": 49.1955,
+"lon": 35.2409,
+"pop": 4409,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Шабельківка",
+"ru": "Шабельковка",
+"en": "Shabelkivka",
+"lat": 48.7506,
+"lon": 37.4908,
+"pop": 4408,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Тошківка",
+"ru": "Тошковка",
+"en": "Toshkivka",
+"lat": 48.782,
+"lon": 38.5811,
+"pop": 4406,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Нова Ушиця",
+"ru": "Новая Ушица",
+"en": "Nova Ushytsia",
+"lat": 48.8306,
+"lon": 27.2668,
+"pop": 4404,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Іванівка",
+"ru": "Ивановка",
+"en": "Ivanivka",
+"lat": 46.7084,
+"lon": 34.5448,
+"pop": 4390,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Алмазна",
+"ru": "Алмазная",
+"en": "Almazna",
+"lat": 48.5249,
+"lon": 38.584,
+"pop": 4384,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Єрки",
+"ru": "Ерки",
+"en": "Yerky",
+"lat": 48.9836,
+"lon": 30.9945,
+"pop": 4360,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Високопілля",
+"ru": "Высокополье",
+"en": "Vysokopillia",
+"lat": 47.4933,
+"lon": 33.5282,
+"pop": 4353,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Кольчино",
+"ru": "Кольчино",
+"en": "Kolchyno",
+"lat": 48.4707,
+"lon": 22.7527,
+"pop": 4319,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Заболоття",
+"ru": "Заболотье",
+"en": "Zabolottia",
+"lat": 51.6309,
+"lon": 24.2388,
+"pop": 4299,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Вижниця",
+"ru": "Вижница",
+"en": "Vyzhnytsia",
+"lat": 48.2484,
+"lon": 25.1894,
+"pop": 4285,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Миколаївка",
+"ru": "Николаевка",
+"en": "Mykolaivka",
+"lat": 50.9395,
+"lon": 34.3729,
+"pop": 4272,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Тиврів",
+"ru": "Тывров",
+"en": "Tyvriv",
+"lat": 49.014,
+"lon": 28.508,
+"pop": 4261,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Скала-Подільська",
+"ru": "Скала-Подольская",
+"en": "Skala-Podilska",
+"lat": 48.8466,
+"lon": 26.2016,
+"pop": 4234,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Лугини",
+"ru": "Лугины",
+"en": "Luhyny",
+"lat": 51.0785,
+"lon": 28.3976,
+"pop": 4220,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Мирний",
+"ru": "Мирный",
+"en": "Mirnyi",
+"lat": 45.3081,
+"lon": 33.0358,
+"pop": 4210,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Лосинівка",
+"ru": "Лосинівка",
+"en": "Losynivka",
+"lat": 50.8422,
+"lon": 31.917,
+"pop": 4200,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Новий Калинів",
+"ru": "Новый Калинов",
+"en": "Novyi Kalyniv",
+"lat": 49.5583,
+"lon": 23.3022,
+"pop": 4191,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Гніздичів",
+"ru": "Гнездычев",
+"en": "Hnizdychiv",
+"lat": 49.3373,
+"lon": 24.1081,
+"pop": 4183,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Кути",
+"ru": "Куты",
+"en": "Kuty",
+"lat": 48.2627,
+"lon": 25.1819,
+"pop": 4161,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Сиваське",
+"ru": "Сивашское",
+"en": "Syvaske",
+"lat": 46.3826,
+"lon": 34.5357,
+"pop": 4150,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Пролісне",
+"ru": "Пролесное",
+"en": "Prolisne",
+"lat": 49.7155,
+"lon": 36.9323,
+"pop": 4139,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Голоби",
+"ru": "Голобы",
+"en": "Holoby",
+"lat": 51.086,
+"lon": 25.0155,
+"pop": 4131,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Талаківка",
+"ru": "Талаковка",
+"en": "Talakivka",
+"lat": 47.193,
+"lon": 37.7253,
+"pop": 4129,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Березанка",
+"ru": "Березанка",
+"en": "Berezanka",
+"lat": 46.8544,
+"lon": 31.3875,
+"pop": 4118,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Ворохта",
+"ru": "Ворохта",
+"en": "Vorokhta",
+"lat": 48.293,
+"lon": 24.5636,
+"pop": 4108,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Степань",
+"ru": "Степань",
+"en": "Stepan",
+"lat": 51.1331,
+"lon": 26.3059,
+"pop": 4108,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Хирів",
+"ru": "Хыров",
+"en": "Khyriv",
+"lat": 49.5335,
+"lon": 22.85,
+"pop": 4106,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Шарівка",
+"ru": "Шаровка",
+"en": "Sharivka",
+"lat": 50.0187,
+"lon": 35.4416,
+"pop": 4100,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Криничне",
+"ru": "Криничное",
+"en": "Криничне",
+"lat": 47.955,
+"lon": 39.735,
+"pop": 4097,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Зідьки",
+"ru": "Зидьки",
+"en": "Zidky",
+"lat": 49.6915,
+"lon": 36.4138,
+"pop": 4087,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Стіжківське",
+"ru": "Стожковское",
+"en": "Stizhkivske",
+"lat": 48.1184,
+"lon": 38.4724,
+"pop": 4084,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Дубівський",
+"ru": "Дубовский",
+"en": "Dubivskyi",
+"lat": 48.0808,
+"lon": 39.149,
+"pop": 4074,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Старий Салтів",
+"ru": "Старый Салтов",
+"en": "Staryi Saltiv",
+"lat": 50.0719,
+"lon": 36.7861,
+"pop": 4073,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Великий Бурлук",
+"ru": "Великий Бурлук",
+"en": "Velykyi Burluk",
+"lat": 50.0597,
+"lon": 37.3855,
+"pop": 4072,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Олександрівка",
+"ru": "Александровка",
+"en": "Oleksandrivka",
+"lat": 47.9219,
+"lon": 37.5726,
+"pop": 4068,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Заболотів",
+"ru": "Заболотов",
+"en": "Zabolotiv",
+"lat": 48.4705,
+"lon": 25.2831,
+"pop": 4067,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Верхнячка",
+"ru": "Верхнячка",
+"en": "Verkhniachka",
+"lat": 48.8298,
+"lon": 30.0417,
+"pop": 4058,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Софіївський",
+"ru": "Софиевский",
+"en": "Sofiivskyi",
+"lat": 48.2163,
+"lon": 38.8755,
+"pop": 4050,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Білолуцьк",
+"ru": "Белолуцк",
+"en": "Bilolutsk",
+"lat": 49.7017,
+"lon": 39.0251,
+"pop": 4049,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Черкаське",
+"ru": "Черкасское",
+"en": "Cherkaske",
+"lat": 48.7062,
+"lon": 35.3798,
+"pop": 4046,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Онуфріївка",
+"ru": "Онуфриевка",
+"en": "Onufriivka",
+"lat": 48.9046,
+"lon": 33.4473,
+"pop": 4043,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Колки",
+"ru": "Колки",
+"en": "Kolky",
+"lat": 51.0963,
+"lon": 25.6676,
+"pop": 4035,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Аджамка",
+"ru": "Аджамка",
+"en": "Adzhamka",
+"lat": 48.5509,
+"lon": 32.5292,
+"pop": 4010,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Грушівка",
+"ru": "Грушевка",
+"en": "Hrushivka",
+"lat": 47.589,
+"lon": 34.0129,
+"pop": 3998,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Скалат",
+"ru": "Скалат",
+"en": "Skalat",
+"lat": 49.4248,
+"lon": 25.9775,
+"pop": 3989,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Дашів",
+"ru": "Дашев",
+"en": "Dashiv",
+"lat": 49.0028,
+"lon": 29.4403,
+"pop": 3989,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Оржиця",
+"ru": "Оржица",
+"en": "Orzhytsia",
+"lat": 49.7868,
+"lon": 32.6999,
+"pop": 3983,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Вендичани",
+"ru": "Вендичаны",
+"en": "Vendychany",
+"lat": 48.6096,
+"lon": 27.7881,
+"pop": 3970,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Куликів",
+"ru": "Куликов",
+"en": "Kulykiv",
+"lat": 49.9803,
+"lon": 24.0771,
+"pop": 3963,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Багерове",
+"ru": "Багерово",
+"en": "Bagerovo",
+"lat": 45.376,
+"lon": 36.292,
+"pop": 3962,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Оржів",
+"ru": "Оржев",
+"en": "Orzhiv",
+"lat": 50.7512,
+"lon": 26.1156,
+"pop": 3961,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Білий Колодязь",
+"ru": "Белый Колодезь",
+"en": "Bilyi Kolodiaz",
+"lat": 50.2049,
+"lon": 37.1145,
+"pop": 3953,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Сімеїз",
+"ru": "Симеиз",
+"en": "Simeiz",
+"lat": 44.406,
+"lon": 34.0051,
+"pop": 3950,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Чаплине",
+"ru": "Чаплино",
+"en": "Chaplyne",
+"lat": 48.1284,
+"lon": 36.2267,
+"pop": 3928,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Аули",
+"ru": "Аулы",
+"en": "Auly",
+"lat": 48.5432,
+"lon": 34.4547,
+"pop": 3922,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Солотвин",
+"ru": "Солотвин",
+"en": "Solotvyn",
+"lat": 48.7055,
+"lon": 24.4236,
+"pop": 3916,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Орілька",
+"ru": "Орелька",
+"en": "Orilka",
+"lat": 48.9756,
+"lon": 36.016,
+"pop": 3909,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Комарно",
+"ru": "Комарно",
+"en": "Komarno",
+"lat": 49.6261,
+"lon": 23.697,
+"pop": 3884,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Рожнятів",
+"ru": "Рожнятов",
+"en": "Rozhniativ",
+"lat": 48.9402,
+"lon": 24.1581,
+"pop": 3883,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Клекотина",
+"ru": "Клекотина",
+"en": "Klekotyna",
+"lat": 48.7919,
+"lon": 28.216,
+"pop": 3872,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Коломак",
+"ru": "Коломак",
+"en": "Kolomak",
+"lat": 49.8436,
+"lon": 35.3135,
+"pop": 3844,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Клембівка",
+"ru": "Клембовка",
+"en": "Klembivka",
+"lat": 48.3825,
+"lon": 28.4135,
+"pop": 3842,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Щотове",
+"ru": "Щётово",
+"en": "Shchotove",
+"lat": 48.1737,
+"lon": 39.1233,
+"pop": 3818,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Терни",
+"ru": "Терны",
+"en": "Terny",
+"lat": 50.9941,
+"lon": 33.9835,
+"pop": 3817,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Азовське",
+"ru": "Азовское",
+"en": "Azovskoye",
+"lat": 45.587,
+"lon": 34.5656,
+"pop": 3811,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Козацьке",
+"ru": "Казацкое",
+"en": "Kozatske",
+"lat": 46.7855,
+"lon": 33.3503,
+"pop": 3809,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Цибулів",
+"ru": "Цибулев",
+"en": "Tsybuliv",
+"lat": 49.0754,
+"lon": 29.8456,
+"pop": 3800,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Олександрівка",
+"ru": "Александровка",
+"en": "Oleksandrivka",
+"lat": 48.7074,
+"lon": 36.9208,
+"pop": 3796,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Стеблів",
+"ru": "Стеблёв",
+"en": "Stebliv",
+"lat": 49.4,
+"lon": 31.0951,
+"pop": 3791,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Низи",
+"ru": "Низы",
+"en": "Nyzy",
+"lat": 50.7799,
+"lon": 34.7793,
+"pop": 3790,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Машівка",
+"ru": "Машевка",
+"en": "Mashivka",
+"lat": 49.4445,
+"lon": 34.8788,
+"pop": 3786,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Донецький",
+"ru": "Донецкий",
+"en": "Donetskyi",
+"lat": 48.6963,
+"lon": 38.6739,
+"pop": 3783,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Бібрка",
+"ru": "Бобрка",
+"en": "Bibrka",
+"lat": 49.6376,
+"lon": 24.2974,
+"pop": 3781,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Ольшанське",
+"ru": "Ольшанское",
+"en": "Olshanske",
+"lat": 47.1849,
+"lon": 31.7939,
+"pop": 3775,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Новосвітлівка",
+"ru": "Новосветловка",
+"en": "Novosvitlivka",
+"lat": 48.49,
+"lon": 39.5072,
+"pop": 3755,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Локачі",
+"ru": "Локачи",
+"en": "Lokachi",
+"lat": 50.7389,
+"lon": 24.6483,
+"pop": 3746,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Джурин",
+"ru": "Джурин",
+"en": "Dzhuryn",
+"lat": 48.6813,
+"lon": 28.2921,
+"pop": 3734,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Середнє",
+"ru": "Среднее",
+"en": "Serednie",
+"lat": 48.5414,
+"lon": 22.5044,
+"pop": 3733,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Микулинці",
+"ru": "Микулинцы",
+"en": "Mykulyntsi",
+"lat": 49.3997,
+"lon": 25.6026,
+"pop": 3728,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Липняжка",
+"ru": "Липняжка",
+"en": "Lypniazhka",
+"lat": 48.4431,
+"lon": 31.0718,
+"pop": 3721,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Малотаранівка",
+"ru": "Малотарановка",
+"en": "Malotaranivka",
+"lat": 48.6676,
+"lon": 37.5135,
+"pop": 3713,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Мельниця-Подільська",
+"ru": "Мельница-Подольская",
+"en": "Melnytsia-Podilska",
+"lat": 48.6063,
+"lon": 26.1643,
+"pop": 3712,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Жвирка",
+"ru": "Жвирка",
+"en": "Zhvyrka",
+"lat": 50.466,
+"lon": 24.2616,
+"pop": 3710,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Чабани",
+"ru": "Чабаны",
+"en": "Chabany",
+"lat": 50.3414,
+"lon": 30.4271,
+"pop": 3699,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Очеретине",
+"ru": "Очеретино",
+"en": "Ocheretyne",
+"lat": 48.2429,
+"lon": 37.613,
+"pop": 3686,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Щербинівка",
+"ru": "Щербиновка",
+"en": "Shcherbynivka",
+"lat": 48.3944,
+"lon": 37.7901,
+"pop": 3662,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Скороходове",
+"ru": "Скороходово",
+"en": "Skorokhodove",
+"lat": 49.7727,
+"lon": 35.0716,
+"pop": 3648,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Кочеток",
+"ru": "Кочеток",
+"en": "Kochetok",
+"lat": 49.872,
+"lon": 36.7255,
+"pop": 3633,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Райгородок",
+"ru": "Райгородок",
+"en": "Raihorodok",
+"lat": 48.8978,
+"lon": 37.7274,
+"pop": 3628,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Борівка",
+"ru": "Боровка",
+"en": "Borivka",
+"lat": 48.5069,
+"lon": 28.2555,
+"pop": 3626,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Шахтарське",
+"ru": "Шахтёрское",
+"en": "Shakhtarske",
+"lat": 48.0551,
+"lon": 39.5553,
+"pop": 3626,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Журавно",
+"ru": "Журавно",
+"en": "Zhuravno",
+"lat": 49.2578,
+"lon": 24.2858,
+"pop": 3611,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Гриців",
+"ru": "Грицев",
+"en": "Hrytsiv",
+"lat": 49.9727,
+"lon": 27.2175,
+"pop": 3607,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Близнюки",
+"ru": "Близнюки",
+"en": "Blyzniuky",
+"lat": 48.8531,
+"lon": 36.5519,
+"pop": 3557,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Мізоч",
+"ru": "Мизоч",
+"en": "Mizoch",
+"lat": 50.3983,
+"lon": 26.1413,
+"pop": 3550,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Затишшя",
+"ru": "Затишье",
+"en": "Zatyshshia",
+"lat": 47.335,
+"lon": 29.8781,
+"pop": 3542,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Устинівка",
+"ru": "Устиновка",
+"en": "Ustynivka",
+"lat": 47.9576,
+"lon": 32.5361,
+"pop": 3538,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Розівка",
+"ru": "Розовка",
+"en": "Rozivka",
+"lat": 47.3867,
+"lon": 37.0676,
+"pop": 3537,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Великі Сорочинці",
+"ru": "Великие Сорочинцы",
+"en": "Velyki Sorochyntsi",
+"lat": 50.0238,
+"lon": 33.9448,
+"pop": 3533,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Зайцеве",
+"ru": "Зайцево",
+"en": "Zaitseve",
+"lat": 48.4009,
+"lon": 38.0264,
+"pop": 3523,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Славсько",
+"ru": "Славско",
+"en": "Slavsko",
+"lat": 48.8449,
+"lon": 23.4448,
+"pop": 3508,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Коропець",
+"ru": "Коропец",
+"en": "Koropets",
+"lat": 48.9331,
+"lon": 25.1741,
+"pop": 3508,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Рикове",
+"ru": "Рыково",
+"en": "Rykove",
+"lat": 46.3318,
+"lon": 34.749,
+"pop": 3501,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Демидівка",
+"ru": "Демидовка",
+"en": "Demydivka",
+"lat": 50.4286,
+"lon": 25.3299,
+"pop": 3500,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Тишківка",
+"ru": "Тишковка",
+"en": "Tyshkivka",
+"lat": 48.4975,
+"lon": 30.9401,
+"pop": 3497,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Соборне",
+"ru": "Соборное",
+"en": "Soborne",
+"lat": 46.2314,
+"lon": 29.2027,
+"pop": 3483,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Малокатеринівка",
+"ru": "Малокатеринівка",
+"en": "Malokaterynivka",
+"lat": 47.656,
+"lon": 35.2573,
+"pop": 3473,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Кирилівка",
+"ru": "Кирилловка",
+"en": "Kyrylivka",
+"lat": 46.3718,
+"lon": 35.3696,
+"pop": 3472,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Глухівці",
+"ru": "Глуховцы",
+"en": "Hlukhivtsi",
+"lat": 49.7736,
+"lon": 28.7289,
+"pop": 3463,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Перегонівка",
+"ru": "Перегоновка",
+"en": "Perehonivka",
+"lat": 48.5351,
+"lon": 30.5209,
+"pop": 3448,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Вальянівське",
+"ru": "Вальяновское",
+"en": "Вальянівське",
+"lat": 48.0766,
+"lon": 39.5553,
+"pop": 3446,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Білоріченський",
+"ru": "Белореченский",
+"en": "Bilorichenskyi",
+"lat": 48.4445,
+"lon": 39.0973,
+"pop": 3443,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Щебетовка",
+"ru": "Щебетовка",
+"en": "Shchebetovka",
+"lat": 44.9383,
+"lon": 35.1568,
+"pop": 3434,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Великі Бірки",
+"ru": "Великие Борки",
+"en": "Velyki Birky",
+"lat": 49.5244,
+"lon": 25.7547,
+"pop": 3429,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Гірне",
+"ru": "Горное",
+"en": "Hirne",
+"lat": 48.0608,
+"lon": 38.1974,
+"pop": 3428,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Вишнівець",
+"ru": "Вишневец",
+"en": "Vyshnivets",
+"lat": 49.9019,
+"lon": 25.7511,
+"pop": 3424,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Кобилецька Поляна",
+"ru": "Кобылецкая Поляна",
+"en": "Kobyletska Poliana",
+"lat": 48.0566,
+"lon": 24.0642,
+"pop": 3411,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Южна Ломуватка",
+"ru": "Южная Ломоватка",
+"en": "Yuzhna Lomuvatka",
+"lat": 48.4378,
+"lon": 38.5321,
+"pop": 3408,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Мазурівка",
+"ru": "Мазуровка",
+"en": "Mazurivka",
+"lat": 48.5346,
+"lon": 28.1377,
+"pop": 3390,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Лопатин",
+"ru": "Лопатин",
+"en": "Lopatyn",
+"lat": 50.2205,
+"lon": 24.8449,
+"pop": 3388,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Заводське",
+"ru": "Заводское",
+"en": "Zavodske",
+"lat": 48.9996,
+"lon": 25.8551,
+"pop": 3386,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Товсте",
+"ru": "Толстое",
+"en": "Tovste",
+"lat": 48.8449,
+"lon": 25.7259,
+"pop": 3384,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Радушне",
+"ru": "Радушное",
+"en": "Radushne",
+"lat": 47.8226,
+"lon": 33.5015,
+"pop": 3366,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Підбуж",
+"ru": "Подбуж",
+"en": "Pidbuzh",
+"lat": 49.3316,
+"lon": 23.251,
+"pop": 3362,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Новоселівське",
+"ru": "Новосёловское",
+"en": "Novosyolovskoye",
+"lat": 45.4401,
+"lon": 33.5966,
+"pop": 3362,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Добрянка",
+"ru": "Добрянка",
+"en": "Dobrianka",
+"lat": 52.0631,
+"lon": 31.1735,
+"pop": 3360,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Кириківка",
+"ru": "Кириковка",
+"en": "Kyrykivka",
+"lat": 50.3485,
+"lon": 35.1304,
+"pop": 3356,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Верхнє Синьовидне",
+"ru": "Верхнее Синевидное",
+"en": "Verkhnie Synovydne",
+"lat": 49.1056,
+"lon": 23.59,
+"pop": 3348,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Рафалівка",
+"ru": "Рафаловка",
+"en": "Rafalivka",
+"lat": 51.3072,
+"lon": 26.0002,
+"pop": 3341,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Путила",
+"ru": "Путила",
+"en": "Putyla",
+"lat": 47.9952,
+"lon": 25.0845,
+"pop": 3335,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Козин",
+"ru": "Козин",
+"en": "Kozyn",
+"lat": 50.229,
+"lon": 30.6479,
+"pop": 3330,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Меденичі",
+"ru": "Меденичи",
+"en": "Medenychi",
+"lat": 49.43,
+"lon": 23.7495,
+"pop": 3321,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Сентянівка",
+"ru": "Сентяновка",
+"en": "Sentianivka",
+"lat": 48.6694,
+"lon": 38.7602,
+"pop": 3321,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Вилок",
+"ru": "Вилок",
+"en": "Vylok",
+"lat": 48.1111,
+"lon": 22.8379,
+"pop": 3316,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Гончарівське",
+"ru": "Гончарівське",
+"en": "Honcharivske",
+"lat": 51.299,
+"lon": 30.9276,
+"pop": 3312,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Зуївка",
+"ru": "Зуевка",
+"en": "Zuivka",
+"lat": 48.0625,
+"lon": 38.2504,
+"pop": 3269,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ольгинка",
+"ru": "Ольгинка",
+"en": "Olhynka",
+"lat": 47.6977,
+"lon": 37.5003,
+"pop": 3269,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "П’ятипілля",
+"ru": "Пятиполье",
+"en": "П’ятипілля",
+"lat": 48.0165,
+"lon": 38.0979,
+"pop": 3263,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Вільшана",
+"ru": "Ольшана",
+"en": "Vilshana",
+"lat": 49.2165,
+"lon": 31.2115,
+"pop": 3256,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Глиняни",
+"ru": "Глыняны",
+"en": "Hlyniany",
+"lat": 49.822,
+"lon": 24.5165,
+"pop": 3242,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Обертин",
+"ru": "Обертин",
+"en": "Obertyn",
+"lat": 48.6984,
+"lon": 25.1712,
+"pop": 3225,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Булавинське",
+"ru": "Булавинское",
+"en": "Bulavynske",
+"lat": 48.253,
+"lon": 38.3361,
+"pop": 3217,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Лазурне",
+"ru": "Лазурное",
+"en": "Lazurne",
+"lat": 46.0861,
+"lon": 32.5276,
+"pop": 3214,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Велика Кісниця",
+"ru": "Великая Косница",
+"en": "Velyka Kisnytsia",
+"lat": 48.1342,
+"lon": 28.4408,
+"pop": 3212,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Шалигине",
+"ru": "Шалыгино",
+"en": "Shalyhyne",
+"lat": 51.5757,
+"lon": 34.0998,
+"pop": 3203,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Бугаївка",
+"ru": "Бугаёвка",
+"en": "Buhaivka",
+"lat": 48.4195,
+"lon": 38.8617,
+"pop": 3194,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Калинове",
+"ru": "Калиново",
+"en": "Kalynove",
+"lat": 48.5652,
+"lon": 38.5161,
+"pop": 3180,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Ольховатка",
+"ru": "Ольховатка",
+"en": "Olkhovatka",
+"lat": 48.2403,
+"lon": 38.4031,
+"pop": 3179,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Курахівка",
+"ru": "Кураховка",
+"en": "Kurakhivka",
+"lat": 48.0298,
+"lon": 37.3717,
+"pop": 3166,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Шипинці",
+"ru": "Шипинцы",
+"en": "Shypyntsi",
+"lat": 48.3763,
+"lon": 25.7475,
+"pop": 3160,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Поштове",
+"ru": "Почтовое",
+"en": "Pochtovoye",
+"lat": 44.8348,
+"lon": 33.9623,
+"pop": 3147,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Олика",
+"ru": "Олыка",
+"en": "Olyka",
+"lat": 50.7238,
+"lon": 25.8121,
+"pop": 3127,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Дубове",
+"ru": "Дубовое",
+"en": "Дубове",
+"lat": 48.126,
+"lon": 39.6709,
+"pop": 3119,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Мирне",
+"ru": "Мирное",
+"en": "Myrne",
+"lat": 46.9465,
+"lon": 35.4405,
+"pop": 3103,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Новоекономічне",
+"ru": "Новоэкономическое",
+"en": "Novoekonomichne",
+"lat": 48.3258,
+"lon": 37.3322,
+"pop": 3098,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Луків",
+"ru": "Луков",
+"en": "Lukiv",
+"lat": 51.2297,
+"lon": 24.3421,
+"pop": 3088,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Ков’яги",
+"ru": "Ковяги",
+"en": "Koviahy",
+"lat": 49.9156,
+"lon": 35.5505,
+"pop": 3079,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Юріївка",
+"ru": "Юріївка",
+"en": "Yurivka",
+"lat": 48.4949,
+"lon": 38.9653,
+"pop": 3075,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Головне",
+"ru": "Головно",
+"en": "Holovne",
+"lat": 51.3365,
+"lon": 24.0785,
+"pop": 3055,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Дробишеве",
+"ru": "Дробышево",
+"en": "Drobysheve",
+"lat": 49.0435,
+"lon": 37.7341,
+"pop": 3047,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Батьово",
+"ru": "Батьёво",
+"en": "Batovo",
+"lat": 48.3637,
+"lon": 22.3995,
+"pop": 3046,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Нові Білокоровичі",
+"ru": "Новые Белокоровичи",
+"en": "Novi Bilokorovychi",
+"lat": 51.1157,
+"lon": 28.0522,
+"pop": 3034,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Божедарівка",
+"ru": "Божедаровка",
+"en": "Bozhedarivka",
+"lat": 48.3601,
+"lon": 34.1139,
+"pop": 3032,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Дубов’язівка",
+"ru": "Дубовязовка",
+"en": "Duboviazivka",
+"lat": 51.1325,
+"lon": 33.3785,
+"pop": 3016,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Верхньоторецьке",
+"ru": "Верхнеторецкое",
+"en": "Verkhnotoretske",
+"lat": 48.2243,
+"lon": 37.875,
+"pop": 3008,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Дзиґівка",
+"ru": "Дзыговка",
+"en": "Dzygivka",
+"lat": 48.354,
+"lon": 28.3163,
+"pop": 3003,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Андріївка",
+"ru": "Андреевка",
+"en": "Andriivka",
+"lat": 47.0939,
+"lon": 36.5903,
+"pop": 3002,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Срібне",
+"ru": "Срібне",
+"en": "Sribne",
+"lat": 50.6616,
+"lon": 32.9174,
+"pop": 3000,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Ярунь",
+"ru": "Ярунь",
+"en": "Yarun",
+"lat": 50.5466,
+"lon": 27.4621,
+"pop": 2995,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Красноторка",
+"ru": "Красноторка",
+"en": "Krasnotorka",
+"lat": 48.6799,
+"lon": 37.521,
+"pop": 2991,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Єзупіль",
+"ru": "Езуполь",
+"en": "Yezupil",
+"lat": 49.0417,
+"lon": 24.7802,
+"pop": 2978,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Миколаївка",
+"ru": "Николаевка",
+"en": "Mykolaivka",
+"lat": 47.5366,
+"lon": 30.7547,
+"pop": 2972,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Лисець",
+"ru": "Лисец",
+"en": "Lysets",
+"lat": 48.8703,
+"lon": 24.6107,
+"pop": 2969,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Підгайці",
+"ru": "Подгайцы",
+"en": "Pidhaitsi",
+"lat": 49.268,
+"lon": 25.1362,
+"pop": 2937,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Чернівці",
+"ru": "Черневцы",
+"en": "Chernivtsi",
+"lat": 48.5407,
+"lon": 28.1221,
+"pop": 2935,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Вишневе",
+"ru": "Вишнёвое",
+"en": "Vyshneve",
+"lat": 48.4379,
+"lon": 33.9165,
+"pop": 2929,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Шпиків",
+"ru": "Шпиков",
+"en": "Shpykiv",
+"lat": 48.7861,
+"lon": 28.5648,
+"pop": 2928,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Михайло-Коцюбинське",
+"ru": "Михайло-Коцюбинське",
+"en": "Mykhailo-Kotsiubynske",
+"lat": 51.4502,
+"lon": 31.0793,
+"pop": 2927,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Андріївка",
+"ru": "Андреевка",
+"en": "Andriivka",
+"lat": 47.4626,
+"lon": 37.6529,
+"pop": 2915,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Оратів",
+"ru": "Оратов",
+"en": "Orativ",
+"lat": 49.1947,
+"lon": 29.5306,
+"pop": 2913,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Слобожанське",
+"ru": "Слобожанское",
+"en": "Slobozhanske",
+"lat": 49.3679,
+"lon": 35.8663,
+"pop": 2911,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Ромодан",
+"ru": "Ромодан",
+"en": "Romodan",
+"lat": 49.991,
+"lon": 33.3264,
+"pop": 2907,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Новий Яричів",
+"ru": "Новый Ярычев",
+"en": "Novyi Yarychiv",
+"lat": 49.9072,
+"lon": 24.3026,
+"pop": 2904,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Гірник",
+"ru": "Горняк",
+"en": "Hirnyk",
+"lat": 50.3327,
+"lon": 24.1953,
+"pop": 2902,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Холми",
+"ru": "Холмы",
+"en": "Kholmy",
+"lat": 51.8726,
+"lon": 32.5956,
+"pop": 2892,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Левків",
+"ru": "Левков",
+"en": "Levkiv",
+"lat": 50.2371,
+"lon": 28.832,
+"pop": 2886,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Новоселиця",
+"ru": "Новоселица",
+"en": "Novoselytsia",
+"lat": 50.0699,
+"lon": 27.5201,
+"pop": 2848,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Коктебель",
+"ru": "Коктебель",
+"en": "Koktebel",
+"lat": 44.9594,
+"lon": 35.2422,
+"pop": 2844,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Лісові Гринівці",
+"ru": "Лесовые Гриневцы",
+"en": "Lisovi Hrynivtsi",
+"lat": 49.4682,
+"lon": 27.0206,
+"pop": 2835,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Линовиця",
+"ru": "Линовиця",
+"en": "Lynovytsia",
+"lat": 50.4641,
+"lon": 32.3963,
+"pop": 2825,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Глибочиця",
+"ru": "Глубочица",
+"en": "Hlybochytsia",
+"lat": 50.2793,
+"lon": 28.7756,
+"pop": 2817,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Станіславчик",
+"ru": "Станиславчик",
+"en": "Stanislavchyk",
+"lat": 48.969,
+"lon": 28.1059,
+"pop": 2813,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Михайлівка",
+"ru": "Михайловка",
+"en": "Mykhailivka",
+"lat": 48.0676,
+"lon": 39.2477,
+"pop": 2811,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Ведмеже",
+"ru": "Медвежье",
+"en": "Ведмеже",
+"lat": 48.1284,
+"lon": 39.5906,
+"pop": 2796,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Первомайський",
+"ru": "Первомайский",
+"en": "Pervomaiskyi",
+"lat": 47.9728,
+"lon": 38.7884,
+"pop": 2793,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Мар’янівка",
+"ru": "Марьяновка",
+"en": "Marianivka",
+"lat": 50.4541,
+"lon": 24.8072,
+"pop": 2789,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Ларине",
+"ru": "Ларино",
+"en": "Laryne",
+"lat": 47.8898,
+"lon": 37.9288,
+"pop": 2789,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Улянівка",
+"ru": "Ульяновка",
+"en": "Ulianivka",
+"lat": 50.9748,
+"lon": 34.2938,
+"pop": 2777,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Червоне",
+"ru": "Червоное",
+"en": "Chervone",
+"lat": 49.9528,
+"lon": 28.8753,
+"pop": 2763,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Кам’яне",
+"ru": "Каменное",
+"en": "Kamiane",
+"lat": 48.1651,
+"lon": 39.1525,
+"pop": 2758,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Батурин",
+"ru": "Батурин",
+"en": "Baturyn",
+"lat": 51.3413,
+"lon": 32.8778,
+"pop": 2758,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Цебрикове",
+"ru": "Цебриково",
+"en": "Tsebrykove",
+"lat": 47.1466,
+"lon": 30.108,
+"pop": 2754,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Уладівка",
+"ru": "Уладовка",
+"en": "Uladivka",
+"lat": 49.4999,
+"lon": 28.2276,
+"pop": 2753,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Войнилів",
+"ru": "Войнилов",
+"en": "Voinyliv",
+"lat": 49.1294,
+"lon": 24.4941,
+"pop": 2747,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Пантаївка",
+"ru": "Пантаевка",
+"en": "Pantaivka",
+"lat": 48.6777,
+"lon": 32.8971,
+"pop": 2744,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Мурафа",
+"ru": "Мурафа",
+"en": "Murafa",
+"lat": 48.7756,
+"lon": 28.2164,
+"pop": 2739,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Сєдове",
+"ru": "Седово",
+"en": "Siedove",
+"lat": 47.07,
+"lon": 38.1603,
+"pop": 2734,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Чупахівка",
+"ru": "Чупаховка",
+"en": "Chupakhivka",
+"lat": 50.3799,
+"lon": 34.5845,
+"pop": 2732,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Запитів",
+"ru": "Запытов",
+"en": "Zapytiv",
+"lat": 49.9172,
+"lon": 24.2004,
+"pop": 2730,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Кострижівка",
+"ru": "Кострижевка",
+"en": "Kostryzhivka",
+"lat": 48.6527,
+"lon": 25.7119,
+"pop": 2728,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Миколаївка",
+"ru": "Николаевка",
+"en": "Nikolayevka",
+"lat": 44.9688,
+"lon": 33.6071,
+"pop": 2723,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Введенка",
+"ru": "Введенка",
+"en": "Vvedenka",
+"lat": 49.825,
+"lon": 36.506,
+"pop": 2710,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Залізці",
+"ru": "Заложцы",
+"en": "Zaliztsi",
+"lat": 49.8023,
+"lon": 25.3837,
+"pop": 2706,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Полігон",
+"ru": "Полигон",
+"en": "Polihon",
+"lat": 46.974,
+"lon": 32.1258,
+"pop": 2705,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Боково-Платове",
+"ru": "Боково-Платово",
+"en": "Bokovo-Platove",
+"lat": 48.1208,
+"lon": 39.0138,
+"pop": 2702,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Розділ",
+"ru": "Роздол",
+"en": "Rozdil",
+"lat": 49.4613,
+"lon": 24.06,
+"pop": 2696,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Корсунь",
+"ru": "Корсунь",
+"en": "Korsun",
+"lat": 48.2044,
+"lon": 38.0823,
+"pop": 2696,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Бабинці",
+"ru": "Бабинці",
+"en": "Babyntsi",
+"lat": 50.6424,
+"lon": 30.0291,
+"pop": 2688,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Зарічне",
+"ru": "Заречное",
+"en": "Zarichne",
+"lat": 49.0213,
+"lon": 37.9385,
+"pop": 2688,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Хмельове",
+"ru": "Хмелевое",
+"en": "Khmelove",
+"lat": 48.5679,
+"lon": 31.3953,
+"pop": 2687,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Гоголеве",
+"ru": "Гоголево",
+"en": "Hoholeve",
+"lat": 49.923,
+"lon": 33.8226,
+"pop": 2686,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Урало-Кавказ",
+"ru": "Урало-Кавказ",
+"en": "Uralo-Kavkaz",
+"lat": 48.3075,
+"lon": 39.7967,
+"pop": 2673,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Кайгадор",
+"ru": "Орджоникидзе",
+"en": "Ordzhonikidze",
+"lat": 44.9637,
+"lon": 35.3558,
+"pop": 2669,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Нова Галещина",
+"ru": "Новая Галещина",
+"en": "Nova Haleshchyna",
+"lat": 49.1704,
+"lon": 33.7566,
+"pop": 2658,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Капітанівка",
+"ru": "Капитановка",
+"en": "Kapitanivka",
+"lat": 48.9139,
+"lon": 31.7096,
+"pop": 2655,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Смига",
+"ru": "Смыга",
+"en": "Smyha",
+"lat": 50.2382,
+"lon": 25.763,
+"pop": 2654,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Приколотне",
+"ru": "Приколотное",
+"en": "Prykolotne",
+"lat": 50.1606,
+"lon": 37.3499,
+"pop": 2654,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Нижнє",
+"ru": "Нижнее",
+"en": "Nyzhnie",
+"lat": 48.7717,
+"lon": 38.6214,
+"pop": 2651,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Городок",
+"ru": "Городок",
+"en": "Horodok",
+"lat": 50.5929,
+"lon": 29.4531,
+"pop": 2631,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Гродівка",
+"ru": "Гродовка",
+"en": "Hrodivka",
+"lat": 48.2629,
+"lon": 37.3789,
+"pop": 2628,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Іванівка",
+"ru": "Ивановка",
+"en": "Ivanivka",
+"lat": 46.9824,
+"lon": 30.4628,
+"pop": 2618,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Раухівка",
+"ru": "Рауховка",
+"en": "Raukhivka",
+"lat": 47.1692,
+"lon": 30.8146,
+"pop": 2603,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Дунаївці",
+"ru": "Дунаевцы",
+"en": "Dunaivtsi",
+"lat": 49.023,
+"lon": 26.8434,
+"pop": 2602,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Городище",
+"ru": "Городище",
+"en": "Horodyshche",
+"lat": 48.3233,
+"lon": 38.6336,
+"pop": 2602,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Асканія-Нова",
+"ru": "Аскания-Нова",
+"en": "Askaniia-Nova",
+"lat": 46.4511,
+"lon": 33.8686,
+"pop": 2585,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Народичі",
+"ru": "Народичи",
+"en": "Narodychi",
+"lat": 51.2024,
+"lon": 29.0808,
+"pop": 2585,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Селезнівка",
+"ru": "Селезнёвка",
+"en": "Seleznivka",
+"lat": 48.3981,
+"lon": 38.7905,
+"pop": 2568,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Красний Кут",
+"ru": "Красный Кут",
+"en": "Krasnyi Kut",
+"lat": 48.2087,
+"lon": 38.7883,
+"pop": 2563,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Хотінь",
+"ru": "Хотень",
+"en": "Khotin",
+"lat": 51.0787,
+"lon": 34.78,
+"pop": 2561,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Парафіївка",
+"ru": "Парафіївка",
+"en": "Parafiivka",
+"lat": 50.884,
+"lon": 32.6447,
+"pop": 2557,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Славгород",
+"ru": "Славгород",
+"en": "Slavhorod",
+"lat": 48.1126,
+"lon": 35.5144,
+"pop": 2554,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Курилівка",
+"ru": "Куриловка",
+"en": "Kurylivka",
+"lat": 48.5798,
+"lon": 34.6007,
+"pop": 2551,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Бабанка",
+"ru": "Бабанка",
+"en": "Babanka",
+"lat": 48.707,
+"lon": 30.4507,
+"pop": 2541,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Чорнухи",
+"ru": "Чернухи",
+"en": "Chornukhy",
+"lat": 50.2733,
+"lon": 32.9383,
+"pop": 2534,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Юріївка",
+"ru": "Юрьевка",
+"en": "Yurivka",
+"lat": 48.746,
+"lon": 36.0183,
+"pop": 2533,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Кам’яний Брід",
+"ru": "Каменный Брод",
+"en": "Kamianyi Brid",
+"lat": 50.4182,
+"lon": 27.8381,
+"pop": 2533,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Вовковинці",
+"ru": "Волковинцы",
+"en": "Vovkovyntsi",
+"lat": 49.2074,
+"lon": 27.656,
+"pop": 2529,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Лихівка",
+"ru": "Лиховка",
+"en": "Lykhivka",
+"lat": 48.6863,
+"lon": 33.922,
+"pop": 2508,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Старий Білоус",
+"ru": "Старый Белоус",
+"en": "Staryi Bilous",
+"lat": 51.4941,
+"lon": 31.2131,
+"pop": 2502,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Комишня",
+"ru": "Камышня",
+"en": "Komyshnia",
+"lat": 50.1838,
+"lon": 33.6796,
+"pop": 2500,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Тетерівка",
+"ru": "Тетеревка",
+"en": "Teterivka",
+"lat": 50.237,
+"lon": 28.5748,
+"pop": 2498,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Велика Виска",
+"ru": "Великая Виска",
+"en": "Velyka Vyska",
+"lat": 48.5663,
+"lon": 31.8557,
+"pop": 2487,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Золотий Потік",
+"ru": "Золотой Поток",
+"en": "Zolotyi Potik",
+"lat": 48.9091,
+"lon": 25.3427,
+"pop": 2480,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Дмитрівка",
+"ru": "Дмитрівка",
+"en": "Dmytrivka",
+"lat": 50.9344,
+"lon": 32.9457,
+"pop": 2471,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Михайлівка",
+"ru": "Михайловка",
+"en": "Mykhailivka",
+"lat": 48.4968,
+"lon": 38.9021,
+"pop": 2467,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Фащівка",
+"ru": "Фащевка",
+"en": "Fashchivka",
+"lat": 48.2248,
+"lon": 38.6691,
+"pop": 2459,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Нікіта",
+"ru": "Никита",
+"en": "Nikita",
+"lat": 44.5159,
+"lon": 34.238,
+"pop": 2454,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Неполоківці",
+"ru": "Неполоковцы",
+"en": "Nepolokivtsi",
+"lat": 48.4027,
+"lon": 25.6476,
+"pop": 2438,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Сатанів",
+"ru": "Сатанов",
+"en": "Sataniv",
+"lat": 49.2537,
+"lon": 26.2549,
+"pop": 2413,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Корнин",
+"ru": "Корнин",
+"en": "Kornyn",
+"lat": 50.097,
+"lon": 29.5402,
+"pop": 2407,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Макошине",
+"ru": "Макошине",
+"en": "Makoshyne",
+"lat": 51.46,
+"lon": 32.3396,
+"pop": 2404,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Авіаторське",
+"ru": "Авиаторское",
+"en": "Aviatorske",
+"lat": 48.3682,
+"lon": 35.0824,
+"pop": 2403,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Антоніни",
+"ru": "Антонины",
+"en": "Antoniny",
+"lat": 49.8103,
+"lon": 26.8647,
+"pop": 2401,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Залісне",
+"ru": "Залесное",
+"en": "Zalisne",
+"lat": 48.0313,
+"lon": 38.8098,
+"pop": 2399,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ситківці",
+"ru": "Ситковцы",
+"en": "Sytkivtsi",
+"lat": 48.9096,
+"lon": 29.2023,
+"pop": 2398,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Понорниця",
+"ru": "Понорниця",
+"en": "Ponornytsia",
+"lat": 51.7205,
+"lon": 32.844,
+"pop": 2385,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Куйбишеве",
+"ru": "Куйбышево",
+"en": "Kuybyshevo",
+"lat": 44.6313,
+"lon": 33.8645,
+"pop": 2368,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Томашгород",
+"ru": "Томашгород",
+"en": "Tomashhorod",
+"lat": 51.3024,
+"lon": 27.0686,
+"pop": 2362,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Угроїди",
+"ru": "Угроеды",
+"en": "Uhroidy",
+"lat": 50.8598,
+"lon": 35.2703,
+"pop": 2360,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Белз",
+"ru": "Белз",
+"en": "Belz",
+"lat": 50.3824,
+"lon": 24.0128,
+"pop": 2359,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Новотошківське",
+"ru": "Новотошковское",
+"en": "Novotoshkivske",
+"lat": 48.7244,
+"lon": 38.6294,
+"pop": 2349,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Стара Ушиця",
+"ru": "Старая Ушица",
+"en": "Stara Ushytsia",
+"lat": 48.5971,
+"lon": 27.0742,
+"pop": 2338,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Дашава",
+"ru": "Дашава",
+"en": "Dashava",
+"lat": 49.262,
+"lon": 24.0049,
+"pop": 2333,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Комиш-Зоря",
+"ru": "Камыш-Заря",
+"en": "Komysh-Zoria",
+"lat": 47.3294,
+"lon": 36.7029,
+"pop": 2332,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Сімейчине",
+"ru": "Сімейчине",
+"en": "Simeichyne",
+"lat": 48.3319,
+"lon": 39.5314,
+"pop": 2329,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Пеньківка",
+"ru": "Пеньковка",
+"en": "Penkivka",
+"lat": 48.8957,
+"lon": 28.2625,
+"pop": 2315,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Комишуваха",
+"ru": "Камышеваха",
+"en": "Komyshuvakha",
+"lat": 48.6946,
+"lon": 38.4369,
+"pop": 2310,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Бродецьке",
+"ru": "Бродецкое",
+"en": "Brodetske",
+"lat": 49.7632,
+"lon": 28.6449,
+"pop": 2302,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Східниця",
+"ru": "Сходница",
+"en": "Skhidnytsia",
+"lat": 49.2276,
+"lon": 23.3503,
+"pop": 2259,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Аерофлотський",
+"ru": "Аэрофлотский",
+"en": "Aeroflotsky",
+"lat": 45.0196,
+"lon": 34.0011,
+"pop": 2254,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Новоамвросіївське",
+"ru": "Новоамвросиевское",
+"en": "Novoamvrosiivske",
+"lat": 47.8335,
+"lon": 38.5012,
+"pop": 2254,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Нижня Дуванка",
+"ru": "Нижняя Дуванка",
+"en": "Nyzhnia Duvanka",
+"lat": 49.5803,
+"lon": 38.1658,
+"pop": 2244,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Вищеольчедаїв",
+"ru": "Высшеольчедаев",
+"en": "Vyshcheolchedaiv",
+"lat": 48.7271,
+"lon": 27.6801,
+"pop": 2236,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Вигода",
+"ru": "Выгода",
+"en": "Vyhoda",
+"lat": 48.935,
+"lon": 23.9126,
+"pop": 2225,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Устилуг",
+"ru": "Устилуг",
+"en": "Ustyluh",
+"lat": 50.8622,
+"lon": 24.1505,
+"pop": 2205,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Зноб-Новгородське",
+"ru": "Знобь-Новгородское",
+"en": "Znob-Novhorodske",
+"lat": 52.264,
+"lon": 33.5983,
+"pop": 2178,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Мала Дівиця",
+"ru": "Мала Дівиця",
+"en": "Mala Divytsia",
+"lat": 50.6896,
+"lon": 32.187,
+"pop": 2165,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Ямпіль",
+"ru": "Ямполь",
+"en": "Yampil",
+"lat": 48.9401,
+"lon": 37.9601,
+"pop": 2149,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Березівка",
+"ru": "Берёзовка",
+"en": "Berezivka",
+"lat": 48.5993,
+"lon": 28.1027,
+"pop": 2142,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Кленовий",
+"ru": "Кленовый",
+"en": "Klenovyi",
+"lat": 48.1167,
+"lon": 39.4622,
+"pop": 2142,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Кожанка",
+"ru": "Кожанка",
+"en": "Kozhanka",
+"lat": 49.9698,
+"lon": 29.7614,
+"pop": 2141,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Ясна Поляна",
+"ru": "Ясная Поляна",
+"en": "Yasna Poliana",
+"lat": 48.7439,
+"lon": 37.5276,
+"pop": 2140,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Андріївка",
+"ru": "Андреевка",
+"en": "Andriivka",
+"lat": 48.1146,
+"lon": 38.7172,
+"pop": 2135,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Буки",
+"ru": "Буки",
+"en": "Buky",
+"lat": 49.0917,
+"lon": 30.4026,
+"pop": 2134,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Підкамінь",
+"ru": "Подкамень",
+"en": "Pidkamin",
+"lat": 49.9452,
+"lon": 25.3187,
+"pop": 2128,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Більшівці",
+"ru": "Большовцы",
+"en": "Bilshivtsi",
+"lat": 49.1837,
+"lon": 24.746,
+"pop": 2123,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Головине",
+"ru": "Головино",
+"en": "Holovyne",
+"lat": 50.4752,
+"lon": 28.8349,
+"pop": 2109,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Піщаний Брід",
+"ru": "Песчаный Брод",
+"en": "Pishchanyi Brid",
+"lat": 48.2843,
+"lon": 31.312,
+"pop": 2108,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Деражне",
+"ru": "Деражное",
+"en": "Derazhne",
+"lat": 50.8625,
+"lon": 26.0493,
+"pop": 2105,
+"place": "town",
+"region": "UA-56"
+},
+{
+"uk": "Шевченко",
+"ru": "Шевченко",
+"en": "Shevchenko",
+"lat": 48.2219,
+"lon": 37.1421,
+"pop": 2101,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Герца",
+"ru": "Герца",
+"en": "Hertsa",
+"lat": 48.1506,
+"lon": 26.259,
+"pop": 2097,
+"place": "town",
+"region": "UA-77"
+},
+{
+"uk": "Олишівка",
+"ru": "Олишівка",
+"en": "Olyshivka",
+"lat": 51.2179,
+"lon": 31.3299,
+"pop": 2080,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Ярова",
+"ru": "Яровая",
+"en": "Yarova",
+"lat": 49.06,
+"lon": 37.6395,
+"pop": 2079,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Токарівка",
+"ru": "Токаревка",
+"en": "Tokarivka",
+"lat": 47.3051,
+"lon": 31.0192,
+"pop": 2077,
+"place": "town",
+"region": "UA-48"
+},
+{
+"uk": "Нагольно-Тарасівка",
+"ru": "Нагольно-Тарасовка",
+"en": "Naholno-Tarasivka",
+"lat": 48.0013,
+"lon": 39.4749,
+"pop": 2073,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Любар",
+"ru": "Любар",
+"en": "Liubar",
+"lat": 49.9232,
+"lon": 27.7488,
+"pop": 2056,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Гути",
+"ru": "Гуты",
+"en": "Huty",
+"lat": 50.1331,
+"lon": 35.3479,
+"pop": 2043,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Вільне",
+"ru": "Вольное",
+"en": "Vol'noye",
+"lat": 45.5648,
+"lon": 34.3017,
+"pop": 2036,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Яблунів",
+"ru": "Яблонов",
+"en": "Yabluniv",
+"lat": 48.4053,
+"lon": 24.9417,
+"pop": 2032,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Ямпіль",
+"ru": "Ямполь",
+"en": "Yampil",
+"lat": 49.9562,
+"lon": 26.2275,
+"pop": 2022,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Вакуленчук",
+"ru": "Вакуленчук",
+"en": "Vakulenchuk",
+"lat": 49.9484,
+"lon": 28.2867,
+"pop": 2017,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Новооржицьке",
+"ru": "Новооржицкое",
+"en": "Novoorzhytske",
+"lat": 50.0286,
+"lon": 32.7261,
+"pop": 2008,
+"place": "town",
+"region": "UA-53"
+},
+{
+"uk": "Цукурине",
+"ru": "Цукурино",
+"en": "Tsukuryne",
+"lat": 48.0843,
+"lon": 37.3161,
+"pop": 2003,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Прудянка",
+"ru": "Прудянка",
+"en": "Prudianka",
+"lat": 50.2413,
+"lon": 36.1696,
+"pop": 2001,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Форос",
+"ru": "Форос",
+"en": "Foros",
+"lat": 44.3915,
+"lon": 33.7872,
+"pop": 1978,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Немирів",
+"ru": "Немиров",
+"en": "Nemyriv",
+"lat": 50.1041,
+"lon": 23.4361,
+"pop": 1973,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Гримайлів",
+"ru": "Гримайлов",
+"en": "Hrymailiv",
+"lat": 49.3321,
+"lon": 26.0098,
+"pop": 1973,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Магерів",
+"ru": "Магеров",
+"en": "Maheriv",
+"lat": 50.1091,
+"lon": 23.6991,
+"pop": 1968,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Сєверний",
+"ru": "Северный",
+"en": "Sievernyi",
+"lat": 48.357,
+"lon": 39.9216,
+"pop": 1954,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Гвіздець",
+"ru": "Гвоздец",
+"en": "Hvizdets",
+"lat": 48.5788,
+"lon": 25.2818,
+"pop": 1931,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Сердите",
+"ru": "Сердитое",
+"en": "Serdyte",
+"lat": 48.0405,
+"lon": 38.3944,
+"pop": 1920,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Архангельське",
+"ru": "Архангельское",
+"en": "Arkhanhelske",
+"lat": 47.4318,
+"lon": 33.4054,
+"pop": 1916,
+"place": "town",
+"region": "UA-65"
+},
+{
+"uk": "Смотрич",
+"ru": "Смотрич",
+"en": "Smotrych",
+"lat": 48.9499,
+"lon": 26.5581,
+"pop": 1912,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Дослідницьке",
+"ru": "Дослидницкое",
+"en": "Doslidnytske",
+"lat": 49.9239,
+"lon": 30.1438,
+"pop": 1910,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Чоповичі",
+"ru": "Чоповичи",
+"en": "Chopovychi",
+"lat": 50.8301,
+"lon": 28.9474,
+"pop": 1909,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Дубище",
+"ru": "Дубище",
+"en": "Dubyshche",
+"lat": 50.9303,
+"lon": 25.306,
+"pop": 1897,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Любеч",
+"ru": "Любеч",
+"en": "Liubech",
+"lat": 51.7005,
+"lon": 30.6587,
+"pop": 1890,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Есмань",
+"ru": "Эсмань",
+"en": "Esman",
+"lat": 51.7672,
+"lon": 34.0635,
+"pop": 1882,
+"place": "town",
+"region": "UA-59"
+},
+{
+"uk": "Ящикове",
+"ru": "Ящиково",
+"en": "Yashchykove",
+"lat": 48.4154,
+"lon": 38.7505,
+"pop": 1877,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Замглай",
+"ru": "Замглай",
+"en": "Zamhlai",
+"lat": 51.8124,
+"lon": 31.1631,
+"pop": 1871,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Козлів",
+"ru": "Козлов",
+"en": "Kozliv",
+"lat": 49.5566,
+"lon": 25.3396,
+"pop": 1856,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Дубляни",
+"ru": "Дубляны",
+"en": "Dubliany",
+"lat": 49.4991,
+"lon": 23.3826,
+"pop": 1848,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Нижанковичі",
+"ru": "Нижанковичи",
+"en": "Nyzhankovychi",
+"lat": 49.6759,
+"lon": 22.808,
+"pop": 1824,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Дружба",
+"ru": "Дружба",
+"en": "Druzhba",
+"lat": 49.3629,
+"lon": 25.6455,
+"pop": 1813,
+"place": "town",
+"region": "UA-61"
+},
+{
+"uk": "Берестечко",
+"ru": "Берестечко",
+"en": "Berestechko",
+"lat": 50.3586,
+"lon": 25.121,
+"pop": 1796,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Базалія",
+"ru": "Базалия",
+"en": "Bazaliia",
+"lat": 49.7138,
+"lon": 26.4788,
+"pop": 1792,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Серпневе",
+"ru": "Серпневое",
+"en": "Serpneve",
+"lat": 46.304,
+"lon": 29.0184,
+"pop": 1786,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Голубівка",
+"ru": "Голубовка",
+"en": "Голубівка",
+"lat": 48.3907,
+"lon": 38.534,
+"pop": 1785,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Старий Мерчик",
+"ru": "Старый Мерчик",
+"en": "Staryi Merchyk",
+"lat": 49.978,
+"lon": 35.7689,
+"pop": 1779,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Маломиколаївка",
+"ru": "Малониколаевка",
+"en": "Malomykolaivka",
+"lat": 48.3093,
+"lon": 39.019,
+"pop": 1771,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Попова Балка",
+"ru": "Попова Балка",
+"en": "Popova Balka",
+"lat": 47.8098,
+"lon": 38.2865,
+"pop": 1767,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ізварине",
+"ru": "Изварино",
+"en": "Izvaryne",
+"lat": 48.2858,
+"lon": 39.8913,
+"pop": 1755,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Верхній Нагольчик",
+"ru": "Верхний Нагольчик",
+"en": "Verkhnii Naholchyk",
+"lat": 48.0852,
+"lon": 39.0875,
+"pop": 1748,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Кундрюче",
+"ru": "Кундрючее",
+"en": "Кундрюче",
+"lat": 48.0171,
+"lon": 39.5913,
+"pop": 1735,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Удачне",
+"ru": "Удачное",
+"en": "Udachne",
+"lat": 48.2394,
+"lon": 36.9827,
+"pop": 1733,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Терезине",
+"ru": "Терезино",
+"en": "Terezyne",
+"lat": 49.8574,
+"lon": 30.1111,
+"pop": 1729,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Чернелиця",
+"ru": "Чернелица",
+"en": "Chernelytsia",
+"lat": 48.8129,
+"lon": 25.4257,
+"pop": 1718,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Авдіївка",
+"ru": "Авдеевка",
+"en": "Avdiivka",
+"lat": 48.1339,
+"lon": 37.7467,
+"pop": 1700,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Березівка",
+"ru": "Берёзовка",
+"en": "Berezivka",
+"lat": 49.9043,
+"lon": 36.0674,
+"pop": 1695,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Нижній Нагольчик",
+"ru": "Нижний Нагольчик",
+"en": "Nyzhnii Naholchyk",
+"lat": 48.0203,
+"lon": 39.0598,
+"pop": 1661,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Вільча",
+"ru": "Вильча",
+"en": "Vilcha",
+"lat": 50.247,
+"lon": 36.9378,
+"pop": 1658,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Олександрівське",
+"ru": "Александровское",
+"en": "Oleksandrivske",
+"lat": 48.2702,
+"lon": 38.2856,
+"pop": 1648,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Буджак",
+"ru": "Буджак",
+"en": "Budzhak",
+"lat": 46.3024,
+"lon": 29.2423,
+"pop": 1639,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Затока",
+"ru": "Затока",
+"en": "Zatoka",
+"lat": 46.064,
+"lon": 30.4503,
+"pop": 1637,
+"place": "town",
+"region": "UA-51"
+},
+{
+"uk": "Південне",
+"ru": "Южное",
+"en": "Pivdenne",
+"lat": 48.3647,
+"lon": 37.9063,
+"pop": 1637,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Новоолександрівка",
+"ru": "Новоалександровка",
+"en": "Novooleksandrivka",
+"lat": 48.2671,
+"lon": 39.627,
+"pop": 1609,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Сиротине",
+"ru": "Сиротино",
+"en": "Syrotyne",
+"lat": 48.9156,
+"lon": 38.5117,
+"pop": 1604,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Лівадія",
+"ru": "Ливадия",
+"en": "Livadiya",
+"lat": 44.4665,
+"lon": 34.141,
+"pop": 1601,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Водянське",
+"ru": "Водянское",
+"en": "Vodianske",
+"lat": 48.4107,
+"lon": 37.1049,
+"pop": 1576,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Контарне",
+"ru": "Контарное",
+"en": "Kontarne",
+"lat": 48.0894,
+"lon": 38.5106,
+"pop": 1576,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Христофорівка",
+"ru": "Христофоровка",
+"en": "Khrystoforivka",
+"lat": 47.9831,
+"lon": 33.0917,
+"pop": 1556,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Наркевичі",
+"ru": "Наркевичи",
+"en": "Narkevychi",
+"lat": 49.5176,
+"lon": 26.6433,
+"pop": 1553,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Картушине",
+"ru": "Картушино",
+"en": "Картушине",
+"lat": 48.1366,
+"lon": 39.2463,
+"pop": 1548,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Салькове",
+"ru": "Сальково",
+"en": "Salkove",
+"lat": 48.2622,
+"lon": 29.9845,
+"pop": 1536,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Холодне",
+"ru": "Холодное",
+"en": "Холодне",
+"lat": 48.0276,
+"lon": 38.0626,
+"pop": 1522,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Гранітне",
+"ru": "Гранитное",
+"en": "Hranitne",
+"lat": 50.743,
+"lon": 29.349,
+"pop": 1513,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Рокині",
+"ru": "Рокини",
+"en": "Rokyni",
+"lat": 50.8331,
+"lon": 25.2708,
+"pop": 1511,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Олесько",
+"ru": "Олеско",
+"en": "Olesko",
+"lat": 49.9643,
+"lon": 24.8941,
+"pop": 1510,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Осавулівка",
+"ru": "Осавулівка",
+"en": "Osavulivka",
+"lat": 48.0512,
+"lon": 39.025,
+"pop": 1506,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Усть-Чорна",
+"ru": "Усть-Чорна",
+"en": "Ust-Chorna",
+"lat": 48.3249,
+"lon": 23.9349,
+"pop": 1490,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Кодра",
+"ru": "Кодра",
+"en": "Kodra",
+"lat": 50.5914,
+"lon": 29.5628,
+"pop": 1485,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Мар’янівка",
+"ru": "Марьяновка",
+"en": "Marianivka",
+"lat": 50.3095,
+"lon": 27.874,
+"pop": 1483,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Хрустальне",
+"ru": "Хрустальное",
+"en": "Khrustalne",
+"lat": 48.151,
+"lon": 38.8586,
+"pop": 1469,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Бориня",
+"ru": "Борыня",
+"en": "Borynia",
+"lat": 49.0715,
+"lon": 23.0022,
+"pop": 1462,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Тернувате",
+"ru": "Терноватое",
+"en": "Ternuvate",
+"lat": 47.8293,
+"lon": 36.1268,
+"pop": 1461,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Криничанське",
+"ru": "Криничанское",
+"en": "Криничанське",
+"lat": 48.5945,
+"lon": 38.753,
+"pop": 1444,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Талове",
+"ru": "Таловое",
+"en": "Talove",
+"lat": 48.311,
+"lon": 39.663,
+"pop": 1434,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Благодатне",
+"ru": "Благодатное",
+"en": "Blahodatne",
+"lat": 48.2079,
+"lon": 37.4378,
+"pop": 1421,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Букачівці",
+"ru": "Букачёвцы",
+"en": "Bukachivtsi",
+"lat": 49.262,
+"lon": 24.4962,
+"pop": 1408,
+"place": "town",
+"region": "UA-26"
+},
+{
+"uk": "Новоселівка",
+"ru": "Новосёловка",
+"en": "Novoselivka",
+"lat": 49.0754,
+"lon": 37.6974,
+"pop": 1392,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Закупне",
+"ru": "Закупное",
+"en": "Zakupne",
+"lat": 49.1206,
+"lon": 26.3382,
+"pop": 1371,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Поморяни",
+"ru": "Поморяны",
+"en": "Pomoriany",
+"lat": 49.6364,
+"lon": 24.9319,
+"pop": 1370,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Чортомлик",
+"ru": "Чертомлык",
+"en": "Chortomlyk",
+"lat": 47.6159,
+"lon": 34.1365,
+"pop": 1368,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Виноградне",
+"ru": "Виноградное",
+"en": "Vinogradnoe",
+"lat": 44.4797,
+"lon": 34.1308,
+"pop": 1357,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Сенкевичівка",
+"ru": "Сенкевичевка",
+"en": "Senkevychivka",
+"lat": 50.5279,
+"lon": 25.028,
+"pop": 1347,
+"place": "town",
+"region": "UA-07"
+},
+{
+"uk": "Лісове",
+"ru": "Лесовое",
+"en": "Lisove",
+"lat": 48.843,
+"lon": 32.3316,
+"pop": 1342,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Утківка",
+"ru": "Утковка",
+"en": "Utkivka",
+"lat": 49.794,
+"lon": 36.0195,
+"pop": 1339,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Врубівський",
+"ru": "Врубовский",
+"en": "Vrubivskyi",
+"lat": 48.4277,
+"lon": 39.1091,
+"pop": 1326,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Копайгород",
+"ru": "Копайгород",
+"en": "Kopaihorod",
+"lat": 48.8565,
+"lon": 27.7985,
+"pop": 1323,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Штерівка",
+"ru": "Штеровка",
+"en": "Shterivka",
+"lat": 48.3138,
+"lon": 38.944,
+"pop": 1323,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Вергулівка",
+"ru": "Вергулёвка",
+"en": "Verhulivka",
+"lat": 48.4008,
+"lon": 38.5288,
+"pop": 1321,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Десна",
+"ru": "Десна",
+"en": "Desna",
+"lat": 49.2844,
+"lon": 28.54,
+"pop": 1318,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Цвіткове",
+"ru": "Цветково",
+"en": "Tsvitkove",
+"lat": 49.1544,
+"lon": 31.5301,
+"pop": 1286,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Дігтярі",
+"ru": "Дігтярі",
+"en": "Dihtiari",
+"lat": 50.5819,
+"lon": 32.77,
+"pop": 1242,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Копані",
+"ru": "Копани",
+"en": "Копані",
+"lat": 47.7603,
+"lon": 38.3379,
+"pop": 1218,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Благодатне",
+"ru": "Благодатное",
+"en": "Blahodatne",
+"lat": 47.6993,
+"lon": 37.4194,
+"pop": 1204,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Манченки",
+"ru": "Манченки",
+"en": "Manchenky",
+"lat": 49.9763,
+"lon": 35.8518,
+"pop": 1192,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Залізничне",
+"ru": "Зализничное",
+"en": "Zaliznychne",
+"lat": 47.645,
+"lon": 36.1696,
+"pop": 1177,
+"place": "town",
+"region": "UA-23"
+},
+{
+"uk": "Сєверо-Гундорівський",
+"ru": "Северо-Гундоровский",
+"en": "Sievero-Hundorivskyi",
+"lat": 48.371,
+"lon": 39.8832,
+"pop": 1177,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Рудниця",
+"ru": "Рудница",
+"en": "Rudnytsia",
+"lat": 48.2571,
+"lon": 28.9349,
+"pop": 1175,
+"place": "town",
+"region": "UA-05"
+},
+{
+"uk": "Седнів",
+"ru": "Седнів",
+"en": "Sedniv",
+"lat": 51.6421,
+"lon": 31.5624,
+"pop": 1175,
+"place": "town",
+"region": "UA-74"
+},
+{
+"uk": "Великокам’янка",
+"ru": "Великокаменка",
+"en": "Velykokamianka",
+"lat": 48.1418,
+"lon": 39.4368,
+"pop": 1163,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Стара Сіль",
+"ru": "Стара Сіль",
+"en": "Stara Sil",
+"lat": 49.4897,
+"lon": 22.9666,
+"pop": 1158,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Гірницьке",
+"ru": "Горняцкое",
+"en": "Hirnytske",
+"lat": 48.0043,
+"lon": 38.8335,
+"pop": 1158,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Письменне",
+"ru": "Письменное",
+"en": "Pysmenne",
+"lat": 48.2027,
+"lon": 35.8021,
+"pop": 1147,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Неліпівка",
+"ru": "Нелеповка",
+"en": "Nelipivka",
+"lat": 48.3515,
+"lon": 37.8361,
+"pop": 1128,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Гайдамацьке",
+"ru": "Гайдамацкое",
+"en": "Гайдамацьке",
+"lat": 48.8009,
+"lon": 32.4035,
+"pop": 1127,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Новоспаське",
+"ru": "Новоспасское",
+"en": "Novospaske",
+"lat": 48.3874,
+"lon": 37.7828,
+"pop": 1121,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Жденієво",
+"ru": "Ждениево",
+"en": "Zhdeniievo",
+"lat": 48.7724,
+"lon": 22.9796,
+"pop": 1112,
+"place": "town",
+"region": "UA-21"
+},
+{
+"uk": "Краковець",
+"ru": "Краковец",
+"en": "Krakovets",
+"lat": 49.9621,
+"lon": 23.1603,
+"pop": 1106,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Новий Світ",
+"ru": "Новый Свет",
+"en": "Novyi Svet",
+"lat": 44.8292,
+"lon": 34.9127,
+"pop": 1095,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Марія",
+"ru": "Мария",
+"en": "Марія",
+"lat": 48.4352,
+"lon": 39.1489,
+"pop": 1083,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Павлівка",
+"ru": "Павловка",
+"en": "Pavlivka",
+"lat": 48.1315,
+"lon": 39.5405,
+"pop": 1065,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Троїцько-Харцизьк",
+"ru": "Троицко-Харцызск",
+"en": "Troitsko-Khartsyzk",
+"lat": 47.9688,
+"lon": 38.2677,
+"pop": 1048,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Райське",
+"ru": "Райское",
+"en": "Raiske",
+"lat": 48.5699,
+"lon": 37.4665,
+"pop": 1043,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ірдинь",
+"ru": "Ирдынь",
+"en": "Irdyn",
+"lat": 49.3688,
+"lon": 31.6818,
+"pop": 1034,
+"place": "town",
+"region": "UA-71"
+},
+{
+"uk": "Врубівка",
+"ru": "Врубовка",
+"en": "Vrubivka",
+"lat": 48.7389,
+"lon": 38.3866,
+"pop": 1030,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Краснокам’янка",
+"ru": "Краснокаменка",
+"en": "Krasnokamenka",
+"lat": 44.5633,
+"lon": 34.2887,
+"pop": 1024,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Буран",
+"ru": "Буран",
+"en": "Буран",
+"lat": 48.2973,
+"lon": 39.6146,
+"pop": 1023,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Лозно-Олександрівка",
+"ru": "Лозно-Александровка",
+"en": "Lozno-Oleksandrivka",
+"lat": 49.8374,
+"lon": 38.7423,
+"pop": 1000,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Угнів",
+"ru": "Угнев",
+"en": "Uhniv",
+"lat": 50.3672,
+"lon": 23.7471,
+"pop": 997,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Білогорівка",
+"ru": "Белогоровка",
+"en": "Bilohorivka",
+"lat": 48.9244,
+"lon": 38.2472,
+"pop": 976,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Чорний Острів",
+"ru": "Чёрный Остров",
+"en": "Chornyi Ostriv",
+"lat": 49.505,
+"lon": 26.7561,
+"pop": 949,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Княгинівка",
+"ru": "Княгиневка",
+"en": "Kniahynivka",
+"lat": 48.1136,
+"lon": 38.8566,
+"pop": 946,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Біла Криниця",
+"ru": "Белая Криница",
+"en": "Bila Krynytsia",
+"lat": 50.6364,
+"lon": 29.466,
+"pop": 945,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Запоріжжя",
+"ru": "Запорожье",
+"en": "Zaporizhzhia",
+"lat": 48.2571,
+"lon": 38.7248,
+"pop": 940,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Курдюмівка",
+"ru": "Курдюмовка",
+"en": "Kurdiumivka",
+"lat": 48.4683,
+"lon": 37.9569,
+"pop": 938,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Горбачево-Михайлівка",
+"ru": "Горбачёво-Михайловка",
+"en": "Horbachevo-Mykhailivka",
+"lat": 47.8521,
+"lon": 38.0109,
+"pop": 935,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Вовчоярівка",
+"ru": "Волчеяровка",
+"en": "Vovchoiarivka",
+"lat": 48.8419,
+"lon": 38.3715,
+"pop": 933,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Війтівці",
+"ru": "Войтовцы",
+"en": "Viitivtsi",
+"lat": 49.4933,
+"lon": 26.4448,
+"pop": 922,
+"place": "town",
+"region": "UA-68"
+},
+{
+"uk": "Ломуватка",
+"ru": "Ломоватка",
+"en": "Lomuvatka",
+"lat": 48.4515,
+"lon": 38.5629,
+"pop": 920,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Грушове",
+"ru": "Грушёвое",
+"en": "Hrushove",
+"lat": 48.2454,
+"lon": 38.8085,
+"pop": 919,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Ореанда",
+"ru": "Ореанда",
+"en": "Oreanda",
+"lat": 44.4603,
+"lon": 34.1369,
+"pop": 893,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Лиманчук",
+"ru": "Лиманчук",
+"en": "Lymanchuk",
+"lat": 48.0149,
+"lon": 38.8247,
+"pop": 889,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Байрачки",
+"ru": "Байрачки",
+"en": "Bairachky",
+"lat": 48.3905,
+"lon": 38.5979,
+"pop": 867,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Софіївка",
+"ru": "Софиевка",
+"en": "Sofiivka",
+"lat": 48.7411,
+"lon": 37.5136,
+"pop": 863,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Інгулецьке",
+"ru": "Ингулецкое",
+"en": "Inhuletske",
+"lat": 48.466,
+"lon": 33.1792,
+"pop": 861,
+"place": "town",
+"region": "UA-35"
+},
+{
+"uk": "Нові Стрілища",
+"ru": "Нові Стрілища",
+"en": "Novi Strilyshcha",
+"lat": 49.5174,
+"lon": 24.403,
+"pop": 856,
+"place": "town",
+"region": "UA-46"
+},
+{
+"uk": "Шахтне",
+"ru": "Шахтное",
+"en": "Shakhtne",
+"lat": 47.9828,
+"lon": 38.282,
+"pop": 854,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Центральний",
+"ru": "Центральный",
+"en": "Tsentralnyi",
+"lat": 48.3493,
+"lon": 38.5766,
+"pop": 847,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Воронове",
+"ru": "Вороново",
+"en": "Voronove",
+"lat": 48.8977,
+"lon": 38.5731,
+"pop": 839,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Малорязанцеве",
+"ru": "Малорязанцево",
+"en": "Maloriazantseve",
+"lat": 48.8849,
+"lon": 38.4,
+"pop": 838,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Широке",
+"ru": "Широкое",
+"en": "Shyroke",
+"lat": 47.9574,
+"lon": 38.2307,
+"pop": 829,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Научний",
+"ru": "Научный",
+"en": "Nauchnyy",
+"lat": 44.7266,
+"lon": 34.0099,
+"pop": 821,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Гірник",
+"ru": "Горняк",
+"en": "Hirnyk",
+"lat": 48.07,
+"lon": 39.1946,
+"pop": 817,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Бучмани",
+"ru": "Бучмани",
+"en": "Buchmany",
+"lat": 51.0689,
+"lon": 28.0421,
+"pop": 731,
+"place": "town",
+"region": "UA-18"
+},
+{
+"uk": "Гостре",
+"ru": "Острое",
+"en": "Hostre",
+"lat": 47.9936,
+"lon": 37.4017,
+"pop": 704,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Куликівське",
+"ru": "Куликовское",
+"en": "Куликівське",
+"lat": 48.1097,
+"lon": 38.5406,
+"pop": 696,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Красна Гора",
+"ru": "Красная Гора",
+"en": "Krasna Hora",
+"lat": 48.6627,
+"lon": 38.0156,
+"pop": 686,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Донецьке",
+"ru": "Донецкое",
+"en": "Donetske",
+"lat": 48.9343,
+"lon": 37.6904,
+"pop": 664,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Красятичі",
+"ru": "Красятичі",
+"en": "Krasiatychi",
+"lat": 51.0783,
+"lon": 29.6378,
+"pop": 660,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Втішне",
+"ru": "Отрадное",
+"en": "Otradnoe",
+"lat": 44.5056,
+"lon": 34.215,
+"pop": 659,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Бірки",
+"ru": "Борки",
+"en": "Birky",
+"lat": 49.6836,
+"lon": 36.0523,
+"pop": 657,
+"place": "town",
+"region": "UA-63"
+},
+{
+"uk": "Великий Лог",
+"ru": "Великий Лог",
+"en": "Velykyi Loh",
+"lat": 48.2585,
+"lon": 39.5559,
+"pop": 638,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Грузько-Ломівка",
+"ru": "Грузско-Ломовка",
+"en": "Hruzko-Lomivka",
+"lat": 47.9092,
+"lon": 38.1055,
+"pop": 629,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Колосникове",
+"ru": "Колосниково",
+"en": "Kolosnykove",
+"lat": 48.0456,
+"lon": 38.0611,
+"pop": 611,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Кацівелі",
+"ru": "Кацивели",
+"en": "Katsiveli",
+"lat": 44.3972,
+"lon": 33.9724,
+"pop": 609,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Совєтське",
+"ru": "Советское",
+"en": "Sovetskoye",
+"lat": 44.5311,
+"lon": 34.1885,
+"pop": 579,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Чорнобиль",
+"ru": "Чернобыль",
+"en": "Chornobyl",
+"lat": 51.2705,
+"lon": 30.2196,
+"pop": 550,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Побєда",
+"ru": "Победа",
+"en": "Pobieda",
+"lat": 47.9786,
+"lon": 38.8084,
+"pop": 542,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Первомайське",
+"ru": "Первомайское",
+"en": "Pervomaiske",
+"lat": 47.9945,
+"lon": 38.7769,
+"pop": 501,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Берегове",
+"ru": "Береговое",
+"en": "Beregovoe",
+"lat": 44.4048,
+"lon": 33.8962,
+"pop": 497,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Паркове",
+"ru": "Парковое",
+"en": "Parkovoe",
+"lat": 44.4057,
+"lon": 33.9117,
+"pop": 495,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Санаторне",
+"ru": "Санаторное",
+"en": "Sanatornoye",
+"lat": 44.4023,
+"lon": 33.8224,
+"pop": 494,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Сад",
+"ru": "Сад",
+"en": "Sad",
+"lat": 48.4279,
+"lon": 35.2398,
+"pop": 474,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Комишівка",
+"ru": "Камышевка",
+"en": "Komyshivka",
+"lat": 48.1806,
+"lon": 37.4689,
+"pop": 463,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Восход",
+"ru": "Восход",
+"en": "Voskhod",
+"lat": 44.513,
+"lon": 34.219,
+"pop": 448,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Голуба Затока",
+"ru": "Голубой Залив",
+"en": "Goluboy Zaliv",
+"lat": 44.407,
+"lon": 33.9871,
+"pop": 441,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Графське",
+"ru": "Графское",
+"en": "Hrafske",
+"lat": 47.6763,
+"lon": 37.4116,
+"pop": 416,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Олександрівка",
+"ru": "Александровка",
+"en": "Oleksandrivka",
+"lat": 48.7441,
+"lon": 37.4852,
+"pop": 412,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Курпати",
+"ru": "Курпаты",
+"en": "Kurpaty",
+"lat": 44.4427,
+"lon": 34.1328,
+"pop": 411,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Федорівка",
+"ru": "Фёдоровка",
+"en": "Fedorivka",
+"lat": 48.316,
+"lon": 38.8481,
+"pop": 410,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Мирне",
+"ru": "Мирное",
+"en": "Myrne",
+"lat": 48.2877,
+"lon": 39.6531,
+"pop": 396,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Новогригорівка",
+"ru": "Новогригоровка",
+"en": "Novohryhorivka",
+"lat": 48.5761,
+"lon": 37.4194,
+"pop": 391,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Керамік",
+"ru": "Керамик",
+"en": "Keramik",
+"lat": 48.2531,
+"lon": 37.6827,
+"pop": 385,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Понизівка",
+"ru": "Понизовка",
+"en": "Ponizovka",
+"lat": 44.396,
+"lon": 33.9524,
+"pop": 382,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Гірницьке",
+"ru": "Горняцкое",
+"en": "Hirnytske",
+"lat": 47.7236,
+"lon": 34.1601,
+"pop": 355,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Никифорове",
+"ru": "Никифорово",
+"en": "Nykyforove",
+"lat": 48.0076,
+"lon": 38.8542,
+"pop": 355,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Мирна Долина",
+"ru": "Мирная Долина",
+"en": "Myrna Dolyna",
+"lat": 48.8084,
+"lon": 38.4783,
+"pop": 355,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Прикордонне",
+"ru": "Прикордонное",
+"en": "Прикордонне",
+"lat": 48.2963,
+"lon": 39.9712,
+"pop": 344,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Мар’ївка",
+"ru": "Марьевка",
+"en": "Marivka",
+"lat": 47.6151,
+"lon": 34.6217,
+"pop": 338,
+"place": "town",
+"region": "UA-12"
+},
+{
+"uk": "Курортне",
+"ru": "Курортное",
+"en": "Kurortnoe",
+"lat": 44.9143,
+"lon": 35.1883,
+"pop": 326,
+"place": "town",
+"region": "UA-43"
+},
+{
+"uk": "Бражине",
+"ru": "Бражино",
+"en": "Brazhyne",
+"lat": 47.9962,
+"lon": 38.8266,
+"pop": 312,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Ганнівка",
+"ru": "Анновка",
+"en": "Hannivka",
+"lat": 48.4837,
+"lon": 38.55,
+"pop": 274,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Тацине",
+"ru": "Тацино",
+"en": "Tatsyne",
+"lat": 48.0691,
+"lon": 39.2123,
+"pop": 272,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Вишневе",
+"ru": "Вишнёвое",
+"en": "Vyshneve",
+"lat": 48.1503,
+"lon": 37.2463,
+"pop": 264,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Глибокий",
+"ru": "Глубокий",
+"en": "Hlybokyi",
+"lat": 48.4746,
+"lon": 38.5864,
+"pop": 221,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Покровка",
+"ru": "Покровка",
+"en": "Pokrovka",
+"lat": 47.9347,
+"lon": 38.2784,
+"pop": 170,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Комишуваха",
+"ru": "Камышеваха",
+"en": "Komyshuvakha",
+"lat": 48.6403,
+"lon": 37.4558,
+"pop": 105,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Новомиколаївка",
+"ru": "Новониколаевка",
+"en": "Novomykolaivka",
+"lat": 48.5633,
+"lon": 37.3741,
+"pop": 100,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Гірне",
+"ru": "Горное",
+"en": "Hirne",
+"lat": 48.278,
+"lon": 39.604,
+"pop": 64,
+"place": "town",
+"region": "UA-09"
+},
+{
+"uk": "Благодатне",
+"ru": "Благодатное",
+"en": "Благодатне",
+"lat": 47.9678,
+"lon": 38.2103,
+"pop": 43,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Мар’їнка",
+"ru": "Марьинка",
+"en": "Marinka",
+"lat": 47.9401,
+"lon": 37.5022,
+"pop": 1,
+"place": "town",
+"region": "UA-14"
+},
+{
+"uk": "Прип’ять",
+"ru": "Припять",
+"en": "Prypiat",
+"lat": 51.406,
+"lon": 30.0574,
+"pop": 0,
+"place": "town",
+"region": "UA-32"
+},
+{
+"uk": "Бахмут",
+"ru": "Бахмут",
+"en": "Bakhmut",
+"lat": 48.5894,
+"lon": 38.0021,
+"pop": 0,
+"place": "town",
+"region": "UA-14"
+}
+]

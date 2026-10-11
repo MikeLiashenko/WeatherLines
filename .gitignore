@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+cache/
+out/
+state.json
+state.tmp
+bot.log*
+site/
+strikes.json
+precip.npz

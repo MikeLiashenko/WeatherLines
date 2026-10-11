@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WeatherLines — админка</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body class="admin">
+
+<header class="top">
+  <a class="brand" href="/" aria-label="На сайт WeatherLines">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 2 4 13.5h6.2L9 22l10-12.2h-6.4z"/></svg>
+    <span>Weather<b>Lines</b></span>
+  </a>
+  <span class="badge">админка</span>
+  <nav><a href="/">Открыть сайт</a></nav>
+</header>
+
+<main>
+  <div class="statusbar" id="statusbar">
+    <span class="chip" id="chip-channel">Канал: …</span>
+    <span class="chip" id="chip-lightning">Молнии: …</span>
+    <span class="chip" id="chip-storms">Грозы: …</span>
+  </div>
+
+  <div class="admin-grid">
+    <section class="col">
+      <h2>Отправить в канал</h2>
+      <p class="muted small">Нажмите на карточку — справа появится предпросмотр. В канал ничего не уйдёт, пока вы не нажмёте «Отправить».</p>
+      <div id="kinds" class="kinds"></div>
+      <button class="kind custom" id="custom">
+        <b>Своё сообщение</b>
+        <span>Любой текст, по желанию с картинкой</span>
+      </button>
+
+      <h2 class="spaced">Недавние посты</h2>
+      <ul id="posts" class="posts"><li class="muted">Загружаю…</li></ul>
+    </section>
+
+    <section class="col composer" id="composer">
+      <div class="empty" id="empty">
+        <p>Выберите слева, что отправить.</p>
+      </div>
+      <form id="form" hidden>
+        <div class="composer-head">
+          <h2 id="draft-title"></h2>
+          <span class="muted small" id="draft-note"></span>
+        </div>
+        <div class="picture" id="picture" hidden><img id="draft-image" alt="Карта, которая уйдёт в канал"></div>
+        <label class="file" id="file-row" hidden>
+          <span>Картинка (необязательно)</span>
+          <input type="file" id="file" accept="image/jpeg,image/png">
+        </label>
+        <label class="field">
+          <span>Текст поста</span>
+          <textarea id="text" rows="12" spellcheck="true"></textarea>
+        </label>
+        <p class="muted small" id="hint"></p>
+        <p class="error" id="error" hidden></p>
+        <div class="actions">
+          <button type="submit" class="primary" id="send">Отправить в канал</button>
+          <button type="button" id="refresh" hidden>Пересчитать по свежим данным</button>
+          <button type="button" id="cancel">Отмена</button>
+        </div>
+      </form>
+    </section>
+  </div>
+</main>
+
+<div class="toast" id="toast" hidden></div>
+<script src="/admin/admin.js"></script>
+</body>
+</html>

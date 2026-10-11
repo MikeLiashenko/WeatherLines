@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="$lang">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<meta name="description" content="$tagline">
+<meta name="theme-color" content="#0a0f1a">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <a class="brand" href="#live" aria-label="WeatherLines">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 2 4 13.5h6.2L9 22l10-12.2h-6.4z"/></svg>
+    <span>Weather<b>Lines</b></span>
+  </a>
+  <nav>
+    <a href="#live">$nav_live</a>
+    <a href="#rain">$nav_rain</a>
+    <a href="#forecast">$nav_forecast</a>
+    <a href="#synoptic">$nav_synoptic</a>
+    <a href="#warnings">$nav_warnings</a>
+  </nav>
+  <a class="tg" id="tg" href="$channel_url" target="_blank" rel="noopener">$telegram</a>
+</header>
+
+<main>
+  <section id="live">
+    <div class="section-head">
+      <h1>$live_title</h1>
+      <p class="status" id="status"><span class="dot"></span><span id="status-text">$status_loading</span></p>
+    </div>
+    <div class="live-grid">
+      <div class="map-wrap">
+        <div id="map"></div>
+        <div class="radar-box" id="radar-box" hidden>
+          <label class="switch"><input type="checkbox" id="radar-on" checked><span>$radar</span></label>
+          <button type="button" id="radar-play" aria-label="$radar_play">▶</button>
+          <input type="range" id="radar-slider" min="0" max="12" step="1" value="12" aria-label="$radar_slider">
+          <output id="radar-time">—</output>
+        </div>
+        <ul class="legend">
+          <li><i class="scale"></i>$legend_radar</li>
+          <li><i class="strike new"></i>$legend_new</li>
+          <li><i class="strike mid"></i>$legend_mid</li>
+          <li><i class="strike old"></i>$legend_old</li>
+          <li><i class="zone now"></i>$legend_now</li>
+          <li><i class="zone cone"></i><span id="legend-cone"></span></li>
+        </ul>
+      </div>
+      <aside>
+        <h2>$cells_title</h2>
+        <div id="cells"><p class="muted">$status_loading</p></div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="rain" class="post" data-kinds="rain_now,nowcast">
+    <div class="section-head">
+      <h2>$rain_title</h2>
+      <div class="tabs" role="tablist">
+        <button role="tab" data-kind="rain_now">$rain_now</button>
+        <button role="tab" data-kind="nowcast">$nowcast</button>
+      </div>
+    </div>
+    <div class="panel"></div>
+  </section>
+
+  <section id="forecast" class="post" data-kinds="today,tomorrow">
+    <div class="section-head">
+      <h2>$forecast_title</h2>
+      <div class="tabs" role="tablist">
+        <button role="tab" data-kind="today">$today</button>
+        <button role="tab" data-kind="tomorrow">$tomorrow</button>
+      </div>
+    </div>
+    <div class="panel"></div>
+  </section>
+
+  <section id="synoptic" class="post" data-kinds="synoptic">
+    <div class="section-head"><h2>$synoptic_title</h2></div>
+    <div class="panel"></div>
+  </section>
+
+  <section id="warnings">
+    <div class="section-head"><h2>$warnings_title</h2></div>
+    <div id="warning-list"><p class="muted">$status_loading</p></div>
+  </section>
+</main>
+
+<footer>
+  <p>$radar_about $disclaimer</p>
+  <p class="muted">$sources</p>
+</footer>
+
+<script>window.UI = $ui_json;</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

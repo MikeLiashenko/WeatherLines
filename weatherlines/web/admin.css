@@ -1,0 +1,88 @@
+/* Админка WeatherLines. Цвета и база — из style.css сайта. */
+[hidden] { display: none !important; }
+.small { font-size: 0.86rem; }
+.spaced { margin-top: 34px; }
+.badge {
+  padding: 3px 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted);
+  font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em;
+}
+body.admin main { padding-top: 22px; padding-bottom: 60px; }
+body.admin h2 { font-size: 1.15rem; margin-bottom: 8px; }
+
+.statusbar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; border-radius: 999px;
+  background: var(--surface); border: 1px solid var(--line); font-size: 0.88rem; color: var(--muted);
+}
+.chip::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.chip.ok::before { background: var(--ok); }
+.chip.warn::before { background: var(--bolt); }
+.chip.bad::before { background: var(--storm); }
+.chip b { color: var(--text); font-weight: 600; }
+
+.admin-grid { display: grid; grid-template-columns: minmax(0, 380px) minmax(0, 1fr); gap: 28px; align-items: start; }
+.col p { margin: 0 0 14px; }
+
+.kinds { display: grid; gap: 8px; margin-bottom: 8px; }
+.kind {
+  display: grid; gap: 2px; width: 100%; padding: 12px 16px; text-align: left; cursor: pointer;
+  border-radius: 12px; background: var(--surface); border: 1px solid var(--line); color: var(--text); font: inherit;
+}
+.kind b { font-weight: 600; }
+.kind span { color: var(--muted); font-size: 0.84rem; }
+.kind:hover, .kind:focus-visible { background: var(--surface-2); outline: none; }
+.kind[aria-pressed="true"] { border-color: var(--bolt); background: var(--surface-2); }
+.kind.custom { border-style: dashed; }
+.kind.busy { opacity: 0.6; cursor: progress; }
+
+.posts { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; font-size: 0.9rem; }
+.posts li { display: flex; gap: 12px; padding: 7px 0; border-bottom: 1px solid var(--line); }
+.posts time { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.posts .trial { color: var(--muted); }
+
+.composer {
+  position: sticky; top: 84px; padding: 22px; border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--line); min-height: 320px;
+}
+.empty { display: grid; place-items: center; min-height: 270px; color: var(--muted); text-align: center; }
+.composer-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; margin-bottom: 14px; }
+.composer-head h2 { margin: 0; }
+.picture img { width: 100%; max-height: 52vh; object-fit: contain; display: block; border-radius: 10px; background: var(--bg); border: 1px solid var(--line); }
+.picture { margin-bottom: 14px; }
+.field, .file { display: grid; gap: 6px; margin-bottom: 10px; font-size: 0.88rem; color: var(--muted); }
+textarea, input[type="password"] {
+  width: 100%; padding: 12px 14px; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--bg); color: var(--text); font: inherit; line-height: 1.5; resize: vertical;
+}
+textarea { font-size: 0.95rem; min-height: 160px; }
+textarea:focus, input:focus { outline: 2px solid var(--bolt); outline-offset: 1px; border-color: transparent; }
+input[type="file"] { color: var(--muted); font: inherit; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+.actions button, .login button {
+  padding: 10px 18px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface-2);
+  color: var(--text); font: inherit; font-size: 0.95rem; cursor: pointer;
+}
+.actions button:hover { filter: brightness(1.15); }
+.actions button:disabled { opacity: 0.55; cursor: progress; }
+button.primary { background: var(--bolt); color: #1a1400; border-color: transparent; font-weight: 600; }
+.error { color: #ff8f8f; margin: 10px 0 0; font-size: 0.92rem; }
+
+.toast {
+  position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%); z-index: 2000;
+  padding: 12px 22px; border-radius: 999px; background: var(--ok); color: #04210f; font-weight: 600;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+}
+
+body.login { display: grid; place-items: center; min-height: 100vh; padding: 20px; }
+.login .card {
+  display: grid; gap: 16px; width: min(380px, 100%); padding: 28px; border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--line);
+}
+.login h1 { font-size: 1.35rem; }
+.login label { display: grid; gap: 6px; color: var(--muted); font-size: 0.9rem; }
+
+@media (max-width: 900px) {
+  .admin-grid { grid-template-columns: minmax(0, 1fr); }
+  .composer { position: static; }
+}

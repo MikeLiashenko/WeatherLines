@@ -188,7 +188,7 @@
       return;
     }
     const age = Date.now() / 1000 - live.updated;
-    const stale = age > Math.max(600, UI.tick_sec * 4);
+    const stale = age > UI.stale_sec;
     const home = live.cells.filter((c) => c.home).length;
     setStatus(
       stale ? "stale" : "ok",

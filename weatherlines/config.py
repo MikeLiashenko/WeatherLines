@@ -115,6 +115,13 @@ class Config:
     site_forecast_min: int = field(default_factory=lambda: _int("SITE_FORECAST_MIN", 180))
     site_synoptic_min: int = field(default_factory=lambda: _int("SITE_SYNOPTIC_MIN", 360))
 
+    # --- Публикация сайта на GitHub Pages ---
+    pages_enabled: bool = field(default_factory=lambda: _bool("PAGES_ENABLED", False))
+    pages_remote: str = field(default_factory=lambda: _str("PAGES_REMOTE"))   # адрес репозитория (https://github.com/…)
+    pages_branch: str = field(default_factory=lambda: _str("PAGES_BRANCH", "gh-pages"))
+    # GitHub собирает Pages не чаще ~10 раз в час, поэтому чаще шести минут выкладывать нет смысла.
+    pages_interval_min: int = field(default_factory=lambda: max(2, _int("PAGES_INTERVAL_MIN", 6)))
+
     # --- Карты ---
     tile_url: str = field(default_factory=lambda: _str("TILE_URL", "https://tile.openstreetmap.org/{z}/{x}/{y}.png"))
     user_agent: str = field(default_factory=lambda: _str("USER_AGENT", "WeatherLinesBot/1.0 (Telegram weather channel bot)"))
@@ -133,6 +140,7 @@ VAR_DIR = Path(_str("VAR_DIR") or ROOT)
 CACHE_DIR = VAR_DIR / "cache"
 OUT_DIR = VAR_DIR / "out"
 SITE_DIR = VAR_DIR / "site"
+PAGES_DIR = VAR_DIR / "pages"
 STRIKES_FILE = VAR_DIR / "strikes.json"
 PRECIP_FILE = VAR_DIR / "precip.npz"
 STATE_FILE = VAR_DIR / "state.json"

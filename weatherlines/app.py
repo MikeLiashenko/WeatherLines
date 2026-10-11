@@ -21,6 +21,7 @@ from .chatbot import ChatBot
 from .cities import load_cities
 from .config import LOG_FILE, PRECIP_FILE, STRIKES_FILE, VAR_DIR, Config, cfg as default_cfg
 from .lightning import BlitzortungClient, StrikeStore
+from .pages import Publisher
 from .site import Site
 from .state import load_state, save_state
 from .storms import Cell, StormTracker
@@ -363,6 +364,8 @@ class Bot:
             self.site.prepare()
             tasks += [self.site.serve(Admin(self).setup), self.site_loop()]
             log.info("админка: http://localhost:%d/admin", cfg.site_port)
+            if cfg.pages_enabled and cfg.pages_remote:
+                tasks.append(Publisher(cfg, self.site).run())
         try:
             await asyncio.gather(*tasks)
         finally:

@@ -9,3 +9,4 @@ bot.log*
 site/
 strikes.json
 precip.npz
+pages/

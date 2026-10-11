@@ -23,6 +23,7 @@ log = logging.getLogger("site")
 
 WEB_DIR = Path(__file__).resolve().parent / "web"
 MAX_STRIKES = 4000  # больше точек браузеру на телефоне рисовать тяжело
+PUBLIC_SPOTTER = {"ru": "Киев", "uk": "Київ", "lat": 50.4501, "lon": 30.5234, "height": 20}
 
 
 def _write(path: Path, data: bytes) -> None:
@@ -46,17 +47,7 @@ class Site:
         """Раскладывает страницу, стили и скрипт; подставляет в страницу тексты на нужном языке."""
         (self.dir / "data").mkdir(parents=True, exist_ok=True)
         (self.dir / "img").mkdir(exist_ok=True)
-        ui = dict(tr(self.cfg.language)["site"])
-        channel = self.cfg.channel_id
-        ui["channel_url"] = f"https://t.me/{channel[1:]}" if channel.startswith("@") else ""
-        ui["window_min"], ui["forecast_min"] = self.cfg.window_min, self.cfg.forecast_min
-        ui["tick_sec"] = self.cfg.storm_tick_sec
-        ui["timezone"] = self.cfg.timezone
-        ui["spotter"] = {"name": self.cfg.spotter_name, "lat": self.cfg.spotter_lat, "lon": self.cfg.spotter_lon,
-                         "height": self.cfg.spotter_height}
-        page = Template((WEB_DIR / "index.html").read_text(encoding="utf-8")).safe_substitute(
-            {**ui, "lang": self.cfg.language, "ui_json": json.dumps(ui, ensure_ascii=False)})
-        _write(self.dir / "index.html", page.encode("utf-8"))
+        _write(self.dir / "index.html", self.page().encode("utf-8"))
         for name in ("style.css", "app.js", "favicon.svg"):
             shutil.copyfile(WEB_DIR / name, self.dir / name)
         try:
@@ -65,6 +56,25 @@ class Site:
             self.posts = {}
         if not (self.dir / "data" / "live.json").exists():
             _write(self.dir / "data" / "live.json", b'{"updated": 0, "strikes": [], "cells": [], "warnings": []}')
+
+    def page(self, public: bool = False) -> str:
+        """Готовая страница сайта. public=True — копия для публикации в интернете: в ней точка съёмки
+        по умолчанию общая (центр Киева), а не личная из .env, и данные считаются устаревшими позже,
+        потому что на хостинг они попадают раз в несколько минут."""
+        cfg = self.cfg
+        ui = dict(tr(cfg.language)["site"])
+        ui["channel_url"] = f"https://t.me/{cfg.channel_id[1:]}" if cfg.channel_id.startswith("@") else ""
+        ui["window_min"], ui["forecast_min"] = cfg.window_min, cfg.forecast_min
+        ui["timezone"] = cfg.timezone
+        if public:
+            ui["spotter"] = dict(PUBLIC_SPOTTER, name=PUBLIC_SPOTTER["uk" if cfg.language == "uk" else "ru"])
+            ui["stale_sec"] = max(900, cfg.pages_interval_min * 60 * 3)
+        else:
+            ui["spotter"] = {"name": cfg.spotter_name, "lat": cfg.spotter_lat, "lon": cfg.spotter_lon,
+                             "height": cfg.spotter_height}
+            ui["stale_sec"] = max(600, cfg.storm_tick_sec * 4)
+        return Template((WEB_DIR / "index.html").read_text(encoding="utf-8")).safe_substitute(
+            {**ui, "lang": cfg.language, "ui_json": json.dumps(ui, ensure_ascii=False)})
 
     def post_age(self, kind: str) -> float:
         """Сколько секунд назад обновлялся раздел (бесконечность, если ещё ни разу)."""

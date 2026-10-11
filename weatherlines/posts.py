@@ -7,7 +7,7 @@ from .config import Config
 from .geo import bearing, compass8
 from .maps import _round_eta
 from .storms import Cell
-from .texts import fmt_time, tr
+from .texts import fmt_time, plural, tr
 
 MAX_PATH_CITIES = 8
 
@@ -42,7 +42,8 @@ def storm_post(cell: Cell, cfg: Config, now: float) -> tuple[str, str]:
         lines.append(t["storm_near"].format(city=escape(cell.nearest.name(lang)), km=max(1, round(cell.nearest_km)),
                                             side=t["dirs_side"][side]))
     trend = t["trend_up"] if cell.trend > 0 else t["trend_down"] if cell.trend < 0 else ""
-    lines.append(t["storm_intensity"].format(level=t["levels"][cell.level], n=cell.n, min=cfg.window_min, trend=trend))
+    lines.append(t["storm_intensity"].format(level=t["levels"][cell.level], n=cell.n, strikes=plural(cell.n, t["strike_forms"]),
+                                             min=cfg.window_min, trend=trend))
 
     if cell.moving:
         key = "storm_moving" if cell.motion_src == "track" else "storm_moving_wind"

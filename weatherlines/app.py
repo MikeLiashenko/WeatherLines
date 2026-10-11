@@ -17,6 +17,7 @@ from . import forecast, maps, posts, radar
 from .admin import Admin
 from .ai import Editor
 from .alerts import Action, StormAlerter
+from .chatbot import ChatBot
 from .cities import load_cities
 from .config import LOG_FILE, PRECIP_FILE, STRIKES_FILE, VAR_DIR, Config, cfg as default_cfg
 from .lightning import BlitzortungClient, StrikeStore
@@ -49,8 +50,10 @@ class Bot:
         self.strings = posts.map_strings(cfg)
         self.active_warnings: list[Warning] = []
         self.site: Site | None = None  # включается в run(); разовые команды (--once) сайт не трогают
-        self.last_cells: list[Cell] = []  # очаги с последнего такта — для админки
+        self.last_cells: list[Cell] = []  # очаги с последнего такта — для админки и ответов в чате
+        self.chat: ChatBot | None = None  # ответы людям в личном чате; включается в run()
         self.precip = radar.load_field(PRECIP_FILE)  # почасовой прогноз осадков — фон для радара
+        self._precip_hour: int | None = None         # за какой час нарисованы карты осадков
 
     # ---------- грозы ----------
 
@@ -82,6 +85,11 @@ class Bot:
         if actions:
             save_state(self.state)
         self.last_cells = cells
+        if self.chat:
+            try:
+                await self.chat.notify(cells, now)
+            except Exception:
+                log.exception("сбой при рассылке личных предупреждений")
         if self.site:
             try:
                 frames = radar.frames(self.precip, self.store.recent(80, now), now)
@@ -199,14 +207,24 @@ class Bot:
         text, photo = await self.make_synoptic()
         await self.telegram.send(await self.editor.polish(text), photo, tag="synoptic")
 
-    async def make_precip(self) -> dict[bool, tuple[str, bytes | None]]:
-        """Обе карты осадков из одного запроса прогноза: за текущий час (ключ True) и на 3 часа (False)."""
-        # Берём с запасом пять часов: первые три идут в карты осадков, все пять — фон для радара до следующего обновления.
-        self.precip = await self.om.precipitation(hours=5)
-        radar.save_field(self.precip, PRECIP_FILE)
+    async def make_precip(self, reuse: bool = False) -> dict[bool, tuple[str, bytes | None]]:
+        """Обе карты осадков из одного запроса прогноза: за текущий час (ключ True) и на 3 часа (False).
+
+        reuse=True — не запрашивать прогноз заново, пока загруженный покрывает ближайшие три часа: так карта
+        «сейчас» каждый час сдвигается на новый час, не расходуя лимит запросов.
+        """
+        field = self.precip if reuse else None
+        hour = int((time.time() - field.start) // 3600) if field is not None else 0
+        if field is None or field.hourly is None or hour < 0 or hour + 3 > len(field.hourly):
+            # Берём с запасом пять часов: их хватает на карты осадков и на фон для радара до следующего запроса.
+            self.precip = field = await self.om.precipitation(hours=5)
+            radar.save_field(field, PRECIP_FILE)
+            hour = 0
+        ahead = field.tail(hour)
+        self._precip_hour = int(time.time() // 3600)
         result = {}
         for current in (True, False):
-            part = self.precip.head(1 if current else 3)
+            part = ahead.head(1 if current else 3)
             nowcast = forecast.build_nowcast(part, self.index, self.cfg, current)
             levels = forecast.PRECIP_LEVELS_HOUR if current else forecast.PRECIP_LEVELS
             photo = await self._render(maps.overview_view(), maps.render_precip, part, levels, self.strings, nowcast.title)
@@ -278,13 +296,19 @@ class Bot:
             await self.make_digest(0)
             await self.make_digest(1)
 
-        jobs = [("rain_now", cfg.site_precip_min, self.make_precip), ("today", cfg.site_forecast_min, forecasts),
+        async def precip() -> None:
+            await self.make_precip(reuse=True)
+
+        jobs = [("rain_now", cfg.site_precip_min, precip), ("today", cfg.site_forecast_min, forecasts),
                 ("synoptic", cfg.site_synoptic_min, self.make_synoptic)]
         retry_at: dict[str, float] = {}
         await asyncio.sleep(5)  # сначала пусть проверятся предупреждения — они попадают в сводку прогноза
         while True:
             for kind, minutes, job in jobs:
-                if self.site.post_age(kind) < minutes * 60 or time.time() < retry_at.get(kind, 0):
+                fresh = self.site.post_age(kind) < minutes * 60
+                if kind == "rain_now":  # карта «сейчас» должна показывать текущий час, а не тот, когда её рисовали
+                    fresh = fresh and self._precip_hour == int(time.time() // 3600)
+                if fresh or time.time() < retry_at.get(kind, 0):
                     continue
                 try:
                     await job()
@@ -331,6 +355,9 @@ class Bot:
         tasks = [self.lightning.run(), self.storm_loop(), self.schedule_loop()]
         if cfg.warnings_poll_min:
             tasks.append(self.warnings_loop())
+        if cfg.live:
+            self.chat = ChatBot(self)
+            tasks.append(self.chat.run())
         if cfg.site_enabled:
             self.site = Site(cfg)
             self.site.prepare()

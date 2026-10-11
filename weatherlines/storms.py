@@ -304,3 +304,23 @@ class StormTracker:
     def in_ukraine(self, cell: Cell) -> bool:
         """Очаг над Украиной (рядом есть украинский город) или идёт на украинские города."""
         return cell.nearest_km <= cell.radius_km + 20 or bool(cell.in_cone)
+
+
+def threat(cell: Cell, lat: float, lon: float, minutes: int) -> tuple[str, float]:
+    """Чем очаг грозит точке: ("over", 0) — гроза уже над ней, ("coming", минут до подхода) — идёт на неё,
+    ("far", км до края очага) — пока не угрожает."""
+    x, y = to_xy(lat, lon, cell.lat, cell.lon)
+    dist = float(np.hypot(x, y))
+    if dist <= cell.radius_km:
+        return "over", 0.0
+    if cell.moving:
+        b = math.radians(cell.bearing)
+        along = float(x * math.sin(b) + y * math.cos(b))
+        cross = abs(float(x * math.cos(b) - y * math.sin(b)))
+        length = cell.cone_length_km(minutes)
+        half = cell.cone_half_width(min(max(along, 0.0), length))
+        if along > 0 and cross <= half and math.hypot(cross, max(along - length, 0.0)) <= half:
+            eta = max(0.0, (along - cell.radius_km) / cell.speed_kmh * 60)
+            if eta <= minutes:
+                return "coming", eta
+    return "far", dist - cell.radius_km

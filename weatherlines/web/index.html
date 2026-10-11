@@ -19,6 +19,7 @@
   </a>
   <nav>
     <a href="#live">$nav_live</a>
+    <a href="#shoot">$nav_shoot</a>
     <a href="#rain">$nav_rain</a>
     <a href="#forecast">$nav_forecast</a>
     <a href="#synoptic">$nav_synoptic</a>
@@ -56,6 +57,40 @@
         <div id="cells"><p class="muted">$status_loading</p></div>
       </aside>
     </div>
+  </section>
+
+  <section id="shoot">
+    <div class="section-head">
+      <h2>$shoot_title</h2>
+      <span class="muted" id="shoot-place"></span>
+    </div>
+    <div class="shoot-grid">
+      <div class="shoot-card idle" id="shoot-card">
+        <p class="shoot-state" id="shoot-state">$status_loading</p>
+        <p class="shoot-text" id="shoot-text"></p>
+        <div class="shoot-controls">
+          <label class="switch"><input type="checkbox" id="shoot-sound"><span>$shoot_sound</span></label>
+          <button type="button" id="shoot-test">$shoot_test</button>
+        </div>
+        <p class="muted small" id="shoot-unlock" hidden>$shoot_unlock</p>
+      </div>
+      <dl class="shoot-details" id="shoot-details"></dl>
+      <form class="shoot-settings" id="shoot-settings">
+        <h3>$set_title</h3>
+        <label>$set_name<input type="text" id="spot-name" maxlength="40"></label>
+        <div class="pair">
+          <label>$set_lat<input type="number" id="spot-lat" step="0.0001" min="-90" max="90"></label>
+          <label>$set_lon<input type="number" id="spot-lon" step="0.0001" min="-180" max="180"></label>
+        </div>
+        <label>$set_height<input type="number" id="spot-height" step="1" min="0" max="9000"></label>
+        <div class="shoot-buttons">
+          <button type="button" id="spot-geo">$set_geo</button>
+          <button type="button" id="spot-pick">$set_map</button>
+          <button type="button" id="spot-reset">$set_reset</button>
+        </div>
+      </form>
+    </div>
+    <p class="muted small shoot-about">$shoot_about</p>
   </section>
 
   <section id="rain" class="post" data-kinds="rain_now,nowcast">

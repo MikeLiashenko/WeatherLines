@@ -52,6 +52,8 @@ class Site:
         ui["window_min"], ui["forecast_min"] = self.cfg.window_min, self.cfg.forecast_min
         ui["tick_sec"] = self.cfg.storm_tick_sec
         ui["timezone"] = self.cfg.timezone
+        ui["spotter"] = {"name": self.cfg.spotter_name, "lat": self.cfg.spotter_lat, "lon": self.cfg.spotter_lon,
+                         "height": self.cfg.spotter_height}
         page = Template((WEB_DIR / "index.html").read_text(encoding="utf-8")).safe_substitute(
             {**ui, "lang": self.cfg.language, "ui_json": json.dumps(ui, ensure_ascii=False)})
         _write(self.dir / "index.html", page.encode("utf-8"))
@@ -84,6 +86,8 @@ class Site:
         home = tracker.in_ukraine(cell)
         item = {
             "id": cell.id, "lat": round(cell.lat, 4), "lon": round(cell.lon, 4), "level": cell.level, "n": cell.n,
+            "radius": round(cell.radius_km, 1), "speed": round(cell.speed_kmh or 0, 1),
+            "bearing": round(cell.bearing) if cell.moving else None,
             "home": home, "circle": _round(circle_polygon(cell.lat, cell.lon, cell.radius_km)),
             "cone": _round(cone_polygon(cell, cfg.forecast_min)) if cell.moving else None,
         }

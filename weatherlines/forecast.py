@@ -100,6 +100,17 @@ class OpenMeteo:
         shape = lat_grid.shape
         return PressureField(GRID_LATS, GRID_LONS, frames[0].reshape(shape), frames[1].reshape(shape))
 
+    async def point(self, lat: float, lon: float) -> dict:
+        """Подробный прогноз для одной точки: сейчас, по часам и на три дня (для ответов в чате)."""
+        return (await self._get(
+            [lat], [lon],
+            current="temperature_2m,apparent_temperature,weather_code,wind_speed_10m,wind_gusts_10m,"
+                    "relative_humidity_2m,pressure_msl,precipitation",
+            hourly="temperature_2m,weather_code,precipitation,precipitation_probability",
+            daily="weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,wind_gusts_10m_max",
+            wind_speed_unit="ms", timezone=self.cfg.timezone, forecast_days=3,
+        ))[0]
+
     async def precipitation(self, hours: int = 3) -> "PrecipField":
         """Сумма осадков за ближайшие hours часов по сетке над Украиной и соседями."""
         lat_grid, lon_grid = np.meshgrid(PRECIP_LATS, PRECIP_LONS, indexing="ij")
@@ -403,6 +414,11 @@ class PrecipField:
     def head(self, hours: int) -> "PrecipField":
         """То же поле, но только за первые hours часов (первый час — это «сейчас»)."""
         return PrecipField.from_hours(self.lats, self.lons, self.hourly[:hours], self.hourly_thunder[:hours], self.start)
+
+    def tail(self, hours: int) -> "PrecipField":
+        """То же поле без первых hours часов — когда они уже прошли."""
+        return PrecipField.from_hours(self.lats, self.lons, self.hourly[hours:], self.hourly_thunder[hours:],
+                                      self.start + 3600 * hours)
 
     def fine(self, k: int = 6) -> tuple[np.ndarray, np.ndarray, np.ndarray]:
         """Сглаженное поле на уплотнённой сетке: (широты, долготы, мм)."""

@@ -1,6 +1,7 @@
 """Отправка постов в Telegram-канал. Без токена (или с DRY_RUN=1) посты сохраняются в папку out/."""
 
 import asyncio
+import json
 import logging
 import re
 import ssl
@@ -43,6 +44,41 @@ class Telegram:
                 continue
             raise RuntimeError(f"Telegram {method}: {body.get('description', body)}")
         raise RuntimeError(f"Telegram {method}: не удалось отправить")
+
+    async def api(self, method: str, **params):
+        """Произвольный метод Bot API. Вложенные структуры (клавиатуры и т. п.) передаются как JSON."""
+        data = {k: v if isinstance(v, str) else json.dumps(v, ensure_ascii=False) for k, v in params.items() if v is not None}
+        return await self._call(method, data)
+
+    async def reply(self, chat_id: int, text: str, photo: bytes | str | None = None, keyboard: dict | None = None) -> dict:
+        """Сообщение пользователю в личный чат. photo — байты картинки или file_id уже загруженной.
+
+        Возвращает отправленное сообщение (из него можно взять file_id картинки для повторной отправки).
+        """
+        sent = None
+        if photo:
+            caption = text if _visible_len(text) <= CAPTION_LIMIT else None
+            if isinstance(photo, str):
+                sent = await self.api("sendPhoto", chat_id=chat_id, photo=photo, caption=caption,
+                                      parse_mode="HTML" if caption else None, reply_markup=keyboard if caption else None)
+            else:
+                def form() -> aiohttp.FormData:
+                    f = aiohttp.FormData()
+                    f.add_field("chat_id", str(chat_id))
+                    f.add_field("photo", photo, filename="map.jpg", content_type="image/jpeg")
+                    if caption:
+                        f.add_field("caption", caption)
+                        f.add_field("parse_mode", "HTML")
+                        if keyboard:
+                            f.add_field("reply_markup", json.dumps(keyboard, ensure_ascii=False))
+                    return f
+
+                sent = await self._call("sendPhoto", form)
+            if caption:
+                return sent
+        message = await self.api("sendMessage", chat_id=chat_id, text=text[:TEXT_LIMIT], parse_mode="HTML",
+                                 link_preview_options={"is_disabled": True}, reply_markup=keyboard)
+        return sent or message
 
     async def check(self) -> str:
         """Проверяет токен и доступ к каналу. Возвращает понятное описание."""

@@ -99,6 +99,12 @@ class Config:
     # Без пароля открывается только с этого компьютера; с паролем — с любого устройства, которому виден сайт.
     admin_password: str = field(default_factory=lambda: _str("ADMIN_PASSWORD"))
 
+    # --- Точка съёмки гроз по умолчанию (блок «Съёмка гроз» на сайте) ---
+    spotter_name: str = field(default_factory=lambda: _str("SPOTTER_NAME", "Киев"))
+    spotter_lat: float = field(default_factory=lambda: _float("SPOTTER_LAT", 50.4501))
+    spotter_lon: float = field(default_factory=lambda: _float("SPOTTER_LON", 30.5234))
+    spotter_height: float = field(default_factory=lambda: _float("SPOTTER_HEIGHT", 20))  # высота над землёй, м
+
     # --- Сайт ---
     site_enabled: bool = field(default_factory=lambda: _bool("SITE_ENABLED", True))
     # 127.0.0.1 — сайт виден только с этого компьютера; 0.0.0.0 — всем в локальной сети.

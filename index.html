@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WeatherLines — грозы и погода в Украине</title>
+<meta name="description" content="Грозы в реальном времени, осадки, прогноз и циклоны">
+<meta name="theme-color" content="#0a0f1a">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <a class="brand" href="#live" aria-label="WeatherLines">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 2 4 13.5h6.2L9 22l10-12.2h-6.4z"/></svg>
+    <span>Weather<b>Lines</b></span>
+  </a>
+  <nav>
+    <a href="#live">Грозы</a>
+    <a href="#shoot">Съёмка</a>
+    <a href="#rain">Осадки</a>
+    <a href="#forecast">Прогноз</a>
+    <a href="#synoptic">Циклоны</a>
+    <a href="#warnings">Предупреждения</a>
+  </nav>
+  <a class="tg" id="tg" href="https://t.me/weatherlines" target="_blank" rel="noopener">Канал в Telegram</a>
+</header>
+
+<main>
+  <section id="live">
+    <div class="section-head">
+      <h1>Грозы сейчас</h1>
+      <p class="status" id="status"><span class="dot"></span><span id="status-text">Загружаю данные…</span></p>
+    </div>
+    <div class="live-grid">
+      <div class="map-wrap">
+        <div id="map"></div>
+        <div class="radar-box" id="radar-box" hidden>
+          <label class="switch"><input type="checkbox" id="radar-on" checked><span>Радар</span></label>
+          <button type="button" id="radar-play" aria-label="Запустить анимацию радара">▶</button>
+          <input type="range" id="radar-slider" min="0" max="12" step="1" value="12" aria-label="Время кадра радара">
+          <output id="radar-time">—</output>
+        </div>
+        <ul class="legend">
+          <li><i class="scale"></i>радар: слабый дождь → гроза</li>
+          <li><i class="strike new"></i>разряд до 5 мин назад</li>
+          <li><i class="strike mid"></i>5–10 мин</li>
+          <li><i class="strike old"></i>10–30 мин</li>
+          <li><i class="zone now"></i>гроза сейчас</li>
+          <li><i class="zone cone"></i><span id="legend-cone"></span></li>
+        </ul>
+      </div>
+      <aside>
+        <h2>Активные грозы</h2>
+        <div id="cells"><p class="muted">Загружаю данные…</p></div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="shoot">
+    <div class="section-head">
+      <h2>Съёмка гроз</h2>
+      <span class="muted" id="shoot-place"></span>
+    </div>
+    <div class="shoot-grid">
+      <div class="shoot-card idle" id="shoot-card">
+        <p class="shoot-state" id="shoot-state">Загружаю данные…</p>
+        <p class="shoot-text" id="shoot-text"></p>
+        <div class="shoot-controls">
+          <label class="switch"><input type="checkbox" id="shoot-sound"><span>Звук тревоги</span></label>
+          <button type="button" id="shoot-test">Проверить звук</button>
+        </div>
+        <p class="muted small" id="shoot-unlock" hidden>Щёлкните в любом месте страницы, чтобы звук заработал — так требует браузер.</p>
+      </div>
+      <dl class="shoot-details" id="shoot-details"></dl>
+      <form class="shoot-settings" id="shoot-settings">
+        <h3>Точка съёмки</h3>
+        <label>Название<input type="text" id="spot-name" maxlength="40"></label>
+        <div class="pair">
+          <label>Широта<input type="number" id="spot-lat" step="0.0001" min="-90" max="90"></label>
+          <label>Долгота<input type="number" id="spot-lon" step="0.0001" min="-180" max="180"></label>
+        </div>
+        <label>Высота над землёй, м<input type="number" id="spot-height" step="1" min="0" max="9000"></label>
+        <div class="shoot-buttons">
+          <button type="button" id="spot-geo">Моя геолокация</button>
+          <button type="button" id="spot-pick">Указать на карте</button>
+          <button type="button" id="spot-reset">Сбросить</button>
+        </div>
+      </form>
+    </div>
+    <p class="muted small shoot-about">Расчёт идёт по разрядам молний за последние минуты. Горизонт считается по вашей высоте и кривизне Земли; нижняя граница грозового облака принята за 1,5 км, вершина — за 10 км. Дальность съёмки ограничена видимостью по модели Open-Meteo. Дома, деревья и рельеф не учитываются. Тревога звучит, пока эта страница открыта.</p>
+  </section>
+
+  <section id="rain" class="post" data-kinds="rain_now,nowcast">
+    <div class="section-head">
+      <h2>Осадки</h2>
+      <div class="tabs" role="tablist">
+        <button role="tab" data-kind="rain_now">Сейчас</button>
+        <button role="tab" data-kind="nowcast">Ближайшие 3 часа</button>
+      </div>
+    </div>
+    <div class="panel"></div>
+  </section>
+
+  <section id="forecast" class="post" data-kinds="today,tomorrow">
+    <div class="section-head">
+      <h2>Прогноз погоды</h2>
+      <div class="tabs" role="tablist">
+        <button role="tab" data-kind="today">Сегодня</button>
+        <button role="tab" data-kind="tomorrow">Завтра</button>
+      </div>
+    </div>
+    <div class="panel"></div>
+  </section>
+
+  <section id="synoptic" class="post" data-kinds="synoptic">
+    <div class="section-head"><h2>Циклоны и давление</h2></div>
+    <div class="panel"></div>
+  </section>
+
+  <section id="warnings">
+    <div class="section-head"><h2>Предупреждения Укргидрометцентра</h2></div>
+    <div id="warning-list"><p class="muted">Загружаю данные…</p></div>
+  </section>
+</main>
+
+<footer>
+  <p>Радар WeatherLines — расчётный: дождь по прогнозной модели, грозовые ядра по разрядам молний. Конус движения грозы — простая экстраполяция, а не официальный прогноз: грозы меняют курс, распадаются и возникают заново. Карты осадков — оценка погодной модели, не радар. Сайт дополняет предупреждения Укргидрометцентра, но не заменяет их.</p>
+  <p class="muted">Молнии — Blitzortung.org · прогноз — Open-Meteo · предупреждения — Укргидрометцентр (MeteoAlarm) · карта © OpenStreetMap</p>
+</footer>
+
+<script>window.UI = {"title": "WeatherLines — грозы и погода в Украине", "tagline": "Грозы в реальном времени, осадки, прогноз и циклоны", "nav_live": "Грозы", "nav_rain": "Осадки", "nav_forecast": "Прогноз", "nav_synoptic": "Циклоны", "nav_warnings": "Предупреждения", "telegram": "Канал в Telegram", "nav_shoot": "Съёмка", "shoot_title": "Съёмка гроз", "shoot_place": "{name} · высота {h} м", "shoot_idle": "Снимать пока нечего", "shoot_idle_far": "Ближайшие разряды — в {km} км {dir}.", "shoot_idle_none": "В радиусе {km} км разрядов нет.", "shoot_glow": "Зарницы на горизонте", "shoot_glow_text": "Гроза в {km} км {dir}: вспышки видны, но для съёмки самих молний далеко.", "shoot_ready": "Готовьтесь: гроза подходит", "shoot_ready_text": "Войдёт в зону съёмки примерно через {eta} мин. Сейчас ближайшие разряды в {km} км {dir}.", "shoot_go": "Снимайте!", "shoot_go_text": "Гроза в {km} км {dir}. Камеру на азимут {az}°. Разрядов за 5 мин в зоне съёмки: {n}.", "shoot_danger": "Опасно: гроза рядом", "shoot_danger_text": "Разряд в {km} км от вас. Снимайте только из помещения — не с крыши и не с открытого балкона.", "shoot_sound": "Звук тревоги", "shoot_test": "Проверить звук", "shoot_unlock": "Щёлкните в любом месте страницы, чтобы звук заработал — так требует браузер.", "d_nearest": "Ближайший разряд", "d_count": "Разрядов за 5 мин в зоне съёмки", "d_aim": "Куда направить камеру", "d_channel": "Видимая часть молнии", "d_top": "Вершина облака над горизонтом", "d_range": "Зона съёмки сейчас", "d_horizon": "Ваш горизонт", "d_sky": "У вас сейчас", "v_km": "{km} км", "v_ago": "{min} мин назад", "v_aim": "{az}° — {dir}, {km} км", "v_channel": "{pct}% (за горизонтом скрыто {m} м)", "v_top": "{deg}°", "v_range": "{a}–{b} км", "sky_night": "ночь", "sky_day": "день", "sky_vis": "видимость {km} км", "sky_rain": "осадки {mm} мм", "sky_dry": "без осадков", "set_title": "Точка съёмки", "set_name": "Название", "set_lat": "Широта", "set_lon": "Долгота", "set_height": "Высота над землёй, м", "set_geo": "Моя геолокация", "set_geo_fail": "Геолокация недоступна", "set_map": "Указать на карте", "set_map_hint": "Щёлкните по карте…", "set_reset": "Сбросить", "set_here": "Моя геолокация", "set_point": "Точка на карте", "dirs_where": ["на севере", "на северо-востоке", "на востоке", "на юго-востоке", "на юге", "на юго-западе", "на западе", "на северо-западе"], "shoot_about": "Расчёт идёт по разрядам молний за последние минуты. Горизонт считается по вашей высоте и кривизне Земли; нижняя граница грозового облака принята за 1,5 км, вершина — за 10 км. Дальность съёмки ограничена видимостью по модели Open-Meteo. Дома, деревья и рельеф не учитываются. Тревога звучит, пока эта страница открыта.", "live_title": "Грозы сейчас", "status_loading": "Загружаю данные…", "status_ok": "Обновлено в {time} · разрядов за {min} мин: {n} · очагов над Украиной: {cells}", "status_stale": "Данные не обновляются с {time} — бот сейчас не на связи", "status_error": "Не удалось загрузить данные", "cells_title": "Активные грозы", "cells_none": "Гроз над Украиной сейчас нет.", "cell_abroad": "За пределами Украины: {level} гроза", "cell_abroad_text": "Разрядов за {min} мин: {n}. Украинским городам пока не угрожает.", "legend_new": "разряд до 5 мин назад", "legend_mid": "5–10 мин", "legend_old": "10–30 мин", "legend_now": "гроза сейчас", "legend_cone": "куда придёт за {min} мин", "radar": "Радар", "radar_play": "Запустить анимацию радара", "radar_pause": "Остановить анимацию", "radar_slider": "Время кадра радара", "legend_radar": "радар: слабый дождь → гроза", "radar_about": "Радар WeatherLines — расчётный: дождь по прогнозной модели, грозовые ядра по разрядам молний.", "rain_title": "Осадки", "rain_now": "Сейчас", "nowcast": "Ближайшие 3 часа", "forecast_title": "Прогноз погоды", "today": "Сегодня", "tomorrow": "Завтра", "synoptic_title": "Циклоны и давление", "warnings_title": "Предупреждения Укргидрометцентра", "warnings_none": "Действующих предупреждений нет.", "warn_level": "уровень", "updated": "обновлено в {time}", "pending": "Карта готовится — появится через несколько минут.", "disclaimer": "Конус движения грозы — простая экстраполяция, а не официальный прогноз: грозы меняют курс, распадаются и возникают заново. Карты осадков — оценка погодной модели, не радар. Сайт дополняет предупреждения Укргидрометцентра, но не заменяет их.", "sources": "Молнии — Blitzortung.org · прогноз — Open-Meteo · предупреждения — Укргидрометцентр (MeteoAlarm) · карта © OpenStreetMap", "channel_url": "https://t.me/weatherlines", "window_min": 10, "forecast_min": 60, "timezone": "Europe/Kyiv", "spotter": {"ru": "Киев", "uk": "Київ", "lat": 50.4501, "lon": 30.5234, "height": 20, "name": "Киев"}, "stale_sec": 1080};</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
